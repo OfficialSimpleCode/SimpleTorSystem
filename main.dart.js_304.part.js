@@ -74,8 +74,8 @@ u=$.aX.n()
 t=E.mo(p,new C.dtP(d),new C.dtQ(q,d),!0,!0,p)
 s=A.z(A.k("pichTreatment",p,p,!0),p,!1,!1,p,!1,!1,p,!1,!1,!1,!1,1,p,!1,!1,!1,19,p,"")
 r=A.z(A.k("pichTreatmentExplain",p,p,!0),B.o,!1,!1,p,!1,!1,p,!1,!1,!1,!1,0.7,p,!1,!1,!1,15,p,"")
-return A.ak(p,A.G(A.a([t,s,new A.l(p,6,p,p),r,A.b1(A.cRR(x)===0?q.apS(d,x):new A.F(q.d,new C.dtR(q,w),p,p,y.w),1)],y.u),B.d,B.h,B.c),B.m,v.ax.k2,p,p,p,u*0.6,p,p,p,p,p,p)},
-apS(d,e){var x=null,w=A.z(A.k("noTreatments",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,17,x,""),v=A.p(d),u=y.u,t=A.a0(A.a([new A.aF(B.bk,24,!1,1,!0,!1,!1,x,x),new A.l(6,x,x,x),A.z(A.k("addTreatments",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,15,x,"")],u),B.d,B.w,B.c),s=$.an?$.eN.n()*0.6:$.ad.n()*0.6
+return A.ak(p,A.G(A.a([t,s,new A.l(p,6,p,p),r,A.b1(A.cRR(x)===0?q.apQ(d,x):new A.F(q.d,new C.dtR(q,w),p,p,y.w),1)],y.u),B.d,B.h,B.c),B.m,v.ax.k2,p,p,p,u*0.6,p,p,p,p,p,p)},
+apQ(d,e){var x=null,w=A.z(A.k("noTreatments",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,17,x,""),v=A.p(d),u=y.u,t=A.a0(A.a([new A.aF(B.bk,24,!1,1,!0,!1,!1,x,x),new A.l(6,x,x,x),A.z(A.k("addTreatments",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,15,x,"")],u),B.d,B.w,B.c),s=$.an?$.eN.n()*0.6:$.ad.n()*0.6
 return A.G(A.a([new A.l(x,100,x,x),w,new A.l(x,13,x,x),A.ac(x,x,x,x,t,v.ax.y,x,0,!1,x,x,x,x,!1,new C.dtS(d,e),x,new A.w(0,10,0,10),x,x,!1,!1,!1,s)],u),B.d,B.h,B.c)}}
 var z=a.updateTypes(["YL(x,D)"])
 C.cQM.prototype={
@@ -137,4 +137,4 @@ w(A.de,[C.dtO,C.dtN])})()
 A.bp(b.typeUniverse,JSON.parse('{"YL":{"t":[],"j":[]},"agH":{"a6":[],"j":[]},"biU":{"a7":["agH"]}}'))
 var y={u:A.B("H<j>"),w:A.B("F<n?>"),l:A.B("N<n?>"),z:A.B("m6"),b:A.B("@"),v:A.B("~")};(function constants(){D.aRm=new A.w(10,20,10,0)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_304",e:"endPart",h:b})})($__dart_deferred_initializers__,"LCpiNvupBm6Q1mGDOu5UVBwrwMs=");
+a.eventLog.push({p:"main.dart.js_304",e:"endPart",h:b})})($__dart_deferred_initializers__,"Tno2UnwD0pP2VR6FkziO6/fFW9s=");

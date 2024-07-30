@@ -57,7 +57,7 @@ gcoz(){var x=A.a([],y.e)
 J.ah($.aA().e2$.a,new B.bI7(x))
 x.push(new A.l(null,50,null,null))
 return x},
-gad2(){var x={}
+gad0(){var x={}
 x.a=0
 J.ah($.aA().e2$.a,new B.bI6(x))
 return x.a}}
@@ -101,7 +101,7 @@ B.bI3.prototype={
 $2(d,e){this.b.push(new B.awS(e,this.a.c,d,null))},
 $S:35}
 B.bI5.prototype={
-$3(d,e,f){var x=null,w=$.aX.n(),v=this.a,u=A.z(A.k("pickTreatment",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,""),t=A.z(A.k("pickTreatmentForSpecifiChange",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),s=A.k("totalTimeOfBooking",x,x,!1),r=A.hC(A.O(0,0,0,0,v.gad2(),0),x,-1),q=y.e
+$3(d,e,f){var x=null,w=$.aX.n(),v=this.a,u=A.z(A.k("pickTreatment",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,""),t=A.z(A.k("pickTreatmentForSpecifiChange",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),s=A.k("totalTimeOfBooking",x,x,!1),r=A.hC(A.O(0,0,0,0,v.gad0(),0),x,-1),q=y.e
 return A.ak(x,A.dN(A.G(A.a([A.G(A.a([new A.l(x,10,x,x),u,new A.l(x,7,x,x),t,new A.l(x,10,x,x),A.z(A.L(s,"DURATION",r),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,"")],q),C.d,C.h,C.c),A.G(v.gcoz(),C.d,C.h,C.c)],q),C.d,C.h,C.c),x,C.t,C.Q,x,x,x,C.B),C.m,x,new A.aU(0,1/0,0,w*0.7),x,x,x,x,x,x,x,x,x)},
 $S:1750}
 B.bI7.prototype={
@@ -118,4 +118,4 @@ w(B.bI5,A.bP)})()
 A.bp(b.typeUniverse,JSON.parse('{"awS":{"t":[],"j":[]},"awT":{"t":[],"j":[]},"awU":{"t":[],"j":[]}}'))
 var y={e:A.B("H<j>"),p:A.B("au"),a:A.B("F<a1<n,fd>>"),f:A.B("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_178",e:"endPart",h:b})})($__dart_deferred_initializers__,"a64pEc3O6O1BNygQeYrALREmAGs=");
+a.eventLog.push({p:"main.dart.js_178",e:"endPart",h:b})})($__dart_deferred_initializers__,"eBAb3TNsFhMOhbFYSSFRO9NGAVQ=");

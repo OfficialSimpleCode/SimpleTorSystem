@@ -17,7 +17,7 @@ case 3:x=$.an?7:9
 break
 case 7:A.be("createInvoicePage")
 x=10
-return A.b(A.kr(null,D.e4C(d,f,g,h),e,null),$async$Ri)
+return A.b(A.kr(null,D.e4B(d,f,g,h),e,null),$async$Ri)
 case 10:u=j
 x=8
 break
@@ -50,9 +50,9 @@ var z=a.updateTypes(["KZ(x)"])
 C.dLc.prototype={
 $1(d){var x=this
 A.be("createInvoicePage")
-return D.e4C(x.a,x.c,x.d,x.b)},
+return D.e4B(x.a,x.c,x.d,x.b)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.dLc,A.bP)})()
 var y={d:A.B("eo"),e:A.B("eo?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_149",e:"endPart",h:b})})($__dart_deferred_initializers__,"Nkkf6UsF5A1SSH6GMYt+kwrVuNI=");
+a.eventLog.push({p:"main.dart.js_149",e:"endPart",h:b})})($__dart_deferred_initializers__,"fSAtoItgd8SKCnk27WRRkm723Co=");

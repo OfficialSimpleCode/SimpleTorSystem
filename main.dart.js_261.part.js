@@ -83,7 +83,7 @@ break
 case 4:case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:507};(function installTearOffs(){var x=a._static_1
-x(C,"eiO","e__",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(C,"eiN","e__",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.t,[C.a9_,C.a3G])
 x(A.bP,[C.bEn,C.bEo])
 w(C.bEp,A.bs)})()
@@ -91,4 +91,4 @@ A.bp(b.typeUniverse,JSON.parse('{"a9_":{"t":[],"j":[]},"a3G":{"t":[],"j":[]}}'))
 var y={e:A.B("H<j>"),m:A.B("l2"),g:A.B("n"),h:A.B("I?")};(function constants(){D.aUv=new A.aL(58728,"MaterialIcons",null,!1)
 D.aV9=new A.aL(62283,"MaterialIcons",null,!1)})();(function staticFields(){$.eOf=A.a(["trains","haircut","anatomicBuilding","pilatisMachines","yoga","hairMaster","nailsMaster","coach"],A.B("H<n>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_261",e:"endPart",h:b})})($__dart_deferred_initializers__,"5xU9xt6Gcwjk1XmFu0CrHG/NOIU=");
+a.eventLog.push({p:"main.dart.js_261",e:"endPart",h:b})})($__dart_deferred_initializers__,"ouwV+HjvmT3Ig5StrMXn8BoZ8Z4=");

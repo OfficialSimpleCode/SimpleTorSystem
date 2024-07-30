@@ -49,13 +49,13 @@ x.e=x.e-v.a
 if(v instanceof A.vJ)C.b.N(x.a,v)
 else if(v instanceof A.KK)x.c=null
 else if(v instanceof A.vu)C.b.N(x.d,v)},
-efL(d){var x=null,w="mustIncludeDigit",v=d.length
+efK(d){var x=null,w="mustIncludeDigit",v=d.length
 if(v>2)return A.k("toLong",x,x,!0)
 if(v===0)return A.k(w,x,x,!0)
 v=A.cl("[0-9]",!0,!1,!1)
 if(!v.b.test(d))return A.k(w,x,x,!0)
 return x},
-efK(d){var x,w=null
+efJ(d){var x,w=null
 if(d.length===3){x=A.cl("[0-9]",!0,!1,!1)
 x=!x.b.test(d)}else x=!0
 if(x)return A.k("illegalNumber",w,w,!0)
@@ -232,9 +232,9 @@ q=x.ay
 q===$&&A.c()
 p=y.p
 return A.ak(n,A.j5(A.lM(0,n,n,C.x,n,C.t,n,C.Q,n,n,n,!1,n,C.B,!1,A.a([new A.aTu(A.G(A.a([new D.vS(v,n),u,new A.l(n,10,n,n),new D.vS(t,n),r,new A.l(n,10,n,n),new D.vS(s,n),F.Dt(!1,!0,new B.btp(o),n,q,1.3,!0,!0,!0),new A.pk(n),new A.P(new A.w(0,20,0,$.aX.n()*0.03),new B.RQ(new B.btq(o,d),n),n)],p),C.d,C.h,C.c),!1,n)],p)),w),C.m,n,n,n,n,n,n,n,new A.w(10,5,10,5),n,n,n)},
-aqR(d,e){return this.c4B(d,e)},
+aqP(d,e){return this.c4B(d,e)},
 c4B(d,e){var x=0,w=A.i(y.H),v,u,t,s,r,q,p,o,n,m
-var $async$aqR=A.d(function(f,g){if(f===1)return A.e(g,w)
+var $async$aqP=A.d(function(f,g){if(f===1)return A.e(g,w)
 while(true)switch(x){case 0:if(e.a.a===0){x=1
 break}u=$.dC()
 t=u.cy
@@ -277,15 +277,15 @@ s.a.push(m)
 u.a.C()
 A.R(d,!1).S(m)
 case 1:return A.f(v,w)}})
-return A.h($async$aqR,w)},
+return A.h($async$aqP,w)},
 glL(){var x=$.dC(),w=x.ay
 w===$&&A.c()
 w=w.a.a
 if(w>0)if(x.at>=w){w=x.db
 w===$&&A.c()
-if(B.efL(w.a.a)==null){w=x.dx
+if(B.efK(w.a.a)==null){w=x.dx
 w===$&&A.c()
-if(B.efK(w.a.a)==null){w=x.dy
+if(B.efJ(w.a.a)==null){w=x.dy
 w===$&&A.c()
 if(B.dZc(w.a.a)==null){w=x.fr
 w===$&&A.c()
@@ -311,11 +311,11 @@ w=A.a0(A.a([p,new A.l(10,r,r,r),A.b1(A.dP(!1,r,!1,v,r,r,r,r,r,r,B.eU1(),r,w,r,r,
 v=A.k("AccountNumber",r,r,!0)
 p=x.dy
 p===$&&A.c()
-v=A.b1(A.dP(!1,r,!1,p,r,r,r,r,r,r,B.eiL(),r,v,r,r,r,r,new B.btt(s),r,r,r,!1,r,r,!0,r,r,!1,!0,!0,!0,!0,r,r,C.iy),1)
+v=A.b1(A.dP(!1,r,!1,p,r,r,r,r,r,r,B.eiK(),r,v,r,r,r,r,new B.btt(s),r,r,r,!1,r,r,!0,r,r,!1,!0,!0,!0,!0,r,r,C.iy),1)
 p=A.k("CheckNumber",r,r,!0)
 t=x.fr
 t===$&&A.c()
-return A.ac(r,r,r,r,A.G(A.a([w,new A.l(r,10,r,r),A.a0(A.a([v,new A.l(10,r,r,r),A.b1(A.dP(!1,r,!1,t,r,r,r,r,r,r,B.eiL(),r,p,r,r,r,r,new B.btu(s),r,r,r,!1,r,r,!0,r,r,!1,!0,!0,!0,!0,r,r,C.iy),1)],u),C.d,C.h,C.c)],u),C.d,C.w,C.c),q,r,0,!1,r,r,r,r,!1,r,r,new A.w(10,5,10,30),8,r,!1,!1,!1,r)}}
+return A.ac(r,r,r,r,A.G(A.a([w,new A.l(r,10,r,r),A.a0(A.a([v,new A.l(10,r,r,r),A.b1(A.dP(!1,r,!1,t,r,r,r,r,r,r,B.eiK(),r,p,r,r,r,r,new B.btu(s),r,r,r,!1,r,r,!0,r,r,!1,!0,!0,!0,!0,r,r,C.iy),1)],u),C.d,C.h,C.c)],u),C.d,C.w,C.c),q,r,0,!1,r,r,r,r,!1,r,r,new A.w(10,5,10,30),8,r,!1,!1,!1,r)}}
 B.RQ.prototype={
 m(d){var x=$.dC().ch
 x===$&&A.c()
@@ -429,7 +429,7 @@ $S:78}
 B.btq.prototype={
 $0(){var x=$.dC().ay
 x===$&&A.c()
-return this.a.aqR(this.b,x)},
+return this.a.aqP(this.b,x)},
 $S:1}
 B.btr.prototype={
 $1(d){return this.a.Z4()},
@@ -447,9 +447,9 @@ B.btT.prototype={
 $3(d,e,f){var x=null,w=e?1:0.6,v=$.ad.n(),u=$.dC(),t=A.z(A.k(u.ax==null?"add":"update",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,19,x,""),s=u.ax==null?C.bk:C.bo
 return A.ac(C.j,x,x,x,A.a0(A.a([t,new A.l(5,x,x,x),new A.aF(s,22,!1,1,!0,!1,!1,x,x)],y.p),C.d,C.w,C.c),A.p(d).ax.y,x,0,!1,x,x,x,x,!1,this.a.c,w,new A.w(0,10,0,10),8,x,!1,!1,!1,v*0.8)},
 $S:149};(function installTearOffs(){var x=a._static_1
-x(B,"eU2","efL",0)
-x(B,"eU1","efK",0)
-x(B,"eiL","dZc",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B,"eU2","efK",0)
+x(B,"eU1","efJ",0)
+x(B,"eiK","dZc",0)})();(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.a2i,A.a6)
 x(B.b00,A.a7)
 w(A.bs,[B.d3O,B.bt8,B.bt7,B.bt9,B.btn,B.btm,B.btq])
@@ -461,4 +461,4 @@ var y=(function rtii(){var x=A.B
 return{Q:x("vu"),p:x("H<j>"),w:x("aW<k4>"),t:x("wq"),z:x("F<I>"),f:x("N<u>"),v:x("N<bY>"),G:x("N<I>"),l:x("j"),b:x("du<m?>"),A:x("@"),H:x("~")}})();(function constants(){E.aQY=new A.w(0,15,0,10)
 E.b8v=new A.bc([C.AD,"assets/paypal_logo.webp",C.o_,"assets/bit_logo.webp",C.AE,"assets/paybox_logo.webp",C.AF,"assets/icons/more-information.webp"],A.B("bc<wq,n>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_102",e:"endPart",h:b})})($__dart_deferred_initializers__,"OHMV9pcL5vTXCxEunJJF5VGlSXA=");
+a.eventLog.push({p:"main.dart.js_102",e:"endPart",h:b})})($__dart_deferred_initializers__,"U4oACuo+D29s194rqb2o0lcaVU8=");

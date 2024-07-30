@@ -27,7 +27,7 @@ cjU:function cjU(d){this.a=d},
 aVC:function aVC(d,e,f){this.c=d
 this.d=e
 this.a=f},
-ei8(d){if(d.length>50)return A.k("toLong",null,null,!0)
+ei7(d){if(d.length>50)return A.k("toLong",null,null,!0)
 else return null}}
 J=c[1]
 A=c[0]
@@ -101,7 +101,7 @@ return D.Cr(u,"assets/animations/products.json.zip",t,new B.dmD(this),x,v,w)},
 cr0(){var x,w=A.ld($.J().a.x1)
 w.b=this.e.a
 x=this.d
-if(B.ei8(x.a.a)==null)w.w=x.a.a
+if(B.ei7(x.a.a)==null)w.w=x.a.a
 $.ay.x2$.push(new B.dmE(w))}}
 B.aPc.prototype={
 m(d){var x=null
@@ -139,7 +139,7 @@ x=A.p(d).ax.k3
 return A.bB(w,w,u.cb(A.Q(C.f.W(178.5),x.gi(x)>>>16&255,x.gi(x)>>>8&255,x.gi(x)&255),13),v)}}
 B.aVC.prototype={
 m(d){var x=null,w=y.p
-return A.b7(!0,C.j,x,C.T,x,x,A.G(A.a([A.G(A.a([new A.l(x,10,x,x),A.z(A.k("productsTitle",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,15,x,""),new A.P(F.Nj,A.dP(!1,x,!1,this.c,x,x,x,x,A.k("ourProducts",x,x,!0),x,B.eUk(),x,x,x,x,x,x,x,x,x,x,!0,x,x,!1,x,x,!1,!1,!0,!0,!0,A.bN(C.bo,x,x,x,x),x,C.az),x)],w),C.d,C.h,C.c),A.cP(x,0,1),E.e3j(this.d,A.k("productViewExplain",x,x,!1))],w),C.d,C.h,C.c),x,0,"",x,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
+return A.b7(!0,C.j,x,C.T,x,x,A.G(A.a([A.G(A.a([new A.l(x,10,x,x),A.z(A.k("productsTitle",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,15,x,""),new A.P(F.Nj,A.dP(!1,x,!1,this.c,x,x,x,x,A.k("ourProducts",x,x,!0),x,B.eUk(),x,x,x,x,x,x,x,x,x,x,!0,x,x,!1,x,x,!1,!1,!0,!0,!0,A.bN(C.bo,x,x,x,x),x,C.az),x)],w),C.d,C.h,C.c),A.cP(x,0,1),E.e3i(this.d,A.k("productViewExplain",x,x,!1))],w),C.d,C.h,C.c),x,0,"",x,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
 var z=a.updateTypes(["n?(n?)"])
 B.cxv.prototype={
 $3(d,e,f){var x=null,w=this.a,v=w.c,u=J.av(v.a),t=J.fl(v.a),s=A.k("deleteTheMarkedProducts",x,x,!0)
@@ -194,7 +194,7 @@ $S:0}
 B.cjU.prototype={
 $0(){return A.mR(this.a,A.k("upgradeTheSubAndGetMoreProducts",null,null,!0),!1,!0)},
 $S:0};(function installTearOffs(){var x=a._static_1
-x(B,"eUk","ei8",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(B,"eUk","ei7",0)})();(function inheritance(){var x=a.inheritMany,w=a.inherit
 x(A.t,[B.aPe,B.aPc,B.aMB,B.aVC])
 x(A.bP,[B.cxv,B.cxw,B.dmB,B.dmE])
 x(A.bs,[B.cxu,B.cxx,B.cxy,B.dmC,B.dmD,B.cxp,B.cjU])
@@ -204,4 +204,4 @@ A.bp(b.typeUniverse,JSON.parse('{"aPe":{"t":[],"j":[]},"acc":{"a6":[],"j":[]},"b
 var y=(function rtii(){var x=A.B
 return{T:x("H<a8<@>>"),R:x("H<p7>"),p:x("H<j>"),P:x("au"),C:x("l2"),N:x("n"),D:x("F<ml>"),z:x("F<c5<n>>"),l:x("N<ml>"),M:x("N<c5<n>>"),y:x("I"),A:x("@"),u:x("I?"),H:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_280",e:"endPart",h:b})})($__dart_deferred_initializers__,"hAW77Vn4ZLoWIphhnva2cauC2yQ=");
+a.eventLog.push({p:"main.dart.js_280",e:"endPart",h:b})})($__dart_deferred_initializers__,"cEkt/JgU2JpA5cQQ4X8eoEzEzrQ=");

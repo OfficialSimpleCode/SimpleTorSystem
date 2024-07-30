@@ -21,9 +21,9 @@ C.aVV.prototype={
 m(d){var x=null,w=this.bXm(d),v=y.a
 return A.G(A.a([new A.P(D.N4,A.G(A.a([A.z(A.k("totalMoney",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,16,x,""),A.z(A.k("thisRegion",x,x,!1),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.5,x,!1,!1,!1,15,x,"")],v),B.d,B.h,B.c),x),A.G(w,B.d,B.h,B.c),new A.l(x,30,x,x)],v),B.d,B.h,B.c)},
 bXm(d){var x=$.J().b,w=A.a([],y.a)
-B.b.q(this.ag4(),new C.cPB(this,x,w,d))
+B.b.q(this.ag2(),new C.cPB(this,x,w,d))
 return w},
-ag4(){var x=$.J().b,w=A.M(x).k("aw<1>")
+ag2(){var x=$.J().b,w=A.M(x).k("aw<1>")
 w=A.af(new A.aw(x,w),!0,w.k("Z.E"))
 B.b.c5(w,new C.cPD(x))
 return w},
@@ -89,4 +89,4 @@ w(A.de,[C.cPD,C.cPC])})()
 A.bp(b.typeUniverse,JSON.parse('{"aVV":{"t":[],"j":[]}}'))
 var y={a:A.B("H<j>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_82",e:"endPart",h:b})})($__dart_deferred_initializers__,"I9lGfNdWnNUKnlgwlcBr8xK+obc=");
+a.eventLog.push({p:"main.dart.js_82",e:"endPart",h:b})})($__dart_deferred_initializers__,"p2MMmEeKjtRPh+0DFqPZNq0IHZs=");
