@@ -1,70 +1,84 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_61",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={aOV:function aOV(d,e,f){this.c=d
-this.d=e
-this.a=f},cwn:function cwn(d,e){this.a=d
-this.b=e},cwo:function cwo(d,e){this.a=d
-this.b=e}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+cze(d,e,f,g,h){return new B.a5z(h,e,d,g,f,null)},
+a5z:function a5z(d,e,f,g,h,i){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.a=i},
+byi:function byi(d){var _=this
+_.d=$
+_.e=10
+_.a=null
+_.b=d
+_.c=null},
+dI4:function dI4(d){this.a=d},
+dI3:function dI3(d){this.a=d},
+dI2:function dI2(){}}
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[149],B)
-D=c[293]
-B.aOV.prototype={
-m(d){var x,w,v,u,t,s,r,q=this,p=null,o=$.ad.n(),n=A.bm(p,p,p,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
-if(q.d)x="recommendedToUpdateBeforePurchace"
-else x=q.c?"recommendedToUpdateBeforeChange":"recommendedToUpdate"
-x=A.k(x,p,p,!1)
-w=A.p(d).p2.z
+B=a.updateHolder(c[7],B)
+B.a5z.prototype={
+a2(){return new B.byi(C.v)}}
+B.byi.prototype={
+ag5(){this.d=A.Up(C.dm,new B.dI4(this))},
+ar(){this.ag5()
+this.aC()},
+v(){var x=this.d
+x===$&&A.j()
+x.b0(0)
+this.aR()},
+n(d){var x,w,v,u,t=this,s=null
+A.bV(d,!0,y.f)
+x=t.d
+x===$&&A.j()
+x.b0(0)
+$.pD()
+x=y.e
+w=A.b([A.j6(s,C.cl,A.l("PickPlanExpalnation",s,s,!0))],x)
+v=t.a
+if(v.d)v=A.l("changePlan",s,s,!0)
+else v=v.c?A.l("purchaseWorker",s,s,!0):A.l("purchaseBusiness",s,s,!0)
+v=A.eq(w,s,s,s,s,!1,s,A.bw(A.C(v,s,!1,!1,s,!1,!1,s,!1,!1,!1,!1,1,s,!1,!1,!1,16,s,""),s,s),!0)
+w=t.c
 w.toString
-v=A.p(d).ax
-u=v.T
-v=u==null?v.k3:u
-u=C.f.W(178.5)
-x=A.bB(p,p,w.cb(A.Q(u,v.gi(v)>>>16&255,v.gi(v)>>>8&255,v.gi(v)&255),12),x)
-v=A.k("policy",p,p,!0)
-w=A.pn(p,p)
-w.bH=new B.cwn(q,d)
-t=A.p(d).p2.z
-t.toString
-v=A.bB(p,w,t.cb(A.p(d).ax.y,12),v)
-t=A.k("andIn",p,p,!1)
-w=A.p(d).p2.z
-w.toString
-s=A.p(d).ax
-r=s.T
-s=r==null?s.k3:r
-t=A.bB(p,p,w.cb(A.Q(u,s.gi(s)>>>16&255,s.gi(s)>>>8&255,s.gi(s)&255),12)," "+t)
-s=A.k("termToUse",p,p,!0)
-u=A.pn(p,p)
-u.bH=new B.cwo(q,d)
-w=A.p(d).p2.z
-w.toString
-return new A.P(D.aQR,new A.l(o*0.7,p,A.oM(p,p,C.aT,p,p,!0,p,A.bB(A.a([x,v,t,A.bB(p,u,w.cb(A.p(d).ax.y,12),s)],y.a),p,n,p),C.o,p,p,C.a0,C.a_),p),p)},
-za(d){return this.chW(d)},
-chW(d){var x=0,w=A.i(y.f)
-var $async$za=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:x=2
-return A.b(A.pw(d,!0,"https://simpletor.app/privacy",!0),$async$za)
-case 2:return A.f(null,w)}})
-return A.h($async$za,w)},
-zb(d){return this.ci5(d)},
-ci5(d){var x=0,w=A.i(y.f)
-var $async$zb=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:x=2
-return A.b(A.pw(d,!0,"https://simpletor.app/terms-of-use",!0),$async$zb)
-case 2:return A.f(null,w)}})
-return A.h($async$zb,w)}}
+w=A.r(w)
+u=$.ag.m()
+x=A.ad(C.l,s,s,s,A.I(A.b([new A.n(u*0.5,s,A.aU(A.l("thereIsNoProductsInWeb",s,s,!0),s,s,s,s,s,s,C.t,s,s,s,s),s),t.cic()],x),C.e,C.G,C.d),w.ax.k2,s,0,!1,s,s,s,s,!1,s,s,s,s,s,!1,!1,!1,s)
+x=A.dd(v,s,x,s,!1,s,23,!1,!1,s,!1,!0)
+return x},
+cic(){var x,w=null,v=this.c
+v.toString
+v=A.r(v).ax
+x=v.ad
+v=x==null?v.k2:x
+return A.ck(C.l,A.ad(C.l,w,w,w,A.aU(A.l("openOnappStore",w,w,!0),w,w,w,w,w,w,C.t,w,w,w,w),v,w,0,!1,w,w,w,new A.z(0,20,0,0),!1,new B.dI2(),w,new A.z(20,10,20,10),w,w,!1,!1,!1,w),C.a4)}}
 var z=a.updateTypes([])
-B.cwn.prototype={
-$0(){return this.a.za(this.b)},
-$S:0}
-B.cwo.prototype={
-$0(){return this.a.zb(this.b)},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.aOV,A.t)
-w(A.bs,[B.cwn,B.cwo])})()
-A.bp(b.typeUniverse,JSON.parse('{"aOV":{"t":[],"j":[]}}'))
-var y={a:A.B("H<wE>"),f:A.B("~")};(function constants(){D.aQR=new A.w(0,12,0,0)})()};
+B.dI4.prototype={
+$1(d){var x,w
+$.pD()
+x=this.a
+w=x.e
+if(w===0)x.aa(new B.dI3(x))
+else x.e=w-1},
+$S:112}
+B.dI3.prototype={
+$0(){var x=this.a.d
+x===$&&A.j()
+x.b0(0)},
+$S:1}
+B.dI2.prototype={
+$0(){return $.mg().LD()},
+$S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.a5z,A.a8)
+x(B.byi,A.a9)
+x(B.dI4,A.bI)
+w(A.bF,[B.dI3,B.dI2])})()
+A.bt(b.typeUniverse,JSON.parse('{"a5z":{"a8":[],"k":[]},"byi":{"a9":["a5z"]}}'))
+var y={e:A.E("L<k>"),f:A.E("a6O")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_61",e:"endPart",h:b})})($__dart_deferred_initializers__,"qsW2gOEhYcAIdZmIDp1ABp6Dq8w=");
+a.eventLog.push({p:"main.dart.js_61",e:"endPart",h:b})})($__dart_deferred_initializers__,"UZ7UMO33zjq8pEB9fCyjbab5U+o=");

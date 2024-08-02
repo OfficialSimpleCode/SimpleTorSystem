@@ -2,123 +2,131 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_132",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-vm(d,e,f){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n,m,l
-var $async$vm=A.d(function(g,h){if(g===1)return A.e(h,w)
-while(true)switch(x){case 0:m=new A.N(null,$.ae(),y.l)
+Ti(d,e,f){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n,m,l
+var $async$Ti=A.d(function(g,h){if(g===1)return A.e(h,w)
+while(true)switch(x){case 0:m=new A.P(null,$.af(),y.l)
 l=f==null
 x=l?3:4
 break
 case 3:x=5
-return A.b(B.dMQ(d,m),$async$vm)
-case 5:case 4:if(l){l=$.b6().ghg().h(0,m.a)
+return A.c(B.ec8(d,m),$async$Ti)
+case 5:case 4:if(l){l=$.b7().gha().h(0,m.a)
 l.toString
 u=l}else u=f
 t=$.J()
-if(t.a.T.h(0,C.dt)!=null){l=u.p1
-s=t.a.T.h(0,C.dt)
+if(t.a.T.h(0,C.dN)!=null){l=u.p1
+s=t.a.T.h(0,C.dN)
 s.toString
 s=l>=s
 l=s}else l=!1
 x=l?6:7
 break
 case 6:x=8
-return A.b(A.mR(d,A.k("forMoreClientsSub",null,null,!0),!1,!0),$async$vm)
+return A.c(A.mT(d,A.l("forMoreClientsSub",null,null,!0),!1,!0),$async$Ti)
 case 8:x=1
 break
 case 7:x=9
-return A.b(A.dPg(d,A.aS(A.k("WhereToAddFrom",null,null,!0),null,null,null,null,null,null,null,null,null,null,null),B.eP1(d)),$async$vm)
+return A.c(A.eez(d,A.aU(A.l("WhereToAddFrom",null,null,!0),null,null,null,null,null,null,null,null,null,null,null),B.feI(d)),$async$Ti)
 case 9:r=h
-l=J.id(r)
+l=J.iy(r)
 x=l.p(r,"contacts")?10:12
 break
-case 10:if(t.a.T.h(0,C.dt)!=null){l=t.a.T.h(0,C.dt)
+case 10:l=$.ap
+x=l?13:14
+break
+case 13:x=15
+return A.c(A.S5(d),$async$Ti)
+case 15:v=h
+x=1
+break
+case 14:if(t.a.T.h(0,C.dN)!=null){l=t.a.T.h(0,C.dN)
 l.toString
 q=l-u.a0.a.a}else q=null
-x=13
-return A.b(A.ar7(q,d,!1,u),$async$vm)
-case 13:p=h
+x=16
+return A.c(A.aQu(q,d,!1,u),$async$Ti)
+case 16:p=h
 x=11
 break
-case 12:x=l.p(r,"manually")?14:16
+case 12:x=l.p(r,"manually")?17:19
 break
-case 14:x=17
-return A.b(A.aqt(d,u),$async$vm)
-case 17:o=h
-x=o instanceof A.cz?18:20
+case 17:x=20
+return A.c(A.aPR(d,u),$async$Ti)
+case 20:o=h
+x=o instanceof A.cB?21:23
 break
-case 18:l=A.R(d,!1)
+case 21:l=A.T(d,!1)
 s=y.w
 n=y.b
-x=21
-return A.b(A.bt("assets/animations/success_animation.json.zip",d,C.F,$.bL().qx($.aH,A.C([o.c,o],s,n),u),A.k("clientAddedSuccessfully",null,null,!1),l,!0,!1,null,!0,C.I,!1).b6(),$async$vm)
-case 21:p=A.C([o.c,o],s,n)
-x=19
+x=24
+return A.c(A.bv("assets/animations/success_animation.json.zip",d,C.R,$.bN().qt($.aH,A.m([o.c,o],s,n),u),A.l("clientAddedSuccessfully",null,null,!1),l,!0,!1,null,!0,C.V,!1).b6(),$async$Ti)
+case 24:p=A.m([o.c,o],s,n)
+x=22
 break
-case 20:p=null
-case 19:x=15
+case 23:p=null
+case 22:x=18
 break
-case 16:p=null
-case 15:case 11:if(y.B.b(p)){J.ah(p,new B.dMP(e))
-e.C()}case 1:return A.f(v,w)}})
-return A.h($async$vm,w)},
-dMQ(d,e){var x=0,w=A.i(y.e),v,u,t,s
-var $async$dMQ=A.d(function(f,g){if(f===1)return A.e(g,w)
-while(true)switch(x){case 0:t=$.b6()
+case 19:p=null
+case 18:case 11:if(y.B.b(p)){J.aj(p,new B.ec7(e))
+e.B()}case 1:return A.f(v,w)}})
+return A.h($async$Ti,w)},
+ec8(d,e){var x=0,w=A.i(y.e),v,u,t,s
+var $async$ec8=A.d(function(f,g){if(f===1)return A.e(g,w)
+while(true)switch(x){case 0:t=$.b7()
 s=t.a
-x=J.av(s.a)>1?3:5
+x=J.ay(s.a)>1?3:5
 break
-case 3:s=A.k("pickWorker",null,null,!0)
-u=A.k("pickWorkerToAddHimClients",null,null,!0)
+case 3:s=A.l("pickWorker",null,null,!0)
+u=A.l("pickWorkerToAddHimClients",null,null,!0)
 x=6
-return A.b(A.Rn(null,t.ghg(),null,d,u,s,e,null,!0),$async$dMQ)
+return A.c(A.afS(null,t.gha(),null,d,u,s,e,null,!0),$async$ec8)
 case 6:x=4
 break
-case 5:if(J.av(s.a)<=0){v=!1
+case 5:if(J.ay(s.a)<=0){v=!1
 x=1
-break}else e.si(0,J.c6(s.a))
-case 4:if(e.a==null||t.ghg().h(0,e.a)==null){v=!1
+break}else e.si(0,J.c8(s.a))
+case 4:if(e.a==null||t.gha().h(0,e.a)==null){v=!1
 x=1
 break}v=!0
 x=1
 break
 case 1:return A.f(v,w)}})
-return A.h($async$dMQ,w)},
-eP1(d){var x=null
-return A.a([new A.Kt(new B.dF0(d),A.aS(A.k("Contacts",x,x,!0),x,x,x,x,x,A.bm(x,x,C.bM,x,x,x,x,x,x,x,x,x,x,x,C.a5,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x)),new A.Kt(new B.dF1(d),A.aS(A.k("manually",x,x,!0),x,x,x,x,x,A.bm(x,x,C.bM,x,x,x,x,x,x,x,x,x,x,x,C.a5,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x))],y.r)},
-dMP:function dMP(d){this.a=d},
-dF0:function dF0(d){this.a=d},
-dF1:function dF1(d){this.a=d}}
+return A.h($async$ec8,w)},
+feI(d){var x=null
+return A.b([new A.a8Z(new B.e4h(),A.aU(A.l("Contacts",x,x,!0),x,x,x,x,x,A.bn(x,x,C.c3,x,x,x,x,x,x,x,x,x,x,x,C.am,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x)),new A.a8Z(new B.e4i(),A.aU(A.l("manually",x,x,!0),x,x,x,x,x,A.bn(x,x,C.c3,x,x,x,x,x,x,x,x,x,x,x,C.am,x,x,!0,x,x,x,x,x,x,x,x),x,x,x,x,x))],y.r)},
+ec7:function ec7(d){this.a=d},
+e4h:function e4h(){},
+e4i:function e4i(){}}
 J=c[1]
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[163],B)
+B=a.updateHolder(c[162],B)
 var z=a.updateTypes([])
-B.dMP.prototype={
+B.ec7.prototype={
 $2(d,e){var x,w,v
-if(e instanceof A.cz){x=this.a.a
+if(e instanceof A.cB){x=this.a.a
 w=e.r
-v=A.zE(e)
-v.ch=A.cp([$.ch().a.d],y.w)
-J.bq(x,w,v)}},
-$S:9}
-B.dF0.prototype={
-$1(d){return this.b4r(d)},
-b4r(d){var x=0,w=A.i(y.v),v=this
+v=A.X7(e)
+v.ch=A.cq([$.ci().a.d],y.w)
+J.bs(x,w,v)}},
+$S:11}
+B.e4h.prototype={
+$1(d){return this.b4v(d)},
+b4v(d){var x=0,w=A.i(y.v)
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:A.R(v.a,!1).S("contacts")
+while(true)switch(x){case 0:A.T(d,!1).S("contacts")
 return A.f(null,w)}})
 return A.h($async$$1,w)},
-$S:394}
-B.dF1.prototype={
-$1(d){return this.b4q(d)},
-b4q(d){var x=0,w=A.i(y.v),v=this
+$S:138}
+B.e4i.prototype={
+$1(d){return this.b4u(d)},
+b4u(d){var x=0,w=A.i(y.v)
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:A.R(v.a,!1).S("manually")
+while(true)switch(x){case 0:A.T(d,!1).S("manually")
 return A.f(null,w)}})
 return A.h($async$$1,w)},
-$S:394};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.dMP,A.de)
-w(A.bP,[B.dF0,B.dF1])})()
-var y={b:A.B("cz"),r:A.B("H<Kt?>"),B:A.B("a1<@,@>"),w:A.B("n"),l:A.B("N<n?>"),e:A.B("I"),v:A.B("~")}};
+$S:138};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.ec7,A.dg)
+w(A.bI,[B.e4h,B.e4i])})()
+var y={b:A.E("cB"),r:A.E("L<a8Z?>"),B:A.E("a4<@,@>"),w:A.E("p"),l:A.E("P<p?>"),e:A.E("K"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_132",e:"endPart",h:b})})($__dart_deferred_initializers__,"MTiSPTERHXsbbl4TkdKm2/o4VBo=");
+a.eventLog.push({p:"main.dart.js_132",e:"endPart",h:b})})($__dart_deferred_initializers__,"hNGHvcOv7kfbmUbmnLrLE/Qw+MQ=");
