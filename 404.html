@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=./index.html" />
+    <script>
+      // This script is a fallback for browsers that don't support meta-refresh.
+      // It redirects the browser to the index.html page, preserving the path.
+      var pathname = window.location.pathname;
+      window.location.replace("/index.html" + (pathname ? "#" + pathname : ""));
+    </script>
+  </head>
+  <body></body>
+</html>
