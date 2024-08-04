@@ -197,7 +197,7 @@ B.bgh.prototype={
 n(d){var x=null
 return A.I(A.b([A.C("\u05e1\u05d8\u05d8\u05d5\u05e1 \u05d4\u05e9\u05e8\u05ea\u05d9\u05dd",x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,""),new A.o(x,20,x,x),this.bax(),new A.o(x,30,x,x)],y.u),C.e,C.i,C.d)},
 bax(){var x=A.b([],y.u)
-C.b.q(D.aXk,new B.d41(x))
+C.b.q(D.b2w,new B.d41(x))
 return A.I(x,C.e,C.i,C.d)}}
 B.bgf.prototype={
 n(d){var x=B.eYo(this.c,5)
@@ -281,7 +281,7 @@ var y=(function rtii(){var x=A.E
 return{k:x("L<oG>"),c:x("L<al8>"),m:x("L<cx<Z<F>>>"),x:x("L<p>"),u:x("L<k>"),y:x("Z<F>"),i:x("mB"),A:x("fMf"),w:x("p"),v:x("~")}})();(function constants(){var x=a.makeConstList
 D.NU=new A.aa6("No Reply",4,"noReply")
 D.aSD=new A.aa6("Time To Live Exceeded",0,"timeToLiveExceeded")
-D.aXk=A.b(x(["192.168.1.172:8225"]),y.x)
+D.b2w=A.b(x(["api.simpletor.app"]),y.x)
 D.WG=A.b(x([]),y.c)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_288",e:"endPart",h:b})})($__dart_deferred_initializers__,"yCK3+gv0DIIMNyz76nATE3WeUUI=");
+a.eventLog.push({p:"main.dart.js_288",e:"endPart",h:b})})($__dart_deferred_initializers__,"n6lH10swrXdOmXgxSAjDDhrKGhM=");
