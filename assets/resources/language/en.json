@@ -3581,7 +3581,7 @@
   "youLeftWith": "You will be left with - AMOUNT",
   "regularCustomers": "Regular",
   "newCustomers": "New",
-  "lastTime": "Last time",
+  "lastSent": "Last sending",
   "missingCustomers": "Missing",
   "messageFrom": "Message from",
   "thereIsProblemWithSavingTheInvoice": "There is a problem saving the receipt",
@@ -3613,7 +3613,7 @@
   "requestTipExplain": "We will ask your customers for a tip before every payment they make, they will be able to choose the percentage of the tip or not to leave a tip at all",
   "remindersRecommend": "It is recommended to remind the customer at different times so that he does not have two different reminders at the same time - causes confusion",
   "splitToTash": "Split to payments",
-  "splitToTashExplain": "",
+  "splitToTashExplain": "On this page you can define the division into payments at any level of amount, for example: from 1,000$ the customer will be able to pay in 3 payments",
   "mustUseTashs": "Must use maximum",
   "maxTashs": "Max Payments",
   "fromOneChar": "From",
@@ -3626,5 +3626,9 @@
   "tashStagesDefaultExplain": "We will use these settings for any payment in an amount that you have not defined a change for the stage",
   "tashNumber": "Number of payments",
   "canChooseOnlyTashs": "You can spread the payment up to NUMBER transactions",
-  "cantChooseOnlyTashs": "The number of payments cannot be changed"
+  "cantChooseOnlyTashs": "The number of payments cannot be changed",
+  "messageCampaignExplain": "You can send a distribution message to all your customers directly from the application",
+  "splitToTashNewExplain": "Customers will be able to choose the number of payments when paying in the app",
+  "splitToTashNew": "split to payments",
+  "mediator": "Mediator"
 }

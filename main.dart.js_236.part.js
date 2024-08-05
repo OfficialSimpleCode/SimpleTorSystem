@@ -1,9 +1,71 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_236",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+eBd(d,e,f,g,h,i,j){return new B.bhw(d,i,g,j,h,null)},
+bhw:function bhw(d,e,f,g,h,i){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.r=g
+_.x=h
+_.a=i},
+d6y:function d6y(d){this.a=d},
+d6z:function d6z(d){this.a=d},
+d6A:function d6A(d){this.a=d}},C
 A=c[0]
-var z=a.updateTypes([]);(function lazyInitializers(){var y=a.lazyFinal
-y($,"fTy","bS6",()=>A.eGo()*0.94)})()};
+B=a.updateHolder(c[166],B)
+C=c[186]
+B.bhw.prototype={
+n(d){var x,w=this,v=null,u=w.d
+if(u==null)u=A.l("waitingList",v,v,!0)
+x=w.x
+if(x==null)x=A.l("showWaitingListToClients",v,v,!0)
+return A.bR(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.d6y(w),!1,w.e,v,5,v,v,!1,x,v,13,new A.es(w.c.a.fr,new B.d6z(w),v),v,v,u,15,0,v)},
+a6(d){return this.cgO(d)},
+cgO(d){var x=0,w=A.i(y.b),v=this,u,t,s
+var $async$a6=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:u=$.iF()
+t=v.c
+s=t.a
+u.YP(s,s.at,d,v.r)
+C.a80(t,new B.d6A(d))
+return A.f(null,w)}})
+return A.h($async$a6,w)}}
+var z=a.updateTypes([])
+B.d6y.prototype={
+$0(){var x=0,w=A.i(y.b),v,u=this,t
+var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
+while(true)switch(x){case 0:t=u.a
+x=3
+return A.c(t.a6(!t.c.a.fr),$async$$0)
+case 3:v=e
+x=1
+break
+case 1:return A.f(v,w)}})
+return A.h($async$$0,w)},
+$S:2}
+B.d6z.prototype={
+$2(d,e){return this.b1O(d,e)},
+b1O(d,e){var x=0,w=A.i(y.b),v,u=this,t
+var $async$$2=A.d(function(f,g){if(f===1)return A.e(g,w)
+while(true)switch(x){case 0:t=u.a
+x=3
+return A.c(t.a6(!t.c.a.fr),$async$$2)
+case 3:v=g
+x=1
+break
+case 1:return A.f(v,w)}})
+return A.h($async$$2,w)},
+$S:28}
+B.d6A.prototype={
+$1(d){d.a.fr=this.a},
+$S:137};(function inheritance(){var x=a.inherit
+x(B.bhw,A.w)
+x(B.d6y,A.bE)
+x(B.d6z,A.df)
+x(B.d6A,A.bL)})()
+A.bs(b.typeUniverse,JSON.parse('{"bhw":{"w":[],"k":[]},"aeh":{"w":[],"k":[]}}'))
+var y={b:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_236",e:"endPart",h:b})})($__dart_deferred_initializers__,"bDRj9lJsYjLXQOMuJaLhkrfL4yI=");
+a.eventLog.push({p:"main.dart.js_236",e:"endPart",h:b})})($__dart_deferred_initializers__,"bXOqcFm/LyNibtSR1JxtXKs+SiQ=");

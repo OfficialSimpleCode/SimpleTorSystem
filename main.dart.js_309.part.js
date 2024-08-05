@@ -1,66 +1,26 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_309",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-eXL(){return new B.bbl(null)},
-bbl:function bbl(d){this.a=d},
-cO8:function cO8(d){this.a=d},
-cO9:function cO9(d){this.a=d},
-bPY(d){var x=0,w=A.i(y.b),v,u
-var $async$bPY=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:x=6
-return A.c(A.bC(d,A.bD("recurreenceBookingsPage",0)),$async$bPY)
-case 6:x=f===!0?3:5
-break
-case 3:u=A.jk(new B.e8K(),null,y.a)
-x=7
-return A.c(A.V(d,!1).fj(u),$async$bPY)
-case 7:v=f
-x=1
-break
-x=4
-break
-case 5:new A.a4(A.l("thereIsProblem",null,null,!0),C.m,C.n,C.r,d).E()
-case 4:case 1:return A.f(v,w)}})
-return A.h($async$bPY,w)},
-e8K:function e8K(){}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+f4h(d,e){return new B.bma(d,e,null)},
+bma:function bma(d,e,f){this.c=d
+this.d=e
+this.a=f},
+dmp:function dmp(d,e){this.a=d
+this.b=e}}
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[89],B)
-B.bbl.prototype={
-n(d){var x,w,v=null,u=A.C(A.l("menu",v,v,!0),v,!1,!1,v,!1,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,16,v,""),t=A.t(d).ax,s=t.CW
-t=s==null?t.y:s
-s=$.fS()
-t=A.ae(v,v,v,v,A.bV(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.cO8(d),!0,new A.z(14,18,14,18),A.bR(C.ji,v,v,v,v),5,v,v,!1,v,v,13,C.c5,v,v,A.l("passedBookings",v,v,!0),15,0,v),t,v,0,!1,v,v,v,v,!1,v,v,v,v,v,!1,!1,!1,s)
-x=A.t(d).ax
-w=x.CW
-x=w==null?x.y:w
-return A.bz(A.I(A.b([u,new A.o(v,20,v,v),t,new A.o(v,10,v,v),A.ae(v,v,v,v,A.bV(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.cO9(d),!0,new A.z(14,18,14,18),A.bR(C.vp,v,v,v,v),5,v,v,!1,v,v,13,C.c5,v,v,A.l("recurringBookings",v,v,!0),15,0,v),x,v,0,!1,v,v,v,v,!1,v,v,v,v,v,!1,!1,!1,s),new A.o(v,30,v,v)],y.e),C.e,C.i,C.d),v,v)}}
+B=a.updateHolder(c[87],B)
+B.bma.prototype={
+n(d){var x=new A.Q(this.c,$.af(),y.g)
+return new A.I(x,new B.dmp(this,x),null,null,y.d)}}
 var z=a.updateTypes([])
-B.cO8.prototype={
-$0(){var x=0,w=A.i(y.p),v=this
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.aQj(v.a),$async$$0)
-case 2:return A.f(null,w)}})
-return A.h($async$$0,w)},
-$S:3}
-B.cO9.prototype={
-$0(){var x=0,w=A.i(y.p),v=this
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(B.bPY(v.a),$async$$0)
-case 2:return A.f(null,w)}})
-return A.h($async$$0,w)},
-$S:3}
-B.e8K.prototype={
-$1(d){A.bm("recurreenceBookingsPage")
-return new A.a1X(null)},
-$S:1765};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.bbl,A.w)
-w(A.bE,[B.cO8,B.cO9])
-x(B.e8K,A.bK)})()
-A.bt(b.typeUniverse,JSON.parse('{"bbl":{"w":[],"k":[]}}'))
-var y={e:A.E("L<k>"),p:A.E("ax"),b:A.E("@"),a:A.E("al?")}};
+B.dmp.prototype={
+$3(d,e,f){var x=$.am?$.iv.m():null,w=this.b
+return new A.n(x,null,A.emM(d,!0,w.a,w,this.a.d),null)},
+$S:1891};(function inheritance(){var x=a.inherit
+x(B.bma,A.w)
+x(B.dmp,A.bL)})()
+A.bs(b.typeUniverse,JSON.parse('{"bma":{"w":[],"k":[]}}'))
+var y={d:A.E("I<jo>"),g:A.E("Q<jo>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_309",e:"endPart",h:b})})($__dart_deferred_initializers__,"40BaZF1vFSfzxFadHl4crcTpP/M=");
+a.eventLog.push({p:"main.dart.js_309",e:"endPart",h:b})})($__dart_deferred_initializers__,"pX6WbREgZGGP2Im/ZCBIhMXfv5c=");

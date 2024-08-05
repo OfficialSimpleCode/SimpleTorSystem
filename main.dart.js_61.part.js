@@ -1,84 +1,70 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_61",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-cyD(d,e,f,g,h){return new B.a5v(h,e,d,g,f,null)},
-a5v:function a5v(d,e,f,g,h,i){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.a=i},
-bxX:function bxX(d){var _=this
-_.d=$
-_.e=10
-_.a=null
-_.b=d
-_.c=null},
-dH1:function dH1(d){this.a=d},
-dH0:function dH0(d){this.a=d},
-dH_:function dH_(){}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={bdu:function bdu(d,e,f){this.c=d
+this.d=e
+this.a=f},cWq:function cWq(d,e){this.a=d
+this.b=e},cWr:function cWr(d,e){this.a=d
+this.b=e}},D
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[7],B)
-B.a5v.prototype={
-a4(){return new B.bxX(C.v)}}
-B.bxX.prototype={
-ag1(){this.d=A.Um(C.dm,new B.dH1(this))},
-ar(){this.ag1()
-this.aC()},
-v(){var x=this.d
-x===$&&A.j()
-x.b0(0)
-this.aR()},
-n(d){var x,w,v,u,t=this,s=null
-A.bV(d,!0,y.f)
-x=t.d
-x===$&&A.j()
-x.b0(0)
-$.py()
-x=y.e
-w=A.b([A.j2(s,C.ck,A.l("PickPlanExpalnation",s,s,!0))],x)
-v=t.a
-if(v.d)v=A.l("changePlan",s,s,!0)
-else v=v.c?A.l("purchaseWorker",s,s,!0):A.l("purchaseBusiness",s,s,!0)
-v=A.ep(w,s,s,s,s,!1,s,A.bD(A.C(v,s,!1,!1,s,!1,!1,s,!1,!1,!1,!1,1,s,!1,!1,!1,16,s,""),s,s),!0)
-w=t.c
+B=a.updateHolder(c[146],B)
+D=c[291]
+B.bdu.prototype={
+n(d){var x,w,v,u,t,s,r,q=null,p=$.ah.m(),o=A.bq(q,q,q,q,q,q,q,q,q,q,q,12,q,q,q,q,q,!0,q,q,q,q,q,q,q,q)
+if(this.d)x="recommendedToUpdateBeforePurchace"
+else x="recommendedToUpdate"
+x=A.l(x,q,q,!1)
+w=A.t(d).p2.z
 w.toString
-w=A.t(w)
-u=$.ag.m()
-x=A.ae(C.l,s,s,s,A.I(A.b([new A.o(u*0.5,s,A.aV(A.l("thereIsNoProductsInWeb",s,s,!0),s,s,s,s,s,s,C.t,s,s,s,s),s),t.chS()],x),C.e,C.G,C.d),w.ax.k2,s,0,!1,s,s,s,s,!1,s,s,s,s,s,!1,!1,!1,s)
-x=A.dd(v,s,x,s,!1,s,23,!1,!1,s,!1,!0)
-return x},
-chS(){var x,w=null,v=this.c
-v.toString
-v=A.t(v).ax
-x=v.ad
-v=x==null?v.k2:x
-return A.ck(C.l,A.ae(C.l,w,w,w,A.aV(A.l("openOnappStore",w,w,!0),w,w,w,w,w,w,C.t,w,w,w,w),v,w,0,!1,w,w,w,new A.z(0,20,0,0),!1,new B.dH_(),w,new A.z(20,10,20,10),w,w,!1,!1,!1,w),C.a4)}}
+v=A.t(d).ax
+u=v.R
+v=u==null?v.k3:u
+u=C.h.W(178.5)
+x=A.bF(q,q,w.c3(A.S(u,v.gi(v)>>>16&255,v.gi(v)>>>8&255,v.gi(v)&255),12),x)
+v=A.l("policy",q,q,!0)
+w=A.oR(q,q)
+w.b8=new B.cWq(this,d)
+t=A.t(d).p2.z
+t.toString
+v=A.bF(q,w,t.c3(A.t(d).ax.y,12),v)
+t=A.l("andIn",q,q,!1)
+w=A.t(d).p2.z
+w.toString
+s=A.t(d).ax
+r=s.R
+s=r==null?s.k3:r
+t=A.bF(q,q,w.c3(A.S(u,s.gi(s)>>>16&255,s.gi(s)>>>8&255,s.gi(s)&255),12)," "+t)
+s=A.l("termToUse",q,q,!0)
+u=A.oR(q,q)
+u.b8=new B.cWr(this,d)
+w=A.t(d).p2.z
+w.toString
+return new A.P(D.aRj,new A.n(p*0.7,q,A.pk(q,q,C.ba,q,q,!0,q,A.bF(A.b([x,v,t,A.bF(q,u,w.c3(A.t(d).ax.y,12),s)],y.a),q,o,q),C.t,q,q,C.ah,C.af),q),q)},
+z3(d){return this.chS(d)},
+chS(d){var x=0,w=A.i(y.f)
+var $async$z3=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:x=2
+return A.c(A.QY(d,!0,"https://simpletor.app/privacy",!0),$async$z3)
+case 2:return A.f(null,w)}})
+return A.h($async$z3,w)},
+z4(d){return this.ci0(d)},
+ci0(d){var x=0,w=A.i(y.f)
+var $async$z4=A.d(function(e,f){if(e===1)return A.e(f,w)
+while(true)switch(x){case 0:x=2
+return A.c(A.QY(d,!0,"https://simpletor.app/terms-of-use",!0),$async$z4)
+case 2:return A.f(null,w)}})
+return A.h($async$z4,w)}}
 var z=a.updateTypes([])
-B.dH1.prototype={
-$1(d){var x,w
-$.py()
-x=this.a
-w=x.e
-if(w===0)x.aa(new B.dH0(x))
-else x.e=w-1},
-$S:111}
-B.dH0.prototype={
-$0(){var x=this.a.d
-x===$&&A.j()
-x.b0(0)},
+B.cWq.prototype={
+$0(){return this.a.z3(this.b)},
 $S:1}
-B.dH_.prototype={
-$0(){return $.mc().LB()},
+B.cWr.prototype={
+$0(){return this.a.z4(this.b)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.a5v,A.a8)
-x(B.bxX,A.a9)
-x(B.dH1,A.bK)
-w(A.bF,[B.dH0,B.dH_])})()
-A.bs(b.typeUniverse,JSON.parse('{"a5v":{"a8":[],"k":[]},"bxX":{"a9":["a5v"]}}'))
-var y={e:A.E("L<k>"),f:A.E("a6J")}};
+x(B.bdu,A.w)
+w(A.bE,[B.cWq,B.cWr])})()
+A.bs(b.typeUniverse,JSON.parse('{"bdu":{"w":[],"k":[]}}'))
+var y={a:A.E("L<W8>"),f:A.E("~")};(function constants(){D.aRj=new A.z(0,12,0,0)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_61",e:"endPart",h:b})})($__dart_deferred_initializers__,"f5Q2Onj3EMkGK41BEPGv6n3+xWU=");
+a.eventLog.push({p:"main.dart.js_61",e:"endPart",h:b})})($__dart_deferred_initializers__,"T2f2hJx6ivx50Du4VUNu6ldTVJY=");
