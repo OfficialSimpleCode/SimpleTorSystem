@@ -3611,5 +3611,20 @@
   "inDynamicTimeDescription": "TIME before order",
   "requestTip": "Leaving a tip",
   "requestTipExplain": "We will ask your customers for a tip before every payment they make, they will be able to choose the percentage of the tip or not to leave a tip at all",
-  "remindersRecommend": "It is recommended to remind the customer at different times so that he does not have two different reminders at the same time - causes confusion"
+  "remindersRecommend": "It is recommended to remind the customer at different times so that he does not have two different reminders at the same time - causes confusion",
+  "splitToTash": "Split to payments",
+  "splitToTashExplain": "",
+  "mustUseTashs": "Must use maximum",
+  "maxTashs": "Max Payments",
+  "fromOneChar": "From",
+  "theEnd": "The end",
+  "chooseAmount": "Choose an amount",
+  "enterValidAmount": "Invalid amount",
+  "noAmount": "Please enter an amount",
+  "maxAmount": "Amount too high",
+  "addTashStep": "Add a payment step",
+  "tashStagesDefaultExplain": "We will use these settings for any payment in an amount that you have not defined a change for the stage",
+  "tashNumber": "Number of payments",
+  "canChooseOnlyTashs": "You can spread the payment up to NUMBER transactions",
+  "cantChooseOnlyTashs": "The number of payments cannot be changed"
 }

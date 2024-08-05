@@ -3593,5 +3593,20 @@
   "inDynamicTimeDescription": "TIME לפני התור",
   "requestTip": "השארת טיפ",
   "requestTipExplain": "נציע ללקוחות שלך להשאיר טיפ בכל תשלום שיבצעו, את אחוז הטיפ הם יוכלו לבחור בעצמם ובאפשרותם גם לא להשאיר טיפ כלל",
-  "remindersRecommend": "מומלץ לתזכר את הלקוח בזמנים שונים כדי שלא יהיה לו שתי תזכורות שונות במקביל - גורם לבילבול"
+  "remindersRecommend": "מומלץ לתזכר את הלקוח בזמנים שונים כדי שלא יהיה לו שתי תזכורות שונות במקביל - גורם לבילבול",
+  "splitToTash": "חלוקה לתשלומים",
+  "splitToTashExplain": "",
+  "mustUseTashs": "חייב להשתמש במקסימום",
+  "maxTashs": "מקסימום תשלומים",
+  "fromOneChar": "מ",
+  "theEnd": "הסוף",
+  "chooseAmount": "בחר סכום",
+  "enterValidAmount": "סכום לא תקין",
+  "noAmount": "אנא הזן סכום",
+  "maxAmount": "סכום גבוה מידי",
+  "addTashStep": "הוסף מדרגת תשלומים",
+  "tashStagesDefaultExplain": "אנו נשתמש בהגדרות האלו עבור כל תשלום בסכום שלא הגדרת לו שינוי עבור המדרגה",
+  "tashNumber": "מספר התשלומים",
+  "canChooseOnlyTashs": "ניתן לפרוס עד- NUMBER תשלומים",
+  "cantChooseOnlyTashs": "מספר התשלומים לא ניתן לשינוי"
 }
