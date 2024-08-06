@@ -837,7 +837,7 @@
   "doYouWantRedeem": "Do you want to redeem the deposit for an amount - AMOUNT?",
   "currentlyOrderingForTime": "Oops! Someone paying for the reservation that coincides with this time",
   "youLeftOneAttemptPleaseNote": "Please Note! One more mistake will result in the deletion of all cards",
-  "clientOrderWaitingBooking": "CLIENT placed a pending order for you on DATE",
+  "clientOrderWaitingBooking": "CLIENT ordered a pending order for you on DATE",
   "needConfirmationToDelete": "The cancellation is made too close to the order date - requires employee confirmation",
   "askForConfirmation": "Request confirmation",
   "upcomingCancel": "Cancellation near the deadline",
@@ -3630,5 +3630,6 @@
   "messageCampaignExplain": "You can send a distribution message to all your customers directly from the application",
   "splitToTashNewExplain": "Customers will be able to choose the number of payments when paying in the app",
   "splitToTashNew": "split to payments",
-  "mediator": "Mediator"
+  "mediator": "Mediator",
+  "passTheTashStepsLimit": "Cannot add more payment steps You have passed the limit (NUMBER)"
 }

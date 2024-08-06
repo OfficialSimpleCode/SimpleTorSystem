@@ -3612,5 +3612,6 @@
   "messageCampaignExplain": "תוכלו לשלוח הודעת תפוצה לכל הלקוחות שלכם ישירות מהאפליקציה",
   "splitToTashNewExplain": "הלקוחות יוכלו לבחור את מספר התשלומים בעת התשלום באפליקציה",
   "splitToTashNew": "חלוקה לתשלומים",
-  "mediator": "מגשר"
+  "mediator": "מגשר",
+  "passTheTashStepsLimit": "לא ניתן להוסיף עוד מדרגות תשלום עברת את הגבול (NUMBER)"
 }
