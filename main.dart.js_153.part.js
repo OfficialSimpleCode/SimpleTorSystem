@@ -15,7 +15,7 @@ case 6:x=j===!0?3:5
 break
 case 3:x=$.am?7:9
 break
-case 7:A.bi("createInvoicePage")
+case 7:A.bj("createInvoicePage")
 x=10
 return A.c(A.kf(null,D.euS(d,f,g,h),e,null),$async$afI)
 case 10:u=j
@@ -44,15 +44,15 @@ _.d=g}}
 J=c[1]
 A=c[0]
 B=c[2]
-D=c[109]
-C=a.updateHolder(c[172],C)
+D=c[108]
+C=a.updateHolder(c[171],C)
 var z=a.updateTypes(["a9m(A)"])
 C.ea_.prototype={
 $1(d){var x=this
-A.bi("createInvoicePage")
+A.bj("createInvoicePage")
 return D.euS(x.a,x.c,x.d,x.b)},
 $S:z+0};(function inheritance(){var x=a.inherit
 x(C.ea_,A.bL)})()
 var y={d:A.E("et"),e:A.E("et?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_153",e:"endPart",h:b})})($__dart_deferred_initializers__,"XOgbnbaL/2OWyPWbZtcHkbgrBnE=");
+a.eventLog.push({p:"main.dart.js_153",e:"endPart",h:b})})($__dart_deferred_initializers__,"s+Ue3viHOmDR/pK1KVtsOtON888=");

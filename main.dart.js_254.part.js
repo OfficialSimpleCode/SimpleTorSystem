@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_254",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-eSb(){return new B.aWY(null)},
-aWY:function aWY(d){this.a=d},
+eSa(){return new B.aWX(null)},
+aWX:function aWX(d){this.a=d},
 c7U:function c7U(d,e){this.a=d
 this.b=e},
 c7V:function c7V(d,e,f,g){var _=this
@@ -21,9 +21,9 @@ c7S:function c7S(d,e){this.a=d
 this.b=e}}
 A=c[0]
 C=c[2]
-D=c[163]
-B=a.updateHolder(c[38],B)
-B.aWY.prototype={
+D=c[162]
+B=a.updateHolder(c[37],B)
+B.aWX.prototype={
 n(d){var x,w,v,u=null,t={}
 A.bV(d,!0,y.z)
 t.a=null
@@ -66,10 +66,10 @@ r=s.aPw$
 q=r.h(0,"reminder")
 q.toString
 p=o.b
-q=D.b97(C.fy===s.a,"alertToCustomersAboutComing","alertBookingTemplate",n,new B.c7O(p,t),new B.c7P(x),new B.c7Q(d),C.cL,!0,q,C.bm,"reminderShowcase")
+q=D.b96(C.fy===s.a,"alertToCustomersAboutComing","alertBookingTemplate",n,new B.c7O(p,t),new B.c7P(x),new B.c7Q(d),C.cL,!0,q,C.bm,"reminderShowcase")
 r=r.h(0,"approvalArrivalReminder")
 r.toString
-return A.dd(v,n,A.fs(w,A.b([u,new A.I(t,new B.c7R(t),n,n,y.m),q,D.b97(C.fy===s.a,"needConfirmationTitle","needConfirmBookingMessageFormat",n,new B.c7S(p,t),new B.c7T(d),n,C.dc,!1,r,C.c0,"approvalArrivalReminderShowcase")],y.u),C.aV,n,x,!1),n,!1,n,23,!1,!1,x,!0,!0)},
+return A.dd(v,n,A.fs(w,A.b([u,new A.I(t,new B.c7R(t),n,n,y.m),q,D.b96(C.fy===s.a,"needConfirmationTitle","needConfirmBookingMessageFormat",n,new B.c7S(p,t),new B.c7T(d),n,C.dc,!1,r,C.c0,"approvalArrivalReminderShowcase")],y.u),C.aV,n,x,!1),n,!1,n,23,!1,!1,x,!0,!0)},
 $S:109}
 B.c7R.prototype={
 $3(d,e,f){var x=null,w=this.a.a
@@ -113,10 +113,10 @@ $0(){var x=this.b
 x.si(0,this.a.gaeT())
 x.C()},
 $S:5};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(B.aWY,A.w)
+x(B.aWX,A.w)
 w(A.bL,[B.c7U,B.c7V,B.c7R])
 w(A.bE,[B.c7O,B.c7P,B.c7Q,B.c7T,B.c7S])})()
-A.bs(b.typeUniverse,JSON.parse('{"aWY":{"w":[],"k":[]}}'))
+A.bt(b.typeUniverse,JSON.parse('{"aWX":{"w":[],"k":[]}}'))
 var y={l:A.E("L<fd>"),u:A.E("L<k>"),F:A.E("ay"),m:A.E("I<K>"),B:A.E("Q<K>"),z:A.E("lx"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_254",e:"endPart",h:b})})($__dart_deferred_initializers__,"IZquEkbD+cgxNsDpKOnrNPF+MiY=");
+a.eventLog.push({p:"main.dart.js_254",e:"endPart",h:b})})($__dart_deferred_initializers__,"zAS3eKc4jv0bdqtMgNKjpaMFpHM=");

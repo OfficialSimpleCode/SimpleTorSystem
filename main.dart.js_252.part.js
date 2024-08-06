@@ -2,9 +2,9 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_252",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-eSa(){return new B.atL(null)},
+eS9(){return new B.atL(null)},
 atL:function atL(d){this.a=d},
-bsX:function bsX(d){var _=this
+bsW:function bsW(d){var _=this
 _.a=_.d=null
 _.b=d
 _.c=null},
@@ -15,11 +15,11 @@ dyJ:function dyJ(d){this.a=d},
 dyK:function dyK(d){this.a=d}},D
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[37],B)
-D=c[163]
+B=a.updateHolder(c[36],B)
+D=c[162]
 B.atL.prototype={
-a2(){return new B.bsX(C.v)}}
-B.bsX.prototype={
+a2(){return new B.bsW(C.v)}}
+B.bsW.prototype={
 ao(){this.aC()
 $.aB.x2$.push(new B.dyM(this))},
 n(d){var x=null
@@ -50,15 +50,15 @@ t=u.a
 s=u.aPx$
 r=s.h(0,"onOrder")
 r.toString
-r=D.b97(C.ey===t,"messageWhenOrder","bookingOrderedContentMessage",C.hE,p,p,new B.dyJ(d),p,!0,r,C.bm,"clientMessageOnOrderShowcase")
+r=D.b96(C.ey===t,"messageWhenOrder","bookingOrderedContentMessage",C.hE,p,p,new B.dyJ(d),p,!0,r,C.bm,"clientMessageOnOrderShowcase")
 t=u.a
 q=s.h(0,"onUpdate")
 q.toString
-q=D.b97(C.ey===t,"messageWhileUpdate","bookingUpdateDateContentMessage",C.h_,p,p,p,p,!1,q,C.bm,"clientMessageOnUpdateShowcase")
+q=D.b96(C.ey===t,"messageWhileUpdate","bookingUpdateDateContentMessage",C.h_,p,p,p,p,!1,q,C.bm,"clientMessageOnUpdateShowcase")
 t=u.a
 s=s.h(0,"onDelete")
 s.toString
-return A.dd(v,p,A.fs(w,A.b([r,q,D.b97(C.ey===t,"messageWhileCanceletion","bookingCanceledContentMessage",C.fF,p,new B.dyK(d),p,p,!1,s,C.c0,"clientMessageOnDeleteShowcase")],y.e),C.aV,p,x,!1),p,!1,p,23,!1,!1,x,!0,!0)},
+return A.dd(v,p,A.fs(w,A.b([r,q,D.b96(C.ey===t,"messageWhileCanceletion","bookingCanceledContentMessage",C.fF,p,new B.dyK(d),p,p,!1,s,C.c0,"clientMessageOnDeleteShowcase")],y.e),C.aV,p,x,!1),p,!1,p,23,!1,!1,x,!0,!0)},
 $S:109}
 B.dyJ.prototype={
 $0(){var x=0,w=A.i(y.p),v=this,u,t
@@ -80,10 +80,10 @@ return A.f(null,w)}})
 return A.h($async$$0,w)},
 $S:3};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.atL,A.a8)
-x(B.bsX,A.a9)
+x(B.bsW,A.a9)
 w(A.bL,[B.dyM,B.dyL])
 w(A.bE,[B.dyJ,B.dyK])})()
-A.bs(b.typeUniverse,JSON.parse('{"atL":{"a8":[],"k":[]},"bsX":{"a9":["atL"]}}'))
+A.bt(b.typeUniverse,JSON.parse('{"atL":{"a8":[],"k":[]},"bsW":{"a9":["atL"]}}'))
 var y={l:A.E("L<fd>"),e:A.E("L<k>"),p:A.E("ay"),j:A.E("lx"),f:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_252",e:"endPart",h:b})})($__dart_deferred_initializers__,"vZW5TDI3U1WhTvMztAHq6R9leqw=");
+a.eventLog.push({p:"main.dart.js_252",e:"endPart",h:b})})($__dart_deferred_initializers__,"o8rmb96bN5yuY3BQUbeQ4WT/D2Y=");

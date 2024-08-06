@@ -1,27 +1,27 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_180",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={aWh:function aWh(d,e,f,g){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={aWg:function aWg(d,e,f,g){var _=this
 _.c=d
 _.d=e
 _.e=f
 _.a=g},c72:function c72(d,e){this.a=d
 this.b=e},c73:function c73(d,e){this.a=d
-this.b=e},aWi:function aWi(d,e){this.c=d
+this.b=e},aWh:function aWh(d,e){this.c=d
 this.a=e},c75:function c75(d,e){this.a=d
 this.b=e},c74:function c74(d,e){this.a=d
 this.b=e},
-eRP(){return new B.aWj(null)},
-aWj:function aWj(d){this.a=d},
+eRO(){return new B.aWi(null)},
+aWi:function aWi(d){this.a=d},
 c76:function c76(d){this.a=d},
 c78:function c78(d){this.a=d},
 c77:function c77(d){this.a=d}}
 J=c[1]
 A=c[0]
 C=c[2]
-D=c[231]
-B=a.updateHolder(c[86],B)
-B.aWh.prototype={
+D=c[229]
+B=a.updateHolder(c[85],B)
+B.aWg.prototype={
 n(d){var x,w,v,u,t=null,s=this.c,r=A.bR(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,t,!1,new A.z(10,10,10,10),t,5,t,t,!1,t,t,13,t,t,t,s.c,15,0,t),q=A.lK(0,0.3,!1)
 if(s.b!==0){x=A.l("break",t,t,!0)
 x=A.bR(!1,!0,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,new B.c72(this,d),!1,new A.z(10,10,10,10),t,5,t,t,!1,t,t,13,A.a2(A.b([A.C(A.hF(A.R(0,0,0,0,s.b,0),t,-1),t,!1,!1,t,!1,!1,t,!1,!1,!1,!1,1,t,!1,!1,!1,14,t,""),new A.n(8,t,t,t),D.qe],y.e),C.e,C.i,C.d),t,t,x,15,0,t)}else x=new A.n(t,t,t,t)
@@ -29,7 +29,7 @@ w=s.b!==0?A.lK(0,0.3,!1):new A.n(t,t,t,t)
 v=A.l("work",t,t,!0)
 u=y.e
 return A.ae(t,t,t,t,A.J(A.b([r,q,x,w,A.bR(!1,!0,!1,!0,!1,!0,!1,!1,!0,!0,!1,!0,new B.c73(this,d),!1,new A.z(10,10,10,10),t,5,t,t,!1,t,t,13,A.a2(A.b([A.C(A.hF(A.R(0,0,0,0,s.a,0),t,-1),t,!1,!1,t,!1,!1,t,!1,!1,!1,!1,1,t,!1,!1,!1,14,t,""),new A.n(8,t,t,t),D.qe],u),C.e,C.i,C.d),t,t,v,15,0,t)],u),C.e,C.i,C.d),t,t,0,!1,t,t,t,new A.z(15,10,15,10),!1,t,t,t,t,t,!1,!1,!1,t)}}
-B.aWi.prototype={
+B.aWh.prototype={
 n(d){var x=null,w=$.ah.m(),v=A.t(d).ax,u=v.CW
 v=u==null?v.y:u
 u=this.c.x>1?0.7:1
@@ -51,7 +51,7 @@ if(v.gB(v)<=1)return A.b([],y.e)
 x=A.b([],y.e)
 w.db.q(0,new B.c74(this,x))
 return x}}
-B.aWj.prototype={
+B.aWi.prototype={
 n(d){return new A.I($.aC().e4$,new B.c76(this),null,null,y.a)},
 gcop(){var x=A.b([],y.e)
 J.aj($.aC().e4$.a,new B.c78(x))
@@ -98,24 +98,24 @@ case 3:case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:3}
 B.c74.prototype={
-$2(d,e){this.b.push(new B.aWh(e,this.a.c,d,null))},
+$2(d,e){this.b.push(new B.aWg(e,this.a.c,d,null))},
 $S:37}
 B.c76.prototype={
 $3(d,e,f){var x=null,w=$.aU.m(),v=this.a,u=A.C(A.l("pickTreatment",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,""),t=A.C(A.l("pickTreatmentForSpecifiChange",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),s=A.l("totalTimeOfBooking",x,x,!1),r=A.hF(A.R(0,0,0,0,v.gacS(),0),x,-1),q=y.e
 return A.an(x,A.dU(A.J(A.b([A.J(A.b([new A.n(x,10,x,x),u,new A.n(x,7,x,x),t,new A.n(x,10,x,x),A.C(A.N(s,"DURATION",r),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,"")],q),C.e,C.i,C.d),A.J(v.gcop(),C.e,C.i,C.d)],q),C.e,C.i,C.d),x,C.C,C.a3,x,x,x,C.M),C.o,x,new A.aX(0,1/0,0,w*0.7),x,x,x,x,x,x,x,x,x)},
 $S:1760}
 B.c78.prototype={
-$2(d,e){this.a.push(new B.aWi(e,null))},
+$2(d,e){this.a.push(new B.aWh(e,null))},
 $S:19}
 B.c77.prototype={
 $2(d,e){var x=this.a
 x.a=x.a+e.gkO()*e.x},
 $S:19};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.w,[B.aWh,B.aWi,B.aWj])
+x(A.w,[B.aWg,B.aWh,B.aWi])
 x(A.bE,[B.c72,B.c73,B.c75])
-x(A.df,[B.c74,B.c78,B.c77])
+x(A.dg,[B.c74,B.c78,B.c77])
 w(B.c76,A.bL)})()
-A.bs(b.typeUniverse,JSON.parse('{"aWh":{"w":[],"k":[]},"aWi":{"w":[],"k":[]},"aWj":{"w":[],"k":[]}}'))
+A.bt(b.typeUniverse,JSON.parse('{"aWg":{"w":[],"k":[]},"aWh":{"w":[],"k":[]},"aWi":{"w":[],"k":[]}}'))
 var y={e:A.E("L<k>"),p:A.E("ay"),a:A.E("I<a6<p,ff>>"),f:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_180",e:"endPart",h:b})})($__dart_deferred_initializers__,"5ti/n5GLMJeOqiZDG+3KDEc9dus=");
+a.eventLog.push({p:"main.dart.js_180",e:"endPart",h:b})})($__dart_deferred_initializers__,"uzb7WI9Hv8b1A42uTcJ8uk5+vdc=");

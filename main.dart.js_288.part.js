@@ -2,14 +2,14 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_288",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-eVh(){return new C.b2I(null)},
-b2I:function b2I(d){this.a=d},
+eVg(){return new C.b2H(null)},
+b2H:function b2H(d){this.a=d},
 cnM:function cnM(d){this.a=d},
 cnN:function cnN(d){this.a=d}}
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[85],C)
-C.b2I.prototype={
+C=a.updateHolder(c[84],C)
+C.b2H.prototype={
 n(d){var x,w,v=null,u=$.ah.m(),t=A.C(A.l("wellDone",v,v,!0),B.t,!1,!1,v,!1,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,19,v,""),s=$.ah.m(),r=A.C(A.l("youFinishTheStartGuide",v,v,!0),B.t,!1,!1,v,!1,!1,v,!1,!1,!0,!1,0.9,v,!1,!1,!1,16,v,""),q=$.ah.m(),p=A.t(d).ax,o=p.CW
 p=o==null?p.y:o
 o=A.l("contactUs",v,v,!0)
@@ -33,9 +33,9 @@ $S:2}
 C.cnN.prototype={
 $0(){A.V(this.a,!1).T(null)},
 $S:5};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.b2I,A.w)
+x(C.b2H,A.w)
 w(A.bE,[C.cnM,C.cnN])})()
-A.bs(b.typeUniverse,JSON.parse('{"b2I":{"w":[],"k":[]}}'))
+A.bt(b.typeUniverse,JSON.parse('{"b2H":{"w":[],"k":[]}}'))
 var y={e:A.E("L<k>"),f:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_288",e:"endPart",h:b})})($__dart_deferred_initializers__,"dkwjE8yNK9M/lIesuI5cccuC6Rs=");
+a.eventLog.push({p:"main.dart.js_288",e:"endPart",h:b})})($__dart_deferred_initializers__,"znHhF0Npg+j6ncd4dt1Z8jbz0VE=");
