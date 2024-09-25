@@ -84,28 +84,28 @@ x=A.r(d).ax
 w=x.CW
 x=w==null?x.y:w
 w=A.YX(new A.x(Date.now(),!1),r,r,!0,!0)
-w=A.M(s.c,"OLDDATE",w)
+w=A.N(s.c,"OLDDATE",w)
 v=A.YX(new A.x(Date.now(),!1).A(0,A.R(0,2,0,0,0,0)),r,r,!0,!0)
-w=A.M(w,"NEWDATE",v)
+w=A.N(w,"NEWDATE",v)
 v=A.YX(new A.x(Date.now(),!1),r,r,!0,!0)
-w=A.M(w,"DATE",v)
+w=A.N(w,"DATE",v)
 v=s.d
 u=v.b
-w=A.M(w,"WORKERNAME",u)
+w=A.N(w,"WORKERNAME",u)
 u=A.l("example",r,r,!0)
-w=A.M(w,"TREATMENTNAME",u)
+w=A.N(w,"TREATMENTNAME",u)
 if(s.gbg_()){u=A.l("atAdrees",r,r,!0)
 t=$.H().a.id.a
-u=A.M(u,"ADRESS",t)+" "}else u=""
-w=A.M(w,"ADRESS",u)
+u=A.N(u,"ADRESS",t)+" "}else u=""
+w=A.N(w,"ADRESS",u)
 if(s.gbga()){u=A.l("toDetails",r,r,!0)
 t=A.fz(v.c)
-u=" "+A.M(u,"PHONE",t)}else u=""
-w=A.M(w,"PHONE",u)
+u=" "+A.N(u,"PHONE",t)}else u=""
+w=A.N(w,"PHONE",u)
 u=$.H().a.ok
-w=A.M(w,"BUSINESSNAME",u)
+w=A.N(w,"BUSINESSNAME",u)
 u=A.l("client",r,r,!0)
-x=A.ae(r,r,r,r,A.B(A.M(w,"NAME",u),C.t,!1,!1,r,!1,!1,r,!1,!1,!1,!0,1,r,!1,!1,!1,15,r,""),x,r,0,!1,r,r,r,new A.y(10,10,10,10),!1,r,r,new A.y(10,10,10,10),15,r,!1,!1,!1,r)
+x=A.ae(r,r,r,r,A.B(A.N(w,"NAME",u),C.t,!1,!1,r,!1,!1,r,!1,!1,!1,!0,1,r,!1,!1,!1,15,r,""),x,r,0,!1,r,r,r,new A.y(10,10,10,10),!1,r,r,new A.y(10,10,10,10),15,r,!1,!1,!1,r)
 w=!s.f
 u=w?new A.n(r,r,r,r):new B.aYf(s.e,v,!1,r)
 return A.L(A.b([x,u,w?new A.n(r,r,r,r):new B.aYg(s.e,v,!1,r)],y.u),C.e,C.i,C.d)},
@@ -166,7 +166,7 @@ B.aTn.prototype={
 m(d){var x=this,w=null,v=x.c,u=x.d,t=v.a.ak.at.u(0,u),s=A.l("customerWillGetNotifications",w,w,!1),r=C.a3O.h(0,u)
 r.toString
 r=A.l(r+"BookingNotification",w,w,!1)
-return new A.lU(A.bf(w,!1,!1,!1,C.M,w,!0,!1,C.f3,77,!0,!t,w,w,"activation",!1,!1,!1,!0,w,w,w,new B.bWg(x,d),!1,w,0,w,!0,!1,w,w,!0,w,w,A.M(s,"TYPE",r),!0,!1,w,new A.eg(v.a.ak.at.u(0,u),new B.bWh(x,d),w),w,!0,w,0.3),w,!1,w)},
+return new A.lU(A.bf(w,!1,!1,!1,C.M,w,!0,!1,C.f3,77,!0,!t,w,w,"activation",!1,!1,!1,!0,w,w,w,new B.bWg(x,d),!1,w,0,w,!0,!1,w,w,!0,w,w,A.N(s,"TYPE",r),!0,!1,w,new A.eg(v.a.ak.at.u(0,u),new B.bWh(x,d),w),w,!0,w,0.3),w,!1,w)},
 a6d(d){return this.bRM(d)},
 bRM(d){var x=0,w=A.i(y.v),v,u=this,t,s,r,q,p
 var $async$a6d=A.d(function(e,f){if(e===1)return A.e(f,w)
@@ -188,7 +188,7 @@ B.aTp.prototype={
 m(d){var x=this,w=null,v=x.c,u=x.d,t=v.a.ak.as.h(0,u),s=A.l("customerWillGetReminder",w,w,!1),r=C.fw.h(0,u)
 r.toString
 r=A.l(r+"Reminder",w,w,!1)
-s=A.M(s,"TYPE",r)
+s=A.N(s,"TYPE",r)
 v=(u!==C.d3||v.a.x1)&&v.a.ak.as.T(0,u)
 return new A.lU(A.bf(w,!1,!1,!1,C.M,w,!0,!1,C.f3,77,!0,t==null,w,w,"activation",!1,!1,!1,!0,w,w,w,new B.bWi(x,d),!1,w,0,w,!0,!1,w,w,!0,w,w,s,!0,!1,w,new A.eg(v,new B.bWj(x,d),w),w,!0,w,0.3),w,!1,w)},
 a6f(d){return this.bRO(d)},
@@ -321,7 +321,7 @@ o=p.e
 n=p.r
 r=n!=null?new B.bb8(r,n,!1,p.z,m):new A.n(m,m,m,m)
 p=y.u
-return A.b1(i,C.l,m,C.a2,k,m,new A.bI(C.l,m,C.a1,C.I,A.b([A.oF(u,A.cV(A.L(A.b([t,x,A.iO(C.O,A.L(A.b([new B.aYj(s,q,n,o,!1,m),r],p),C.e,C.i,C.d),!1,m,w)],p),C.e,C.i,C.d),v)),new B.bcJ(l.e,l.a.r,m)],p),m),m,0,"",m,!1,m,m,!0,!0,g,h,m,m,m,j,0.55,e,f,m)},
+return A.b1(i,C.l,m,C.a2,k,m,new A.bI(C.l,m,C.a1,C.I,A.b([A.oG(u,A.cV(A.L(A.b([t,x,A.iO(C.O,A.L(A.b([new B.aYj(s,q,n,o,!1,m),r],p),C.e,C.i,C.d),!1,m,w)],p),C.e,C.i,C.d),v)),new B.bcJ(l.e,l.a.r,m)],p),m),m,0,"",m,!1,m,m,!0,!0,g,h,m,m,m,j,0.55,e,f,m)},
 $S:1916}
 B.bWg.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this
@@ -394,4 +394,4 @@ A.bj(b.typeUniverse,JSON.parse('{"aYj":{"w":[],"k":[]},"aYf":{"w":[],"k":[]},"aY
 var y=(function rtii(){var x=A.E
 return{y:x("Vc"),A:x("m4"),u:x("K<k>"),B:x("jL"),l:x("G<eF>"),k:x("O<eF>"),o:x("O<J>"),z:x("l9"),e:x("J"),v:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"m/B9L43jHQven6KwqPNZoSovfAE=");
+a.eventLog.push({p:"main.dart.js_301",e:"endPart",h:b})})($__dart_deferred_initializers__,"kVYYgElxdSpTWCb4wpV/pBH8w8c=");

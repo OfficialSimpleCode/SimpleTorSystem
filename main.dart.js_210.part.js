@@ -173,7 +173,7 @@ var $async$bSN=A.d(function(g,h){if(g===1)return A.e(h,v)
 while(true)switch(w){case 0:t=new A.O(e.a.at.gtB(),$.af(),x.e)
 s=A.a26(!1,40,80,200,1,null,!0,t)
 r=A.l("editMaxParticpants",null,null,!0)
-q=B.fno(s,t,A.Si(e.a))
+q=B.fno(s,t,A.Sj(e.a))
 p=A.l("save",null,null,!0)
 o=J
 w=3
@@ -190,7 +190,7 @@ s=J
 w=3
 return A.c(A.bA(y.c,d,C.Q,$.iV().afx(e.a,g.a,f),"",t,!0,!0,null,!1,C.T,!1).b6(),$async$ejl)
 case 3:if(!s.z(i,!0)){w=1
-break}if(A.Si(e.a)<g.a){t=e.a
+break}if(A.Sj(e.a)<g.a){t=e.a
 t=t.fx.a!==0&&!A.a0W(t)}else t=!1
 if(t)new A.a5(A.l("updateTheWaitingList",null,null,!1),C.m,C.n,C.aE,d).E()
 D.a88(e,new B.ejm(g))
@@ -327,9 +327,9 @@ return A.bT(!1,v,w,w,C.cF,!0,!1,!0,!1,w,w,w,w,!0,new B.cle(this),!1,w,!1,w,w,0.5
 B.b6D.prototype={
 m(d){return this.c.a.k3?this.caH(d):this.cxU(0,d)},
 cxU(d,e){var w=null,v=A.l("multyVisibility",w,w,!0)
-return A.bT(!1,w,w,w,C.iz,!0,!1,!0,!1,w,w,w,w,!0,new B.czb(this,e),!1,w,!1,w,w,0.55,w,w,w,A.M(v," ","\n"),w)},
+return A.bT(!1,w,w,w,C.iz,!0,!1,!0,!1,w,w,w,w,!0,new B.czb(this,e),!1,w,!1,w,w,0.55,w,w,w,A.N(v," ","\n"),w)},
 caH(d){var w=null,v=A.l("multyInvisibility",w,w,!0)
-return A.bT(!1,w,w,w,C.vS,!0,!1,!0,!1,w,w,w,w,!0,new B.cza(this,d),!1,w,!1,w,w,0.55,w,w,w,A.M(v," ","\n"),w)}}
+return A.bT(!1,w,w,w,C.vS,!0,!1,!0,!1,w,w,w,w,!0,new B.cza(this,d),!1,w,!1,w,w,0.55,w,w,w,A.N(v," ","\n"),w)}}
 B.biS.prototype={
 m(d){var w=null,v=A.r(d).ax,u=v.CW
 v=u==null?v.y:u
@@ -386,14 +386,14 @@ m(d){var w,v,u,t,s,r=this,q=null,p=A.r(d).ax,o=p.CW
 p=o==null?p.y:o
 o=r.c
 w=x.p
-v=A.a1(A.b([A.B(""+A.Si(o.a)+"/"+r.gauA(),q,!1,!1,q,!1,!0,q,!1,!1,!1,!0,1,q,!1,!1,!1,17,q,""),new A.n(5,q,q,q),A.B(A.l("signedUsers",q,q,!0),q,!1,!1,q,!1,!1,q,!1,!1,!1,!0,1,q,!1,!1,!1,17,q,"")],w),C.e,C.i,C.d)
+v=A.a1(A.b([A.B(""+A.Sj(o.a)+"/"+r.gauA(),q,!1,!1,q,!1,!0,q,!1,!1,!1,!0,1,q,!1,!1,!1,17,q,""),new A.n(5,q,q,q),A.B(A.l("signedUsers",q,q,!0),q,!1,!1,q,!1,!1,q,!1,!1,!1,!0,1,q,!1,!1,!1,17,q,"")],w),C.e,C.i,C.d)
 if(A.cUx(o.a)>0){u=A.l("newClientWantToSign",q,q,!0)
 t=C.f.l(A.cUx(o.a))
-u=new A.P(C.k0,A.B(A.M(u,"COUNT",t),q,!1,!1,C.dK,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q)}else u=new A.n(q,q,q,q)
+u=new A.P(C.k0,A.B(A.N(u,"COUNT",t),q,!1,!1,C.dK,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q)}else u=new A.n(q,q,q,q)
 if(A.ewf(o.a)>0){t=A.l("newClientWantToSignout",q,q,!0)
 s=C.f.l(A.ewf(o.a))
-t=new A.P(C.k0,A.B(A.M(t,"COUNT",s),q,!1,!1,C.an,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q)}else t=new A.n(q,q,q,q)
-return A.ae(q,q,q,q,A.dl(new A.P(E.Fh,A.a1(A.b([A.L(A.b([v,u,t,r.gauA()<A.Si(o.a)?new A.P(C.k0,A.B(A.l("moreParticipantThanMax",q,q,!0),q,!1,!1,C.an,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q):new A.n(q,q,q,q)],w),C.ad,C.i,C.d),new A.QY(q),A.bT(!1,A.r(d).ax.k2,q,q,C.eH,!0,!1,!0,!1,q,C.P,q,q,!0,new B.ddZ(r,d),!0,new A.y(5,5,5,5),!1,q,q,0.55,q,q,24,A.l("edit",q,q,!0),q),new A.n(15,q,q,q),C.fL],w),C.e,C.i,C.d),q),q,!1,!1,!1,new B.de_(r,d),q),p,q,0,!1,q,q,q,q,!1,q,q,q,10,q,!1,!1,!1,q)},
+t=new A.P(C.k0,A.B(A.N(t,"COUNT",s),q,!1,!1,C.an,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q)}else t=new A.n(q,q,q,q)
+return A.ae(q,q,q,q,A.dl(new A.P(E.Fh,A.a1(A.b([A.L(A.b([v,u,t,r.gauA()<A.Sj(o.a)?new A.P(C.k0,A.B(A.l("moreParticipantThanMax",q,q,!0),q,!1,!1,C.an,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,""),q):new A.n(q,q,q,q)],w),C.ad,C.i,C.d),new A.QZ(q),A.bT(!1,A.r(d).ax.k2,q,q,C.eH,!0,!1,!0,!1,q,C.P,q,q,!0,new B.ddZ(r,d),!0,new A.y(5,5,5,5),!1,q,q,0.55,q,q,24,A.l("edit",q,q,!0),q),new A.n(15,q,q,q),C.fL],w),C.e,C.i,C.d),q),q,!1,!1,!1,new B.de_(r,d),q),p,q,0,!1,q,q,q,q,!1,q,q,q,10,q,!1,!1,!1,q)},
 gauA(){var w=this.c,v=w.a.at,u=v.at
 if(u==null){v=A.eNQ(this.d,v.b)
 v=v==null?null:v.Q}else v=u
@@ -408,7 +408,7 @@ if(r.a.fx.a===0)r=M.eMG(r,!1,!0,E.Fh,s,s,t.f)
 else{v=A.l("waitingList",s,s,!0)
 u=A.l("waitingsUsers",s,s,!0)
 r=C.f.l(r.a.fx.a)
-r=A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.dto(t,d),!1,E.Fh,s,5,s,s,!1,A.M(u,"COUNT",r),s,14,A.bT(!1,s,s,s,C.nx,!0,!1,!0,!1,s,s,s,s,!0,new B.dtp(t,d),!0,new A.y(5,5,5,5),!1,s,s,0.55,s,s,24,A.l("toWatch",s,s,!0),s),s,s,v,17,0,s)}return new A.P(C.h8,A.L(A.b([A.ae(s,s,s,s,r,w,s,0,!1,s,s,s,s,!1,s,s,s,10,s,!1,!1,!1,s)],x.p),C.e,C.i,C.d),s)}}
+r=A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.dto(t,d),!1,E.Fh,s,5,s,s,!1,A.N(u,"COUNT",r),s,14,A.bT(!1,s,s,s,C.nx,!0,!1,!0,!1,s,s,s,s,!0,new B.dtp(t,d),!0,new A.y(5,5,5,5),!1,s,s,0.55,s,s,24,A.l("toWatch",s,s,!0),s),s,s,v,17,0,s)}return new A.P(C.h8,A.L(A.b([A.ae(s,s,s,s,r,w,s,0,!1,s,s,s,s,!1,s,s,s,10,s,!1,!1,!1,s)],x.p),C.e,C.i,C.d),s)}}
 B.bck.prototype={
 m(d){var w=this,v=null,u=A.r(d).ax,t=u.CW
 u=t==null?u.y:t
@@ -419,12 +419,12 @@ if(q.gC(q)>1&&!u.r){q=A.l("splitEvent",t,t,!0)
 w=u.f
 v=A.ea(w,t)
 v=C.f.l((v==null?0:v)+1)
-q=A.M(q,"CURRENT",v)
+q=A.N(q,"CURRENT",v)
 v=s.db
 v=C.f.l(v.gC(v))
-q=A.M(q,"ALL",v)
+q=A.N(q,"ALL",v)
 w=s.db.h(0,w).c
-s=A.B(A.M(q,"NAME",w),t,!1,!1,t,!1,!1,t,!1,!1,!1,!0,1,t,!1,!1,!1,14,t,"")}else s=new A.n(t,t,t,t)
+s=A.B(A.N(q,"NAME",w),t,!1,!1,t,!1,!1,t,!1,!1,!1,!0,1,t,!1,!1,!1,14,t,"")}else s=new A.n(t,t,t,t)
 q=x.p
 s=A.b5(new A.P(C.bj,A.L(A.b([r,s],q),C.ad,C.i,C.d),t),1)
 r=A.v("HH:mm",t)
@@ -623,4 +623,4 @@ var y={c:"assets/animations/success_animation.json.zip"}
 var x=(function rtii(){var w=A.E
 return{G:w("aa<J?>"),p:w("K<k>"),N:w("p"),B:w("hI"),f:w("G<fm>"),z:w("G<J>"),J:w("G<F>"),C:w("O<fm>"),I:w("O<J>"),e:w("O<F>"),A:w("@"),X:w("am?"),u:w("J?"),H:w("~")}})();(function constants(){E.Fh=new A.y(18,16,18,16)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_210",e:"endPart",h:b})})($__dart_deferred_initializers__,"Tu0qYCnMXJ4HBQ7Ue79DtNIMUsA=");
+a.eventLog.push({p:"main.dart.js_210",e:"endPart",h:b})})($__dart_deferred_initializers__,"/AfjCBh+TT//dPwRz8nZbzOCLZU=");

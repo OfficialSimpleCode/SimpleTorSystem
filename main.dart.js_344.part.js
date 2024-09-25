@@ -272,8 +272,8 @@ return B.h($async$c6,v)}}
 A.aXk.prototype={
 m(d){var w=null,v=$.H()
 return B.L(B.b([B.eH(v.a.x1.r,90,$.ba().ay),new B.n(w,10,w,w),new B.n($.ah.n()*0.7,w,B.B(v.a.ok,C.t,!1,!1,w,!1,!1,w,!1,!1,!1,!1,1,w,!1,!1,!1,18,w,""),w),this.bgK(),this.bgL()],x.p),C.e,C.i,C.d)},
-bgK(){var w=null,v=$.fr().b,u=B.pc($.H().a.R8)
-if(v.f.h(0,B.M(u,"+",""))==null)return new B.n(w,w,w,w)
+bgK(){var w=null,v=$.fr().b,u=B.pd($.H().a.R8)
+if(v.f.h(0,B.N(u,"+",""))==null)return new B.n(w,w,w,w)
 return B.a1(B.b([new B.aD(D.aVL,20,!1,0.9,!1,!1,!1,w,w),B.B("\u05e8\u05e9\u05d5\u05dd \u05d1\u05de\u05e4\u05ea\u05d7 \u05d1\u05e8\u05d9\u05de\u05d5\u05d8 \u05e7\u05d5\u05e0\u05e4\u05d9\u05d2",w,!1,!1,w,!1,!1,w,!1,!1,!1,!1,0.9,w,!1,!1,!1,14,w,"")],x.p),C.e,C.F,C.d)},
 bgL(){var w=null
 if(!$.H().a.k4)return new B.n(w,w,w,w)
@@ -369,12 +369,12 @@ A.enn.prototype={
 $0(){return!1},
 $S:6}
 A.eno.prototype={
-$0(){return B.pc($.H().a.R8)},
+$0(){return B.pd($.H().a.R8)},
 $S:14}
 A.ene.prototype={
 $0(){var w=0,v=B.i(x.P)
 var $async$$0=B.d(function(d,e){if(d===1)return B.e(e,v)
-while(true)switch(w){case 0:B.nn(new B.m7(B.pc($.H().a.R8))).H(0,new A.en_(),x.H)
+while(true)switch(w){case 0:B.nn(new B.m7(B.pd($.H().a.R8))).H(0,new A.en_(),x.H)
 return B.f(null,v)}})
 return B.h($async$$0,v)},
 $S:3}
@@ -555,7 +555,7 @@ C.b.bZ(r,new A.emh())
 u=C.b.gaf(r)
 t=$.m2()
 s=B.fz(u.c)
-t.Mx(B.M(s,"-",""))
+t.Mx(B.N(s,"-",""))
 return B.f(null,v)}})
 return B.h($async$$0,v)},
 $S:3}
@@ -575,14 +575,14 @@ C.b.bZ(p,new A.emf())
 u=C.b.gaf(p)
 q=u.fy===C.bm?"\u05d4\u05d9\u05d9 NAME \ud83d\udc4b\n\u05d0\u05d9\u05d6\u05d4 \u05db\u05d9\u05e3 \u05e9\u05d4\u05e6\u05d8\u05e8\u05e4\u05ea \u05dc\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05ea\u05d5\u05e8\u05d9\u05dd Simple Tor. \n\u05e7\u05d9\u05d1\u05dc\u05ea 30 \u05d9\u05d5\u05dd \u05e0\u05e1\u05d9\u05d5\u05df \u05dc\u05dc\u05d0 \u05e2\u05dc\u05d5\u05ea! \u05e2\u05dc\u05d9\u05e0\u05d5! \ud83d\ude0a\n\u05db\u05d0\u05df \u05e6\u05d5\u05d5\u05ea \u05d4\u05ea\u05de\u05d9\u05db\u05d4 \u05d5\u05d0\u05e0\u05d5 \u05e0\u05e2\u05de\u05d5\u05d3 \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea\u05da 24/7 \u05dc\u05db\u05dc \u05e9\u05d0\u05dc\u05d4 \u05d0\u05d5 \u05d1\u05e7\u05e9\u05d4\ud83d\udcaa\n\n\u05d6\u05d4\u05d5 \u05d4\u05dc\u05d9\u05e0\u05e7 \u05e9\u05dc\u05da \u05dc\u05e7\u05d1\u05d9\u05e2\u05ea \u05d4\u05ea\u05d5\u05e8\u05d9\u05dd:\nLINK\n\n\u05d7\u05e9\u05d5\u05d1 \u05dc\u05e0\u05d5 \u05e9\u05ea\u05d3\u05e2\u05d9:\n\ud83d\udca1\u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d0\u05e4\u05e9\u05e8 \u05dc\u05dc\u05e7\u05d5\u05d7\u05d5\u05ea \u05e9\u05dc\u05da \u05dc\u05e7\u05d1\u05d5\u05e2 \u05ea\u05d5\u05e8\u05d9\u05dd \u05d0\u05dc \u05ea\u05e9\u05db\u05d7\u05d9 \u05dc\u05d4\u05d5\u05e1\u05d9\u05e3 \u05d0\u05ea \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d4\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da \u05d5\u05d0\u05ea \u05e9\u05e2\u05d5\u05ea \u05d4\u05e4\u05e2\u05d9\u05dc\u05d5\u05ea.\n\n\ud83d\udca1\u05d4\u05de\u05dc\u05e6\u05d4 \u05de\u05d0\u05d9\u05ea\u05e0\u05d5 \u05d1\u05db\u05d3\u05d9 \u05e9\u05d4\u05e2\u05de\u05d5\u05d3 \u05e0\u05d7\u05d9\u05ea\u05d4 \u05e9\u05dc\u05da \u05d9\u05d4\u05d9\u05d4 \u05de\u05de\u05d5\u05ea\u05d2 \u05d5\u05de\u05d5\u05e9\u05da:\n - \u05d4\u05d5\u05e1\u05d9\u05e4\u05d9 \u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05e9\u05dc \u05d4\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da \u05d5\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d4\u05de\u05d9\u05d9\u05d7\u05d3\u05d5\u05ea \u05d0\u05d5\u05ea\u05da.\n-\u05d1\u05d7\u05e8\u05d9 \u05d0\u05ea \u05e2\u05e8\u05db\u05ea \u05d4\u05e0\u05d5\u05e9\u05d0 \u05d4\u05de\u05ea\u05d0\u05d9\u05de\u05d4 \u05d1\u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da.\n\n\u05e0\u05e9\u05de\u05d7 \u05dc\u05ea\u05d0\u05dd \u05e9\u05d9\u05d7\u05d4 \u05e7\u05e6\u05e8\u05d4 \u05e9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d3\u05e7\u05f3 \u05d1\u05d4 \u05e0\u05e2\u05e0\u05d4 \u05e2\u05dc \u05e9\u05d0\u05dc\u05d5\u05ea \u05d5\u05e0\u05e2\u05d6\u05d5\u05e8 \u05d1\u05d4\u05e7\u05de\u05d4 \u05d5\u05ea\u05e4\u05e2\u05d5\u05dc \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u2728\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\u05dc\u05db\u05dc \u05e9\u05d0\u05dc\u05d4 \u05d0\u05d5 \u05d1\u05e7\u05e9\u05d4 \u05d0\u05e0\u05d5 \u05d6\u05de\u05d9\u05e0\u05d9\u05dd \u05d1\u05d0\u05d9\u05de\u05d9\u05d9\u05dc:\nsuppport@simpletor.app\n\n\u05dc\u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05d5\u05dc\u05db\u05dc \u05d4\u05ea\u05dc\u05d1\u05d8\u05d5\u05ea \u05d0\u05e0\u05d5 \u05d6\u05de\u05d9\u05e0\u05d9\u05dd \u05d2\u05dd \u05d1\u05d0\u05d9\u05e0\u05e1\u05d8\u05d2\u05e8\u05dd: \nhttps://www.instagram.com/simpletor.official\n\n\nSimple Tor \u05e6\u05d5\u05d5\u05ea \u05d4\u05ea\u05de\u05d9\u05db\u05d4\n":"\u05d4\u05d9\u05d9 NAME \ud83d\udc4b\n\u05d0\u05d9\u05d6\u05d4 \u05db\u05d9\u05e3 \u05e9\u05d4\u05e6\u05d8\u05e8\u05e4\u05ea \u05dc\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u05dc\u05e0\u05d9\u05d4\u05d5\u05dc \u05ea\u05d5\u05e8\u05d9\u05dd Simple Tor. \n\u05e7\u05d9\u05d1\u05dc\u05ea 30 \u05d9\u05d5\u05dd \u05e0\u05e1\u05d9\u05d5\u05df \u05dc\u05dc\u05d0 \u05e2\u05dc\u05d5\u05ea! \u05e2\u05dc\u05d9\u05e0\u05d5! \ud83d\ude0a\n\u05db\u05d0\u05df \u05e6\u05d5\u05d5\u05ea \u05d4\u05ea\u05de\u05d9\u05db\u05d4 \u05d5\u05d0\u05e0\u05d5 \u05e0\u05e2\u05de\u05d5\u05d3 \u05dc\u05e9\u05d9\u05e8\u05d5\u05ea\u05da 24/7 \u05dc\u05db\u05dc \u05e9\u05d0\u05dc\u05d4 \u05d0\u05d5 \u05d1\u05e7\u05e9\u05d4\ud83d\udcaa\n\n\u05d6\u05d4\u05d5 \u05d4\u05dc\u05d9\u05e0\u05e7 \u05e9\u05dc\u05da \u05dc\u05e7\u05d1\u05d9\u05e2\u05ea \u05d4\u05ea\u05d5\u05e8\u05d9\u05dd:\nLINK\n\n\u05d7\u05e9\u05d5\u05d1 \u05dc\u05e0\u05d5 \u05e9\u05ea\u05d3\u05e2:\n\ud83d\udca1\u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d0\u05e4\u05e9\u05e8 \u05dc\u05dc\u05e7\u05d5\u05d7\u05d5\u05ea \u05e9\u05dc\u05da \u05dc\u05e7\u05d1\u05d5\u05e2 \u05ea\u05d5\u05e8\u05d9\u05dd \u05d0\u05dc \u05ea\u05e9\u05db\u05d7 \u05dc\u05d4\u05d5\u05e1\u05d9\u05e3 \u05d0\u05ea \u05e9\u05d9\u05e8\u05d5\u05ea\u05d9 \u05d4\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da \u05d5\u05d0\u05ea \u05e9\u05e2\u05d5\u05ea \u05d4\u05e4\u05e2\u05d9\u05dc\u05d5\u05ea.\n\n\ud83d\udca1\u05d4\u05de\u05dc\u05e6\u05d4 \u05de\u05d0\u05d9\u05ea\u05e0\u05d5 \u05d1\u05db\u05d3\u05d9 \u05e9\u05d4\u05e2\u05de\u05d5\u05d3 \u05e0\u05d7\u05d9\u05ea\u05d4 \u05e9\u05dc\u05da \u05d9\u05d4\u05d9\u05d4 \u05de\u05de\u05d5\u05ea\u05d2 \u05d5\u05de\u05d5\u05e9\u05da:\n - \u05d4\u05d5\u05e1\u05e3 \u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05e9\u05dc \u05d4\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da \u05d5\u05ea\u05de\u05d5\u05e0\u05d5\u05ea \u05d4\u05de\u05d9\u05d9\u05d7\u05d3\u05d5\u05ea \u05d0\u05d5\u05ea\u05da.\n-\u05d1\u05d7\u05e8 \u05d0\u05ea \u05e2\u05e8\u05db\u05ea \u05d4\u05e0\u05d5\u05e9\u05d0 \u05d4\u05de\u05ea\u05d0\u05d9\u05de\u05d4 \u05d1\u05de\u05d9\u05d5\u05d7\u05d3 \u05dc\u05e2\u05e1\u05e7 \u05e9\u05dc\u05da.\n\n\u05e0\u05e9\u05de\u05d7 \u05dc\u05ea\u05d0\u05dd \u05e9\u05d9\u05d7\u05d4 \u05e7\u05e6\u05e8\u05d4 \u05e9\u05dc \u05de\u05e1\u05e4\u05e8 \u05d3\u05e7\u05f3 \u05d1\u05d4 \u05e0\u05e2\u05e0\u05d4 \u05e2\u05dc \u05e9\u05d0\u05dc\u05d5\u05ea \u05d5\u05e0\u05e2\u05d6\u05d5\u05e8 \u05d1\u05d4\u05e7\u05de\u05d4 \u05d5\u05ea\u05e4\u05e2\u05d5\u05dc \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4 \u2728\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\n\u05dc\u05db\u05dc \u05e9\u05d0\u05dc\u05d4 \u05d0\u05d5 \u05d1\u05e7\u05e9\u05d4 \u05d0\u05e0\u05d5 \u05d6\u05de\u05d9\u05e0\u05d9\u05dd \u05d1\u05d0\u05d9\u05de\u05d9\u05d9\u05dc:\nsuppport@simpletor.app\n\n\u05dc\u05e2\u05d3\u05db\u05d5\u05e0\u05d9\u05dd \u05d4\u05db\u05d9 \u05d7\u05de\u05d9\u05dd \u05d5\u05dc\u05db\u05dc \u05d4\u05ea\u05dc\u05d1\u05d8\u05d5\u05ea \u05d0\u05e0\u05d5 \u05d6\u05de\u05d9\u05e0\u05d9\u05dd \u05d2\u05dd \u05d1\u05d0\u05d9\u05e0\u05e1\u05d8\u05d2\u05e8\u05dd: \nhttps://www.instagram.com/simpletor.official\n\n\nSimple Tor \u05e6\u05d5\u05d5\u05ea \u05d4\u05ea\u05de\u05d9\u05db\u05d4\n"
 t=r.a.db
-q=B.M(q,"NAME",t)
+q=B.N(q,"NAME",t)
 t=r.a
 s=t.CW
 t=s==null?t.R8:s
-B.nn(new B.m7(B.M(q,"LINK","https://simpletor.app/business/"+t))).H(0,new A.emg(),x.H)
+B.nn(new B.m7(B.N(q,"LINK","https://simpletor.app/business/"+t))).H(0,new A.emg(),x.H)
 r=$.m2()
 q=B.fz(u.c)
-r.Mx(B.M(q,"-",""))
+r.Mx(B.N(q,"-",""))
 return B.f(null,v)}})
 return B.h($async$$0,v)},
 $S:3}
@@ -740,7 +740,7 @@ v(B.w,[A.b4x,A.amT,A.aXk,A.bhZ,A.anc])})()
 B.bj(b.typeUniverse,JSON.parse('{"a4Q":{"a6":[],"k":[]},"bxb":{"a7":["a4Q"]},"b4x":{"w":[],"k":[]},"amT":{"w":[],"k":[]},"aXk":{"w":[],"k":[]},"bhZ":{"w":[],"k":[]},"anc":{"w":[],"k":[]}}'))
 var y={c:"assets/animations/success_animation.json.zip"}
 var x=(function rtii(){var w=B.E
-return{q:w("q1"),D:w("K<iS>"),p:w("K<k>"),l:w("b8D"),P:w("ay"),C:w("oo"),Y:w("G<eF>"),W:w("O<eF>"),z:w("a6x?"),I:w("F?"),H:w("~")}})();(function constants(){D.aUW=new B.aJ(57420,"MaterialIcons",null,!1)
+return{q:w("q2"),D:w("K<iS>"),p:w("K<k>"),l:w("b8D"),P:w("ay"),C:w("oo"),Y:w("G<eF>"),W:w("O<eF>"),z:w("a6x?"),I:w("F?"),H:w("~")}})();(function constants(){D.aUW=new B.aJ(57420,"MaterialIcons",null,!1)
 D.aVK=new B.aJ(59197,"MaterialIcons",null,!1)
 D.aVL=new B.aJ(59212,"MaterialIcons",null,!1)
 D.aVN=new B.aJ(59462,"MaterialIcons",null,!1)
@@ -762,4 +762,4 @@ return B.b([B.bf(v,!0,!0,!1,C.M,v,!0,!1,D.aVK,22,!1,!1,v,v,"\u05e1\u05d8\u05d8\u
 w($,"h4Y","eZR",()=>{var v=null
 return B.b([B.bf(v,!0,!0,!1,C.M,v,!0,!1,C.fj,22,!1,!1,v,v,"\u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05de\u05ea\u05d7\u05d3\u05e9\u05d5\u05ea",!1,!1,!1,!0,v,v,v,new A.ea_(),!1,v,0,new A.ea0(),!0,!0,v,v,!0,v,v,v,!0,!0,v,v,v,!1,B.eD(v,B.aXv().z,v,new A.ea1(),v,!0),1),B.bf(v,!0,!0,!1,C.M,v,!0,!1,C.fj,23,!1,!1,v,v,"\u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05de\u05e6\u05d8\u05d1\u05e8\u05d5\u05ea",!1,!1,!1,!0,v,v,v,new A.ea3(),!1,v,0,new A.ea4(),!0,!0,v,v,!0,v,v,v,!0,!0,v,v,v,!1,B.eD(v,B.aXv().z,v,new A.ea5(),v,!0),1),B.bf(v,!0,!0,!1,C.M,v,!0,!1,C.dk,24,!1,!1,v,v,"\u05d1\u05e7\u05e9\u05d5\u05ea \u05ea\u05e9\u05dc\u05d5\u05dd \u05de\u05ea\u05d7\u05d3\u05e9\u05d5\u05ea",!1,!1,!1,!0,v,v,v,new A.ea6(),!1,v,0,new A.ea7(),!0,!0,v,v,!0,v,v,v,!0,!0,v,v,v,!1,B.eD(v,B.aXv().z,v,new A.ea8(),v,!0),1),B.bf(v,!0,!0,!1,C.M,v,!0,!1,C.dk,25,!1,!1,v,v,"\u05d1\u05e7\u05e9\u05d5\u05ea \u05ea\u05e9\u05dc\u05d5\u05dd \u05de\u05e6\u05d8\u05d1\u05e8\u05d5\u05ea",!1,!1,!1,!0,v,v,v,new A.ea9(),!1,v,0,new A.eaa(),!0,!0,v,v,!0,v,v,v,!0,!0,v,v,v,!1,B.eD(v,B.aXv().z,v,new A.ea2(),v,!0),1)],x.D)})})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_344",e:"endPart",h:b})})($__dart_deferred_initializers__,"Jh2//LdEbFYZ9IQLtp3pgKJc8rU=");
+a.eventLog.push({p:"main.dart.js_344",e:"endPart",h:b})})($__dart_deferred_initializers__,"n0eMG6EXm6sPC0yvh+HyBBRS9YE=");

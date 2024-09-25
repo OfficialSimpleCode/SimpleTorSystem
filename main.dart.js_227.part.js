@@ -104,7 +104,7 @@ o=$.aj?null:$.aT.n()*0.87
 n=A.l("pickCustomerToSync",null,null,!0)
 m=C.f.l(s)
 w=4
-return A.c(A.a8m(null,new A.O(A.q(k,i),r,q),new B.cdo(t,p,j),null,d,null,new B.cdp(),new B.cdq(t,j),o,!1,new B.cdr(t,p),s,p,null,null,new B.cds(t,p),!0,!0,!0,new B.cdt(),A.M(n,"LIMIT",m),A.l("pickCustomers",null,null,!0),null,null,i),$async$Pg)
+return A.c(A.a8m(null,new A.O(A.q(k,i),r,q),new B.cdo(t,p,j),null,d,null,new B.cdp(),new B.cdq(t,j),o,!1,new B.cdr(t,p),s,p,null,null,new B.cds(t,p),!0,!0,!0,new B.cdt(),A.N(n,"LIMIT",m),A.l("pickCustomers",null,null,!0),null,null,i),$async$Pg)
 case 4:l=f
 u=l==null?A.q(k,i):l
 w=1
@@ -128,7 +128,7 @@ w.toString
 v=w-f.gC(f)
 if(J.aG(e.a)>v){w=A.l("cantAddClientTooMuch",null,null,!0)
 u=C.f.l(v)
-new A.a5(A.M(w,"LIMIT",u),C.m,C.n,C.r,d).E()
+new A.a5(A.N(w,"LIMIT",u),C.m,C.n,C.r,d).E()
 return!1}return!0},
 v1(d,e,f){return new A.G(f,new B.cdw(this,f,e),null,null,x.D)},
 aWD(d,e,f,g){if(J.ek(d.a,e.d)){if(f)return
@@ -169,7 +169,7 @@ return A.bE(!1,!0,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,new B.dw2(this,d),!1,new A.y(12,
 c0N(d){var w=null,v=A.l("clients",w,w,!1)
 return A.bE(!1,!0,!1,!0,!1,!0,!1,!1,!0,!0,!1,!0,new B.dw1(this,d),!1,new A.y(12,16,12,16),new A.aD(D.aV7,24,!0,1,!1,!1,!1,w,w),5,w,w,!1,w,w,13,A.k0(w,!1,!1,!1,!0,!1,0.7,20),w,w,v,15,0,w)}}
 B.bre.prototype={
-m(d){var w=this,v=null,u=A.bT(!1,v,v,v,C.lD,!0,!1,!0,!1,v,v,v,v,!0,new B.dx0(w),!1,v,!1,v,v,0.55,v,v,v,A.l("call",v,v,!0),v),t=A.bT(!1,v,v,v,C.fi,!0,!1,!0,!1,v,v,v,v,!0,new B.dx1(w,d),!1,v,!1,v,v,0.55,v,v,v,A.l("whatsapp",v,v,!1),v),s=A.l("messageToWorker",v,v,!0),r=A.l("messageToWorkerExplanation",v,v,!0),q=w.c,p=q.d,o=A.pz($.H().a),n=A.r(d).ax,m=n.Y
+m(d){var w=this,v=null,u=A.bT(!1,v,v,v,C.lD,!0,!1,!0,!1,v,v,v,v,!0,new B.dx0(w),!1,v,!1,v,v,0.55,v,v,v,A.l("call",v,v,!0),v),t=A.bT(!1,v,v,v,C.fi,!0,!1,!0,!1,v,v,v,v,!0,new B.dx1(w,d),!1,v,!1,v,v,0.55,v,v,v,A.l("whatsapp",v,v,!1),v),s=A.l("messageToWorker",v,v,!0),r=A.l("messageToWorkerExplanation",v,v,!0),q=w.c,p=q.d,o=A.pA($.H().a),n=A.r(d).ax,m=n.Y
 n=m==null?n.k2:m
 p=F.eMt(n,r,new A.dv(C.dF,o,v,v,v,v,v),new A.y(12,12,12,12),!0,26,s,p)
 s=!w.d
@@ -242,7 +242,7 @@ return A.h($async$$0,v)},
 $S:376}
 B.cdp.prototype={
 $2(d,e){var w=A.fz(d.c)
-if(!C.j.u(A.M(w,"-",""),e))if(!C.j.u(A.fz(d.c),e)){w=d.b
+if(!C.j.u(A.N(w,"-",""),e))if(!C.j.u(A.fz(d.c),e)){w=d.b
 if(w==="")w=d.a
 w=C.j.u(w.toLowerCase(),e.toLowerCase())}else w=!0
 else w=!0
@@ -264,7 +264,7 @@ B.cdw.prototype={
 $3(d,e,f){var w,v,u,t=null,s=this.a,r=this.b,q=this.c,p=A.eH("",50,q.e===C.bm?"assets/woman_profile.webp":"assets/man_profile.webp"),o=q.b
 if(o==="")o=q.a
 w=x.p
-v=A.a1(A.b([A.B(A.fz(q.c),t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,0.7,t,!1,!1,!1,14,t,""),new A.pN(q.f,0.7,!1,t)],w),C.e,C.i,C.d)
+v=A.a1(A.b([A.B(A.fz(q.c),t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,0.7,t,!1,!1,!1,14,t,""),new A.pO(q.f,0.7,!1,t)],w),C.e,C.i,C.d)
 u=J.ek(r.a,q.d)
 return A.L(A.b([A.bE(!1,!0,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,new B.cdu(s,r,q),!1,new A.y(10,7,10,7),p,5,t,t,!1,t,v,13,A.kP(t,t,new B.cdv(s,r,q),new A.fu(0,C.Y),new A.ca(A.r(d).ax.k3,1,C.a9,-1),u),t,t,o,17,0,t),A.d1(t,0,0.8)],w),C.e,C.i,C.d)},
 $S:659}
@@ -319,7 +319,7 @@ while(true)switch(w){case 0:s=t.a.c
 r=A.l("dataOf",null,null,!0)
 q=s.b
 w=3
-return A.c(A.arQ(!1,t.b,A.M(r,"NAME",q),s),$async$$0)
+return A.c(A.arQ(!1,t.b,A.N(r,"NAME",q),s),$async$$0)
 case 3:u=e
 w=1
 break
@@ -333,7 +333,7 @@ while(true)switch(w){case 0:s=t.a.c
 r=A.l("clientsOf",null,null,!0)
 q=s.b
 w=3
-return A.c(A.ag1(!1,t.b,A.M(r,"NAME",q),s),$async$$0)
+return A.c(A.ag1(!1,t.b,A.N(r,"NAME",q),s),$async$$0)
 case 3:u=e
 w=1
 break
@@ -356,10 +356,10 @@ w(A.d_,[B.cdp,B.cdr])})()
 A.bj(b.typeUniverse,JSON.parse('{"aZl":{"w":[],"k":[]},"br5":{"w":[],"k":[]},"br9":{"w":[],"k":[]},"bre":{"w":[],"k":[]},"brd":{"w":[],"k":[]}}'))
 var y={c:"assets/animations/success_animation.json.zip"}
 var x=(function rtii(){var w=A.E
-return{O:w("c3"),s:w("K<p>"),p:w("K<k>"),i:w("a_<p,c3>"),P:w("ay"),N:w("p"),D:w("G<a_<p,c3>>"),q:w("O<a_<p,c3>>"),g:w("O<Tq?>"),K:w("l9"),y:w("J"),z:w("@"),H:w("~")}})();(function constants(){D.aS1=new A.y(0,14,0,15)
+return{O:w("c3"),s:w("K<p>"),p:w("K<k>"),i:w("a_<p,c3>"),P:w("ay"),N:w("p"),D:w("G<a_<p,c3>>"),q:w("O<a_<p,c3>>"),g:w("O<Tr?>"),K:w("l9"),y:w("J"),z:w("@"),H:w("~")}})();(function constants(){D.aS1=new A.y(0,14,0,15)
 D.aSE=new A.y(14,10,14,10)
 D.aV7=new A.aJ(57781,"MaterialIcons",null,!1)
 D.aVC=new A.aJ(58927,"MaterialIcons",null,!1)
 D.aWr=new A.aJ(983049,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_227",e:"endPart",h:b})})($__dart_deferred_initializers__,"+jCAyTH1MHvUSEDFxonSkYuQE3c=");
+a.eventLog.push({p:"main.dart.js_227",e:"endPart",h:b})})($__dart_deferred_initializers__,"gy56ZV4yYm8P7A6GgGopJNIK3d4=");

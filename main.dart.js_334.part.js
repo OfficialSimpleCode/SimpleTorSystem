@@ -19,7 +19,7 @@ B.c90.prototype={
 $0(){var x=0,w=A.i(y.h),v=this
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:x=2
-return A.c(A.Rk(v.a,!0,"https://simpletor.app",!0),$async$$0)
+return A.c(A.Rl(v.a,!0,"https://simpletor.app",!0),$async$$0)
 case 2:return A.f(null,w)}})
 return A.h($async$$0,w)},
 $S:3}
@@ -27,7 +27,7 @@ B.c91.prototype={
 $0(){var x=0,w=A.i(y.h),v=this
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:x=2
-return A.c(A.Rk(v.a,!0,"https://simpletor.app/contact-us",!0),$async$$0)
+return A.c(A.Rl(v.a,!0,"https://simpletor.app/contact-us",!0),$async$$0)
 case 2:return A.f(null,w)}})
 return A.h($async$$0,w)},
 $S:3}
@@ -42,4 +42,4 @@ x(A.bz,[B.c90,B.c91,B.c92,B.c93])})()
 A.bj(b.typeUniverse,JSON.parse('{"aXz":{"w":[],"k":[]},"blu":{"w":[],"k":[]}}'))
 var y={e:A.E("K<k>"),h:A.E("ay")};(function constants(){D.aSL=new A.y(15,7,15,7)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_334",e:"endPart",h:b})})($__dart_deferred_initializers__,"wJEhl36vr+Q2RRwfQTWRQBrIsTA=");
+a.eventLog.push({p:"main.dart.js_334",e:"endPart",h:b})})($__dart_deferred_initializers__,"CEgaAsM1T8hmUyF8hlbYndyseMs=");

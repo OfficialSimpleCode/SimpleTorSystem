@@ -273,7 +273,7 @@ $.aB.x2$.push(new B.dLs(this))}}
 B.b1f.prototype={
 m(d){var w=null
 return new A.a22(new B.cgx(this,new A.cW(0,!0,w,w,w,A.b([],x.F),$.af())),w)},
-vx(){return new A.SI(new B.cgy(this),null)},
+vx(){return new A.SJ(new B.cgy(this),null)},
 TM(d){var w=null,v=this.x&&$.W().gbo()>1,u=this.y
 if(u==null)u=A.l("clients",w,w,!0)
 return A.mv(w,new B.cgv(this),v,w,w,d,w,w,w,A.l("clientsExplain",w,w,!0),!1,w,!0,w,!0,!1,32,u)}}
@@ -327,7 +327,7 @@ else r=r===1?"thereIsOneOrder":"thereAreOrdersAmount"
 r=A.l(r,o,o,!0)
 q=w.dy
 q=C.f.l(q.a+q.d)
-r=A.M(r,"AMOUNT",q)+(" "+A.l("inTheLastYear",o,o,!0))}else r=o
+r=A.N(r,"AMOUNT",q)+(" "+A.l("inTheLastYear",o,o,!0))}else r=o
 q=x.p
 return A.b1(p.e,C.l,u,C.a2,o,o,A.dl(new A.P(D.aRO,A.L(A.b([A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,o,!1,o,new B.b0X(w,o),5,o,o,!1,r,o,13,A.a1(A.b([new A.n(20,o,o,o),new B.bnG(w,o),new A.n(10,o,o,o),C.ik],q),C.e,C.i,C.d),o,o,s,15,0,o),new B.b5I(w,p.f,p.x,o)],q),C.e,C.i,C.d),o),o,!1,!1,!1,new B.cgn(p,d),o),t.ax.k2,0,"",o,!1,new A.cp("CustomerDateWidget",x.W),o,!1,!0,new B.cgo(p,d),o,o,o,o,n,0.55,C.bp,"clientItemShowcase",o)}}
 B.b5I.prototype={
@@ -393,7 +393,7 @@ t=r.e
 s=r.d
 v=A.UB(A.kR(0,q,q,C.I,v,C.D,q,C.aJ,new A.o2(C.f7,new A.kN(q)),q,q,!1,q,C.O,!1,A.b([new B.b1d(w,s,v,t,u,q),r.vx(),B.eGn(r.r,w,s,t,u)],x.p)),!1,60,v)
 w=v}}return A.ao(q,A.d0(o,q,A.Wu(w,C.oZ),q,!1,q,23,!1,!1,q,!1,!0),C.o,p,q,q,q,q,q,q,q,q,q,q)},
-vx(){return new A.SI(new B.cgd(this),null)},
+vx(){return new A.SJ(new B.cgd(this),null)},
 TM(d){var w=null,v=this.w&&$.W().gbo()>1,u=this.x
 if(u==null)u=A.l("clients",w,w,!0)
 return A.mv(w,new B.cgb(this),v,w,w,d,w,w,w,A.l("clientsExplain",w,w,!0),!1,w,!0,w,!0,!0,32,u)}}
@@ -401,7 +401,7 @@ B.b1_.prototype={
 m(d){var w,v,u=null,t=$.fr().b.x.h(0,$.H().a.y1).h(0,C.eE),s=this.gb9n(),r=$.aj,q=A.r(d).ax,p=q.a8
 q=p==null?q.k3:p
 q=A.el(A.S(51,q.gi(q)>>>16&255,q.gi(q)>>>8&255,q.gi(q)&255),-1,0.6)
-p=A.B(A.N(t),u,!1,!1,u,!1,!1,u,!1,!1,!0,!1,0.7,u,!1,!1,!1,15,u,"")
+p=A.B(A.M(t),u,!1,!1,u,!1,!1,u,!1,!1,!0,!1,0.7,u,!1,!1,!1,15,u,"")
 w=A.B("/",u,!1,!1,u,!1,!1,u,!1,!1,!0,!1,0.7,u,!1,!1,!1,15,u,"")
 v=s>(t==null?0:t)?C.an:u
 v=A.a1(A.b([new A.n(20,u,u,u),p,new A.n(1,u,u,u),w,new A.n(1,u,u,u),A.B(""+s,u,!1,!1,v,!1,!1,u,!1,!1,!0,!1,0.7,u,!1,!1,!1,15,u,"")],x.p),C.e,C.i,C.d)
@@ -534,7 +534,7 @@ if(v==="")v=e.a
 w=this.b
 if(!C.j.u(v.toLowerCase(),w.toLowerCase())){v=e.c
 if(!C.j.u(v,w))if(!C.j.u(A.fz(v),w)){v=A.fz(e.c)
-v=C.j.u(A.M(v,"-",""),w)}else v=!0
+v=C.j.u(A.N(v,"-",""),w)}else v=!0
 else v=!0}else v=!0
 if(v)J.bc(this.a.a,d,e)},
 $S:48}
@@ -816,4 +816,4 @@ D.rB=new B.n5(5,"freeFromPayment")
 D.b_o=A.b(w([D.Ct,D.Cu,D.Jt,D.Ju,D.Cv,D.rB]),x.i)
 D.a3H=new A.bl([D.Ct,"name",D.Cu,"NewToRegular",D.Jt,"RegularToNew",D.Ju,"maxBookings",D.Cv,"minBookings",D.rB,"freeFromPayment"],A.E("bl<n5,p>"))})();(function staticFields(){$.fnq=A.b([C.ew],A.E("K<hm>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_224",e:"endPart",h:b})})($__dart_deferred_initializers__,"gIThm1UTuJGOZGOMKsqIsczNU3w=");
+a.eventLog.push({p:"main.dart.js_224",e:"endPart",h:b})})($__dart_deferred_initializers__,"0UzFkpisZ93ONe8GYbDgnsu6RVY=");

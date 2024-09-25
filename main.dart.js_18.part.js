@@ -7,7 +7,7 @@ var $async$enZ=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=A.l("signAsNewClinet",null,null,!0)
 t=A.l("doYouWantToBeClient",null,null,!0)
 s=$.H().a.ok
-t=A.B(A.M(t,"BUSINESSNAME",s),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,"")
+t=A.B(A.N(t,"BUSINESSNAME",s),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,"")
 s=A.l("yes",null,null,!0)
 x=3
 return A.c(A.de(C.az,!1,1,!0,null,A.l("no",null,null,!0),null,t,d,C.a0,20,!0,!0,C.A,new B.eo_(),new B.eo0(),!1,s,u),$async$enZ)
@@ -216,7 +216,7 @@ this.ar()
 x=$.dU()
 this.a.toString
 w=x.fx||x.fy?1:0
-x.c=A.oW(w,1)
+x.c=A.oX(w,1)
 x.d=new A.O(w,$.af(),y.e)},
 m(d){var x=null,w=A.bC(this.csP(0),x,x),v=this.a.c
 if(v===C.dT)v="userDeletionExplain"
@@ -342,7 +342,7 @@ else t=t===C.hV?"addProviderWith":"signInWith"
 t=A.l(t,r,r,!0)
 v=C.kQ.h(0,v)
 v=A.l(v==null?"":v,r,r,!0)
-return A.ae(r,r,x,r,A.dl(new A.P(new A.y(10,12,10,12),A.a1(A.b([new A.aD(u,24,!1,1,!1,!0,!1,r,r),new A.n(9,r,r,r),new A.f9(1,C.bD,A.B(A.M(t,"PROVIDER",v),C.t,!1,!1,r,!0,!1,r,!1,!1,!1,!0,1,r,!1,!1,!1,15,r,""),r)],y.p),C.e,C.F,C.d),r),r,!1,!1,!1,new B.cFs(s,d),r),w,r,0,!1,r,r,r,new A.y(0,8,0,8),!1,r,o,r,r,r,!1,!1,!1,q*0.8)},
+return A.ae(r,r,x,r,A.dl(new A.P(new A.y(10,12,10,12),A.a1(A.b([new A.aD(u,24,!1,1,!1,!0,!1,r,r),new A.n(9,r,r,r),new A.f9(1,C.bD,A.B(A.N(t,"PROVIDER",v),C.t,!1,!1,r,!0,!1,r,!1,!1,!1,!0,1,r,!1,!1,!1,15,r,""),r)],y.p),C.e,C.F,C.d),r),r,!1,!1,!1,new B.cFs(s,d),r),w,r,0,!1,r,r,r,new A.y(0,8,0,8),!1,r,o,r,r,r,!1,!1,!1,q*0.8)},
 U(d){return this.clf(d)},
 clf(d){var x=0,w=A.i(y.H),v,u=this,t,s
 var $async$U=A.d(function(e,f){if(e===1)return A.e(f,w)
@@ -398,7 +398,7 @@ r===$&&A.j()
 x=s.ax
 w=!x
 v=A.l("email",u,u,!0)
-return A.b1(!0,C.l,u,C.a2,u,u,new A.P(D.Fe,A.a1(A.b([A.b5(A.dD(!1,u,!1,u,u,r,u,d,u,u,u,u,A.bVa(),u,v+(!s.ax?" - "+A.l("optional",u,u,!0):""),u,!0,u,u,u,this.gavh(),u,u,u,!0,u,u,!1,u,u,x,w,!0,w,!0,!1,u,u,C.aH),1),new A.pN(s.ax,1,!1,u)],y.p),C.e,C.i,C.d),u),u,0,t,u,!1,u,u,!0,!0,u,u,u,u,u,u,0.55,u,u,u)},
+return A.b1(!0,C.l,u,C.a2,u,u,new A.P(D.Fe,A.a1(A.b([A.b5(A.dD(!1,u,!1,u,u,r,u,d,u,u,u,u,A.bVa(),u,v+(!s.ax?" - "+A.l("optional",u,u,!0):""),u,!0,u,u,u,this.gavh(),u,u,u,!0,u,u,!1,u,u,x,w,!0,w,!0,!1,u,u,C.aH),1),new A.pO(s.ax,1,!1,u)],y.p),C.e,C.i,C.d),u),u,0,t,u,!1,u,u,!0,!0,u,u,u,u,u,u,0.55,u,u,u)},
 avi(d){var x=A.bS9(d)==null,w=$.dU(),v=w.x
 v===$&&A.j()
 if(x===v.a)return
@@ -428,7 +428,7 @@ w=s.z
 w===$&&A.j()
 v=s.y
 v===$&&A.j()
-return A.b1(!0,C.l,u,C.a2,u,u,new A.P(D.Fe,A.a1(A.b([A.b5(A.alf(r,u,w,u,u,u,v,u,!1,22,x,!x,!0,u),1),new A.pN(x,1,!1,u)],y.p),C.e,C.i,C.d),u),u,0,t,u,!1,u,u,!0,!0,u,u,u,u,u,u,0.55,u,u,u)}}
+return A.b1(!0,C.l,u,C.a2,u,u,new A.P(D.Fe,A.a1(A.b([A.b5(A.alf(r,u,w,u,u,u,v,u,!1,22,x,!x,!0,u),1),new A.pO(x,1,!1,u)],y.p),C.e,C.i,C.d),u),u,0,t,u,!1,u,u,!0,!0,u,u,u,u,u,u,0.55,u,u,u)}}
 B.bjQ.prototype={
 m(d){var x=null
 return A.L(A.b([new B.bjR(this.c,x),new A.n(x,5,x,x),new B.bfM(x)],y.p),C.e,C.i,C.d)}}
@@ -445,7 +445,7 @@ x=w==null?x.k3:w
 w=C.h.W(178.5)
 p=A.bO(s,s,o.cf(A.S(w,x.gi(x)>>>16&255,x.gi(x)>>>8&255,x.gi(x)&255),14),p)
 x=A.l("policy",s,s,!0)
-o=A.p5(s,s)
+o=A.p6(s,s)
 o.bn=new B.d23(this,d)
 v=A.r(d).p2.z
 v.toString
@@ -458,23 +458,23 @@ t=u.a8
 u=t==null?u.k3:t
 v=A.bO(s,s,o.cf(A.S(w,u.gi(u)>>>16&255,u.gi(u)>>>8&255,u.gi(u)&255),14)," "+v)
 u=A.l("termToUse",s,s,!0)
-w=A.p5(s,s)
+w=A.p6(s,s)
 w.bn=new B.d24(this,d)
 o=A.r(d).p2.z
 o.toString
-return new A.n(r,s,A.RY(s,s,C.bg,s,s,!0,s,A.bO(A.b([p,x,v,A.bO(s,w,o.cf(A.r(d).ax.y,14.5),u)],y.n),s,q,s),C.t,s,s,C.ak,C.aj),s)},
+return new A.n(r,s,A.RZ(s,s,C.bg,s,s,!0,s,A.bO(A.b([p,x,v,A.bO(s,w,o.cf(A.r(d).ax.y,14.5),u)],y.n),s,q,s),C.t,s,s,C.ak,C.aj),s)},
 zP(d){return this.cmQ(d)},
 cmQ(d){var x=0,w=A.i(y.H)
 var $async$zP=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:x=2
-return A.c(A.Rk(d,!0,"https://simpletor.app/privacy",!0),$async$zP)
+return A.c(A.Rl(d,!0,"https://simpletor.app/privacy",!0),$async$zP)
 case 2:return A.f(null,w)}})
 return A.h($async$zP,w)},
 zQ(d){return this.cmZ(d)},
 cmZ(d){var x=0,w=A.i(y.H)
 var $async$zQ=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:x=2
-return A.c(A.Rk(d,!0,"https://simpletor.app/terms-of-use",!0),$async$zQ)
+return A.c(A.Rl(d,!0,"https://simpletor.app/terms-of-use",!0),$async$zQ)
 case 2:return A.f(null,w)}})
 return A.h($async$zQ,w)}}
 var z=a.updateTypes(["~(@)"])
@@ -588,7 +588,7 @@ x.si(0,d)
 w.d.B()},
 $S:25}
 B.e_S.prototype={
-$0(){A.pe(null)
+$0(){A.pf(null)
 A.dn(this.a)},
 $S:1}
 B.ddY.prototype={
@@ -643,6 +643,6 @@ return{V:x("ix"),n:x("K<Yw>"),p:x("K<k>"),N:x("p"),R:x("YB"),O:x("cp<p>"),z:x("G
 D.aSH=new A.y(15,10,15,0)
 D.Fe=new A.y(15,5,15,15)
 D.aVj=new A.aJ(58394,"MaterialIcons",null,!1)
-D.b_K=A.b(x([C.j8,C.jK,C.bW]),A.E("K<pX>"))})()};
+D.b_K=A.b(x([C.j8,C.jK,C.bW]),A.E("K<pY>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_18",e:"endPart",h:b})})($__dart_deferred_initializers__,"cARlnYWcCVI+hakN0P+8MXdG+A8=");
+a.eventLog.push({p:"main.dart.js_18",e:"endPart",h:b})})($__dart_deferred_initializers__,"zovQe/aI0P5BkkJB4LPJ9G2/ctI=");

@@ -70,10 +70,10 @@ q=p==null?q.y:p
 p=A.l("tashNumber",k,k,!0)
 o=A.l(!t.e?"canChooseOnlyTashs":"cantChooseOnlyTashs",k,k,!0)
 n=B.f.l(t.d)
-o=A.M(o,"NUMBER",n)
+o=A.N(o,"NUMBER",n)
 n=t.e
 m=n?0.7:1
-return A.ao(B.l,A.ec(A.L(A.b([w,new A.al4(18,v.ax.k3,k),new A.n(k,15,k,k),u,new A.n(k,15,k,k),A.b1(!0,B.l,k,B.a2,k,k,A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,k,!1,new A.y(15,9,15,9),k,5,k,k,!1,o,k,13,A.cV(A.oF(n,A.a26(!0,25,70,t.d,1,k,!0,s)),m),k,k,p,15,0,k),q,0,"",k,!1,k,k,!1,!0,k,k,k,k,k,k,0.55,k,k,r*0.8),new A.n(k,15,k,k),A.a1(A.b([l.a6Z(d),l.cnQ(d)],j),B.e,B.F,B.d),new A.n(k,30,k,k)],j),B.e,B.i,B.d),k,B.D,B.a7,k,k,k,B.O),B.o,x.ax.k2,k,k,k,k,k,new A.y(10,0,10,0),k,k,k,k)},
+return A.ao(B.l,A.ec(A.L(A.b([w,new A.al4(18,v.ax.k3,k),new A.n(k,15,k,k),u,new A.n(k,15,k,k),A.b1(!0,B.l,k,B.a2,k,k,A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,k,!1,new A.y(15,9,15,9),k,5,k,k,!1,o,k,13,A.cV(A.oG(n,A.a26(!0,25,70,t.d,1,k,!0,s)),m),k,k,p,15,0,k),q,0,"",k,!1,k,k,!1,!0,k,k,k,k,k,k,0.55,k,k,r*0.8),new A.n(k,15,k,k),A.a1(A.b([l.a6Z(d),l.cnQ(d)],j),B.e,B.F,B.d),new A.n(k,30,k,k)],j),B.e,B.i,B.d),k,B.D,B.a7,k,k,k,B.O),B.o,x.ax.k2,k,k,k,k,k,new A.y(10,0,10,0),k,k,k,k)},
 cnQ(d){var x=null,w=A.r(d)
 return A.ae(x,x,x,x,A.a1(A.b([new A.aD(B.dk,24,!1,1,!0,!1,!1,x,x),new A.n(5,x,x,x),A.B(A.l("payInPage",x,x,!0),B.t,!0,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,14,x,"")],y.u),B.e,B.i,B.d),w.ax.y,x,0,!1,x,x,x,x,!1,new C.cec(d),x,new A.y(20,7,20,7),x,x,!1,!1,!1,x)},
 a6Z(d){var x,w,v=null
@@ -90,7 +90,7 @@ return new A.P(new A.y(0,10,0,0),A.a1(A.b([E.eKM(!0,!1,this.e,0.8),new A.n(20,x,
 csC(){return new A.G(this.e,new C.dl0(),null,null,y.h)},
 ahK(d){return new A.G(this.d,new C.dl_(this,d),null,null,y.h)}}
 C.beD.prototype={
-m(d){var x,w,v,u,t,s=this,r=null,q=A.oW(0,1),p=$.af(),o=new A.O(!1,p,y.B),n=$.W(),m=y.d
+m(d){var x,w,v,u,t,s=this,r=null,q=A.oX(0,1),p=$.af(),o=new A.O(!1,p,y.B),n=$.W(),m=y.d
 if(B.b.u(D.S9,n.a.f)){x=new A.O(Math.min(Math.max(0,n.a.f),100),p,m)
 w=new A.O(0,p,m)}else{o.si(0,!0)
 x=new A.O(0,p,m)
@@ -192,4 +192,4 @@ A.bj(b.typeUniverse,JSON.parse('{"ahY":{"w":[],"k":[]},"bmB":{"w":[],"k":[]},"be
 var y={j:A.E("K<ahY>"),u:A.E("K<k>"),m:A.E("G<J>"),h:A.E("G<F>"),B:A.E("O<J>"),d:A.E("O<F>")};(function constants(){var x=a.makeConstList
 D.S9=A.b(x([0,5,10,17]),A.E("K<F>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_56",e:"endPart",h:b})})($__dart_deferred_initializers__,"Dzn4xe3MqAA/BSV5ONTQQRMN4vc=");
+a.eventLog.push({p:"main.dart.js_56",e:"endPart",h:b})})($__dart_deferred_initializers__,"Trh6Ga0rUDEAHRIocR9zhwzEY0U=");

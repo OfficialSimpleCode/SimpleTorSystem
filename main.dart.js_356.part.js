@@ -88,7 +88,7 @@ while(true)switch(x){case 0:t=u.b
 s=A.l("treatmentsOf",null,null,!0)
 r=t.b
 x=3
-return A.c(A.a3W(u.a,A.M(s,"NAME",r),t),$async$$0)
+return A.c(A.a3W(u.a,A.N(s,"NAME",r),t),$async$$0)
 case 3:v=e
 x=1
 break
@@ -104,4 +104,4 @@ x(B.e2H,A.d_)})()
 A.bj(b.typeUniverse,JSON.parse('{"bns":{"w":[],"k":[]},"aHm":{"a6":[],"k":[]},"bLv":{"a7":["aHm"]}}'))
 var y={u:A.E("K<k>"),w:A.E("G<p?>"),l:A.E("O<p?>"),z:A.E("l9"),b:A.E("@"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_356",e:"endPart",h:b})})($__dart_deferred_initializers__,"duGEYr8IVsgK3fmiLuy7eanull4=");
+a.eventLog.push({p:"main.dart.js_356",e:"endPart",h:b})})($__dart_deferred_initializers__,"vs6f4FabuaCsPR2crT5I76Xah5E=");

@@ -6,7 +6,7 @@ eaZ(d,e){var w=0,v=A.i(x.u),u,t,s
 var $async$eaZ=A.d(function(f,g){if(f===1)return A.e(g,v)
 while(true)switch(w){case 0:t=A.l("deletedWorker",null,null,!1)
 s=A.l("theBookingHasNoWorker",null,null,!0)
-s=A.B(A.M(s,"WORKERNAME",e),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,"")
+s=A.B(A.N(s,"WORKERNAME",e),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,"")
 w=3
 return A.c(A.j7(A.l("cancel",null,null,!0),s,d,A.l("delete",null,null,!0),new B.eb_(),new B.eb0(),!0,t),$async$eaZ)
 case 3:u=g
@@ -299,7 +299,7 @@ i.a=null
 r=d.a
 if(r.x!=null&&r.as!=null){q=r.as
 q.toString
-p=A.RW(r,q)
+p=A.RX(r,q)
 i.a=p
 r=p}else r=null
 o=$.bVn()
@@ -310,7 +310,7 @@ l=g.a8
 r=A.aBC(r==null?d.a:r)
 k=$.W().a
 w=3
-return A.c(o.cnN(new B.em4(i,e,d,f,g),t-s,r,A.RK($.H().a),e,A.iH(d.a),new B.em5(d),A.ot(d.a).a,q,l,A.iI(d.a).a,k,new A.la(n,m)),$async$bUv)
+return A.c(o.cnN(new B.em4(i,e,d,f,g),t-s,r,A.RL($.H().a),e,A.iH(d.a),new B.em5(d),A.ot(d.a).a,q,l,A.iI(d.a).a,k,new A.la(n,m)),$async$bUv)
 case 3:j=a0
 i=j!=null
 w=i&&!j.z?4:5
@@ -334,7 +334,7 @@ case 3:t=k
 if(!t){h.z=!1
 $.bk().b=C.P3}else{s=d.a
 if(s.x!=null){r=s.as
-if(r!=null)d.si(0,A.RW(s,r))}s=d.a.M
+if(r!=null)d.si(0,A.RX(s,r))}s=d.a.M
 r=h.b
 s.j(0,r.b,r.gm9())
 s=h.a
@@ -342,7 +342,7 @@ if(s!=null)d.a.F.j(0,s.b,s.ghH())
 d.B()
 if(f!=null){s=f.a
 if(s.x!=null){r=s.as
-if(r!=null)f.si(0,A.RW(s,r))}s=f.a.M
+if(r!=null)f.si(0,A.RX(s,r))}s=f.a.M
 r=h.b
 s.j(0,r.b,r.gm9())
 s=h.a
@@ -464,7 +464,7 @@ t=A.l("onlinePayments",m,m,!0)
 s=l.a
 r=A.l(s.M.a===0&&s.xr===C.aB&&!s.ry?"pressToPay":"pressToWatchPayments",m,m,!0)
 q=C.f.l(l.a.M.a)
-s=A.M(r,"AMOUNT",q)
+s=A.N(r,"AMOUNT",q)
 r=n.gX8()?C.en:C.dk
 q=n.gX8()?C.c7:m
 p=A.aes(l.a)
@@ -542,7 +542,7 @@ case 6:n=n.a
 if(n==null){new A.a5(A.l("paymentNoFound",null,null,!1),C.m,C.n,C.r,d).E()
 w=1
 break}w=7
-return A.c(A.Sv(d,!0,null,null,null,null,n,null,m.a.d),$async$Hg)
+return A.c(A.Sw(d,!0,null,null,null,null,n,null,m.a.d),$async$Hg)
 case 7:case 1:return A.f(u,v)}})
 return A.h($async$Hg,v)},
 ad8(d){return this.cnR(d)},
@@ -551,7 +551,7 @@ var $async$ad8=A.d(function(e,f){if(e===1)return A.e(f,v)
 while(true)switch(w){case 0:s=A.l("chooseAction",null,null,!0)
 r=A.l("thereIsPaymentYouWantToWatch",null,null,!0)
 q=C.f.l(t.c.a.M.a)
-r=A.B(A.M(r,"COUNTER",q),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,"")
+r=A.B(A.N(r,"COUNTER",q),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,"")
 w=3
 return A.c(A.de(C.az,!1,1,!0,null,A.l("watchPayments",null,null,!0),null,r,d,C.a0,20,!0,!0,C.A,new B.cYb(),new B.cYc(),!1,A.l("pay",null,null,!0),s),$async$ad8)
 case 3:u=f
@@ -590,7 +590,7 @@ A3(d){return this.cr4(d)},
 cr4(d){var w=0,v=A.i(x.H),u
 var $async$A3=A.d(function(e,f){if(e===1)return A.e(f,v)
 while(true)switch(w){case 0:w=3
-return A.c(A.pd(d),$async$A3)
+return A.c(A.pe(d),$async$A3)
 case 3:w=1
 break
 case 1:return A.f(u,v)}})
@@ -766,7 +766,7 @@ w=this.c
 v=s.P7(w.a.b)
 u=A.l("treatmentPrice",t,t,!0)
 w=s.adz(w.a.b).l(0)
-w=A.B(A.M(u,"PRICE",w),t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,0.8,C.a6,!1,!1,!1,14,t,"")
+w=A.B(A.N(u,"PRICE",w),t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,0.8,C.a6,!1,!1,!1,14,t,"")
 return new A.f9(1,C.bD,A.L(A.b([w,v!=null?new A.P(C.uT,A.B(s.Oa().l(0),t,!1,!1,t,!1,!0,t,!1,!1,!1,!0,0.7,C.a6,!1,!1,!1,12,A.bb(t,t,t,t,C.fZ,t,t,1.5,t,t,t,t,t,t,t,t,t,!0,t,t,t,t,t,t,t,t),""),t):new A.n(t,t,t,t)],x.p),C.fd,C.i,C.d),t)},
 c4P(){var w=null,v=this.d
 if(!v.gvV())return new A.n(w,w,w,w)
@@ -1030,7 +1030,7 @@ return B.e6D(w.c,w.b,w.d,w.a.a,d,w.e)},
 $S:278}
 B.em5.prototype={
 $4$currentAmount$isDeposit$paidAmount$totalAmount(d,e,f,g){var w=A.eB7(d,e,f,g),v=A.aHo(this.a.a)
-return A.M(w,"TREATMENTS",v)},
+return A.N(w,"TREATMENTS",v)},
 $S:374};(function inheritance(){var w=a.inheritMany,v=a.inherit
 w(A.bB,[B.eb_,B.eb0,B.dEH,B.cYa,B.cYb,B.cYc,B.bXp,B.bXq,B.bXr,B.d3u,B.d3v,B.dpd,B.eb1,B.eb2,B.eb3,B.enU,B.enV,B.enS,B.enT,B.ept,B.epu,B.em4,B.em5])
 v(B.atx,A.a6)
@@ -1045,4 +1045,4 @@ var x=(function rtii(){var w=A.E
 return{k:w("x"),p:w("K<k>"),P:w("ay"),C:w("oo"),N:w("p"),V:w("G<da>"),f:w("O<da>"),y:w("J"),z:w("@"),u:w("J?"),H:w("~")}})();(function constants(){D.aT8=new A.y(4,3,4,3)
 D.aTe=new A.y(6,4,6,4)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_361",e:"endPart",h:b})})($__dart_deferred_initializers__,"oMHQruNuagvd+h3aYK+ZfuANrGU=");
+a.eventLog.push({p:"main.dart.js_361",e:"endPart",h:b})})($__dart_deferred_initializers__,"4VUDyfr+5FunDCVATkkjQnA+9qE=");

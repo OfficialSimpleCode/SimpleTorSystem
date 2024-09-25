@@ -285,7 +285,7 @@ bRh(d,e,f,g){var w=0,v=A.i(x.H),u,t,s,r
 var $async$bRh=A.d(function(h,i){if(h===1)return A.e(i,v)
 while(true)switch(w){case 0:if(J.aG(g.a)>=25){t=A.l("cantHaveMoreThanSubjects",null,null,!0)
 s=C.f.l(25)
-new A.a5(A.M(t,"LIMIT",s),C.m,C.n,C.r,d).E()
+new A.a5(A.N(t,"LIMIT",s),C.m,C.n,C.r,d).E()
 w=1
 break}if(J.dk(g.a)){t=$.aY().a
 t=t!==C.jC&&t!==C.d2}else t=!1
@@ -392,7 +392,7 @@ v=s.e
 v===$&&A.j()
 if(v!=null&&s.cy>0){u=A.l(v===C.ht?"mustDeposit":"paymentInAdvance",t,t,!0)
 s=C.h.l(s.axM())
-s=A.B(A.M(u,"AMOUNT",s),t,!1,!1,t,!1,!1,t,!1,!1,!1,!0,0.8,t,!1,!1,!1,11.5,t,"")}else s=new A.n(t,t,t,t)
+s=A.B(A.N(u,"AMOUNT",s),t,!1,!1,t,!1,!1,t,!1,!1,!1,!0,0.8,t,!1,!1,!1,11.5,t,"")}else s=new A.n(t,t,t,t)
 return A.bE(!1,!0,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,new B.dmH(this,e),!1,new A.y(10,10,10,10),new A.iN(new A.o(r),new A.aD(F.ns,24,!1,1,!1,!1,!1,C.y,t),t,t,!0,t),8,t,t,!1,w,t,11,A.a1(A.b([new A.n(15,t,t,t),s,new A.n(6,t,t,t),C.co],p),C.e,C.i,C.d),t,t,"",14,0,q)},
 Td(d){var w,v,u=this,t=null,s=A.aFo(new A.o(4280399818),C.y,C.bJ,A.l("edit",t,t,!0),new B.dmE(u,d),new A.y(6,0,6,0)),r=A.aFo(new A.o(4294855241),C.y,C.cF,A.l("delete",t,t,!0),new B.dmF(u,d),new A.y(6,0,6,0)),q=A.r(d).ax,p=q.CW
 q=p==null?q.y:p
@@ -816,6 +816,6 @@ w(A.a7,[B.bK3,B.aOQ,B.bLw])})()
 A.bj(b.typeUniverse,JSON.parse('{"blp":{"w":[],"k":[]},"aTQ":{"w":[],"k":[]},"blo":{"w":[],"k":[]},"bnr":{"w":[],"k":[]},"aG7":{"a6":[],"k":[]},"bK3":{"a7":["aG7"]},"aG8":{"w":[],"k":[]},"bnp":{"w":[],"k":[]},"aHp":{"a6":[],"k":[]},"aOQ":{"a7":["aHp"]},"aHn":{"a6":[],"k":[]},"bLw":{"a7":["aHn"]},"aTN":{"w":[],"k":[]},"b3R":{"w":[],"k":[]},"bnz":{"w":[],"k":[]}}'))
 var y={c:"assets/animations/success_animation.json.zip"}
 var x=(function rtii(){var w=A.E
-return{x:w("Rp"),F:w("K<fn>"),g:w("K<eq>"),p:w("K<k>"),d:w("e9<eq>"),P:w("ay"),b:w("hm"),N:w("p"),a:w("eq"),Q:w("kC"),O:w("cp<p>"),w:w("G<a_<p,kC>>"),A:w("G<J>"),V:w("O<a_<p,kC>>"),f:w("O<J>"),K:w("l9"),y:w("J"),z:w("@"),S:w("F"),u:w("J?"),H:w("~")}})();(function constants(){E.aV8=new A.aJ(57787,"MaterialIcons",null,!1)})()};
+return{x:w("Rq"),F:w("K<fn>"),g:w("K<eq>"),p:w("K<k>"),d:w("e9<eq>"),P:w("ay"),b:w("hm"),N:w("p"),a:w("eq"),Q:w("kC"),O:w("cp<p>"),w:w("G<a_<p,kC>>"),A:w("G<J>"),V:w("O<a_<p,kC>>"),f:w("O<J>"),K:w("l9"),y:w("J"),z:w("@"),S:w("F"),u:w("J?"),H:w("~")}})();(function constants(){E.aV8=new A.aJ(57787,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_258",e:"endPart",h:b})})($__dart_deferred_initializers__,"KVQu47odm+Z5F074+1lfm+2jKgA=");
+a.eventLog.push({p:"main.dart.js_258",e:"endPart",h:b})})($__dart_deferred_initializers__,"vTWYyK3AHtMlRPLCnYBKVeRH1Mo=");
