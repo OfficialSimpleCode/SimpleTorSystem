@@ -2,13 +2,13 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_27",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-eIG(d){return new B.a5s(d,null)},
+eIH(d){return new B.a5s(d,null)},
 a5s:function a5s(d,e){this.c=d
 this.a=e},
-bAn:function bAn(d){this.a=null
+bAo:function bAo(d){this.a=null
 this.b=d
 this.c=null},
-dQx:function dQx(d){this.a=d},
+dQy:function dQy(d){this.a=d},
 b7C:function b7C(d){this.a=d}},E,F,G,D,H
 A=c[0]
 C=c[2]
@@ -19,8 +19,8 @@ G=c[209]
 D=c[162]
 H=c[225]
 B.a5s.prototype={
-a1(){return new B.bAn(C.v)}}
-B.bAn.prototype={
+a1(){return new B.bAo(C.v)}}
+B.bAo.prototype={
 v(){$.ba().fy=null
 this.aT()},
 al(){var x=$.iW(),w=this.c
@@ -29,7 +29,7 @@ x.atA(w,this.a.c,C.BP)
 this.ar()},
 m(d){var x=$.iW().f
 x===$&&A.j()
-return new A.G(x,new B.dQx(this),null,null,y.d)},
+return new A.G(x,new B.dQy(this),null,null,y.d)},
 gc1(d){var x=null,w=$.iW(),v=w.f
 v===$&&A.j()
 if(v.a){v=w.e
@@ -43,17 +43,17 @@ aYt(d){var x=null
 if(this.guU().as)return new A.bt(C.bi,x,x,A.ae(x,x,x,x,x,x,x,0,!1,x,d.d,x,new A.y(0,3.5,0,3.5),!1,x,x,x,5,x,!1,!1,!1,100),x)
 return d},
 guU(){var x=$.iW().c
-return x==null?H.evM():x}}
+return x==null?H.evN():x}}
 var z=a.updateTypes([])
-B.dQx.prototype={
+B.dQy.prototype={
 $3(d,e,f){var x=null,w=A.l("invoice",x,x,!0),v=$.iW().c
 return A.d0(E.alx(d,w,v==null?x:"https://simpletor.app/invoice/"+v.b),x,this.a.gc1(0),x,!1,x,23,!1,!1,x,!0,!0)},
 $S:293};(function inheritance(){var x=a.inherit
 x(B.a5s,A.a6)
-x(B.bAn,A.a7)
-x(B.dQx,A.bB)
+x(B.bAo,A.a7)
+x(B.dQy,A.bB)
 x(B.b7C,A.w)})()
-A.bj(b.typeUniverse,JSON.parse('{"a5s":{"a6":[],"k":[]},"bAn":{"a7":["a5s"]},"b7C":{"w":[],"k":[]}}'))
+A.bj(b.typeUniverse,JSON.parse('{"a5s":{"a6":[],"k":[]},"bAo":{"a7":["a5s"]},"b7C":{"w":[],"k":[]}}'))
 var y={e:A.E("K<k>"),d:A.E("G<J>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_27",e:"endPart",h:b})})($__dart_deferred_initializers__,"HvH8af1TsKm84bmBwdQrQUb1jiY=");
+a.eventLog.push({p:"main.dart.js_27",e:"endPart",h:b})})($__dart_deferred_initializers__,"IHRZwOWfq/XVcq0p/D4qPVDng5g=");

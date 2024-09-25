@@ -2,8 +2,8 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_44",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,E,B={
-aRm(d,e,f,g,h,i,j){return B.fqA(d,e,f,g,h,i,j)},
-fqA(d,e,f,g,h,i,j){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n
+aRm(d,e,f,g,h,i,j){return B.fqB(d,e,f,g,h,i,j)},
+fqB(d,e,f,g,h,i,j){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n
 var $async$aRm=A.d(function(k,l){if(k===1)return A.e(l,w)
 while(true)switch(x){case 0:p={}
 o=h.a
@@ -11,7 +11,7 @@ if(o.z){x=1
 break}if(!o.gapJ()){new A.a5(A.l("cantCancelTransactionAfter",null,null,!0),C.m,C.n,C.r,d).E()
 x=1
 break}x=3
-return A.c(B.ehs(d,h),$async$aRm)
+return A.c(B.eht(d,h),$async$aRm)
 case 3:if(l!==!0){x=1
 break}if(!h.a.gapJ()){new A.a5(A.l("cantCancelTransactionAfter",null,null,!0),C.m,C.n,C.r,d).E()
 x=1
@@ -29,7 +29,7 @@ t=A.RL(t.a)
 q=i==null?null:new A.la(i.d,i.b)
 n=J
 x=5
-return A.c(A.bA("assets/animations/delete_animation.json.zip",d,C.Q,u.bX5(r,t,q,h.a).H(0,new B.ef6(p),y.e),A.l("thePayemntCanceledSuccessfully",null,null,!0),o,!0,!1,null,!0,C.T,!1).b6(),$async$aRm)
+return A.c(A.bA("assets/animations/delete_animation.json.zip",d,C.Q,u.bX5(r,t,q,h.a).H(0,new B.ef7(p),y.e),A.l("thePayemntCanceledSuccessfully",null,null,!0),o,!0,!1,null,!0,C.T,!1).b6(),$async$aRm)
 case 5:if(n.z(l,!0)){if(e!=null&&f!=null){o=f.h(0,j)
 u=o==null?null:J.Z(o,h.a.b)
 if(y.q.b(u)){o=u==null
@@ -47,22 +47,22 @@ p=p==null?null:p.b}o.CW=p
 o.z=!0
 h.B()}case 1:return A.f(v,w)}})
 return A.h($async$aRm,w)},
-ehs(d,e){var x=0,w=A.i(y.h),v,u,t
-var $async$ehs=A.d(function(f,g){if(f===1)return A.e(g,w)
+eht(d,e){var x=0,w=A.i(y.h),v,u,t
+var $async$eht=A.d(function(f,g){if(f===1)return A.e(g,w)
 while(true)switch(x){case 0:u=A.l("transactionCancelation",null,null,!0)
 t=A.bC(A.B(A.l(e.a.at?"theRefundTransactionWillCancelAnd":"theTransactionWillCancelAnd",null,null,!1),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,""),null,null)
 x=3
-return A.c(A.j7(A.l("GoOut",null,null,!1),t,d,A.l("cancelTransaction",null,null,!0),new B.eht(),new B.ehu(),!0,u),$async$ehs)
+return A.c(A.j7(A.l("GoOut",null,null,!1),t,d,A.l("cancelTransaction",null,null,!0),new B.ehu(),new B.ehv(),!0,u),$async$eht)
 case 3:v=g
 x=1
 break
 case 1:return A.f(v,w)}})
-return A.h($async$ehs,w)},
-ef6:function ef6(d){this.a=d},
-eht:function eht(){},
+return A.h($async$eht,w)},
+ef7:function ef7(d){this.a=d},
 ehu:function ehu(){},
-aRo(d,e,f,g,h,i,j,k){return B.fqE(d,e,f,g,h,i,j,k)},
-fqE(d,e,f,g,h,i,j,k){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n,m,l
+ehv:function ehv(){},
+aRo(d,e,f,g,h,i,j,k){return B.fqF(d,e,f,g,h,i,j,k)},
+fqF(d,e,f,g,h,i,j,k){var x=0,w=A.i(y.v),v,u,t,s,r,q,p,o,n,m,l
 var $async$aRo=A.d(function(a0,a1){if(a0===1)return A.e(a1,w)
 while(true)switch(x){case 0:m={}
 l=i.a
@@ -81,7 +81,7 @@ x=4
 break
 case 5:s=null
 case 4:x=7
-return A.c(B.ehZ(d),$async$aRo)
+return A.c(B.ei_(d),$async$aRo)
 case 7:if(a1!==!0){x=1
 break}m.a=null
 l=A.T(d,!1)
@@ -92,7 +92,7 @@ o=q.R8
 n=i.a
 u=u?null:new A.la(j.d,j.b)
 x=8
-return A.c(A.bA("assets/animations/success_animation.json.zip",d,C.Q,r.G8(o,A.RL(q),s,p,n,k,u).H(0,new B.efj(m),y.e),A.l("thePayemntRefundedSuccessfully",null,null,!1),l,!0,!1,null,!0,C.T,!1).b6(),$async$aRo)
+return A.c(A.bA("assets/animations/success_animation.json.zip",d,C.Q,r.G8(o,A.RL(q),s,p,n,k,u).H(0,new B.efk(m),y.e),A.l("thePayemntRefundedSuccessfully",null,null,!1),l,!0,!1,null,!0,C.T,!1).b6(),$async$aRo)
 case 8:l=m.a
 u=l==null
 if((u?null:l.b)==null){x=1
@@ -113,21 +113,21 @@ l.Q=m.b
 i.B()
 case 1:return A.f(v,w)}})
 return A.h($async$aRo,w)},
-ehZ(d){var x=0,w=A.i(y.h),v,u,t
-var $async$ehZ=A.d(function(e,f){if(e===1)return A.e(f,w)
+ei_(d){var x=0,w=A.i(y.h),v,u,t
+var $async$ei_=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=A.l("transactionRefund",null,null,!0)
 t=A.bC(A.B(A.l("refndTheCustomerWithNewPayment",null,null,!1),C.t,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,""),null,null)
 x=3
-return A.c(A.de(C.az,!1,1,!0,null,A.l("cancel",null,null,!0),null,t,d,C.a0,20,!0,!0,C.A,new B.ei_(),new B.ei0(),!1,A.l("refund",null,null,!0),u),$async$ehZ)
+return A.c(A.de(C.az,!1,1,!0,null,A.l("cancel",null,null,!0),null,t,d,C.a0,20,!0,!0,C.A,new B.ei0(),new B.ei1(),!1,A.l("refund",null,null,!0),u),$async$ei_)
 case 3:v=f
 x=1
 break
 case 1:return A.f(v,w)}})
-return A.h($async$ehZ,w)},
-efj:function efj(d){this.a=d},
-ei_:function ei_(){},
+return A.h($async$ei_,w)},
+efk:function efk(d){this.a=d},
 ei0:function ei0(){},
-eNJ(d,e,f,g,h,i,j,k){return new B.aeq(i,d,e,f,j,k,g,h,null)},
+ei1:function ei1(){},
+eNK(d,e,f,g,h,i,j,k){return new B.aeq(i,d,e,f,j,k,g,h,null)},
 aeq:function aeq(d,e,f,g,h,i,j,k,l){var _=this
 _.c=d
 _.d=e
@@ -138,7 +138,7 @@ _.w=i
 _.x=j
 _.y=k
 _.a=l},
-dlM:function dlM(d,e){this.a=d
+dlN:function dlN(d,e){this.a=d
 this.b=e},
 bn_:function bn_(d,e,f,g,h,i,j,k){var _=this
 _.c=d
@@ -157,7 +157,7 @@ _.r=g
 _.w=h
 _.x=i
 _.a=j},
-dlI:function dlI(d,e){this.a=d
+dlJ:function dlJ(d,e){this.a=d
 this.b=e},
 bn8:function bn8(d,e,f,g,h,i,j,k){var _=this
 _.c=d
@@ -177,7 +177,7 @@ _.r=h
 _.w=i
 _.x=j
 _.a=k},
-dlO:function dlO(d,e){this.a=d
+dlP:function dlP(d,e){this.a=d
 this.b=e}},D,F
 J=c[1]
 A=c[0]
@@ -188,7 +188,7 @@ D=c[165]
 F=c[245]
 B.aeq.prototype={
 m(d){var x=null,w=this.c,v=new A.O(w,$.af(),y.B)
-return A.d0(E.alx(d,A.l("paymentDetails",x,x,!0),"https://simpletor.app/transaction/"+w.b),x,new A.G(v,new B.dlM(this,v),x,x,y.j),x,!1,x,23,!1,!1,x,!0,!0)}}
+return A.d0(E.alx(d,A.l("paymentDetails",x,x,!0),"https://simpletor.app/transaction/"+w.b),x,new A.G(v,new B.dlN(this,v),x,x,y.j),x,!1,x,23,!1,!1,x,!0,!0)}}
 B.bn_.prototype={
 m(d){var x=this,w=null,v=x.c,u=v.a
 if(u.z)v=new D.aH5(u,w)
@@ -196,7 +196,7 @@ else v=x.d?new A.n(w,w,w,w):new B.bn0(v,x.e,x.f,x.r,x.w,x.x,w)
 return v}}
 B.bn0.prototype={
 m(d){var x=null,w=A.l("cancelation",x,x,!0)
-return D.UI(this.c.a.gapJ(),x,A.l("cancelTheCurrentPaymentWithoutExtraPayment",x,x,!0),x,C.jn,new B.dlI(this,d),!0,w)}}
+return D.UI(this.c.a.gapJ(),x,A.l("cancelTheCurrentPaymentWithoutExtraPayment",x,x,!0),x,C.jn,new B.dlJ(this,d),!0,w)}}
 B.bn8.prototype={
 m(d){var x=this,w=null,v=x.c,u=v.a
 if(u.at||u.Q==null)v=new D.aHa(u,x.d,x.e,w)
@@ -204,37 +204,37 @@ else v=x.d?new A.n(w,w,w,w):new B.bn9(v,!1,x.e,x.f,x.r,x.w,x.x,w)
 return v}}
 B.bn9.prototype={
 m(d){var x=null,w=A.l("refundCustomer",x,x,!1)
-return D.UI(!this.c.a.z,x,A.l("refundTheTransactionExplain",x,x,!0),x,F.Gk,new B.dlO(this,d),!0,w)}}
+return D.UI(!this.c.a.z,x,A.l("refundTheTransactionExplain",x,x,!0),x,F.Gk,new B.dlP(this,d),!0,w)}}
 var z=a.updateTypes([])
-B.ef6.prototype={
+B.ef7.prototype={
 $1(d){this.a.a=d
 return d!=null},
 $S:676}
-B.eht.prototype={
-$1(d){A.T(d,!1).S(null)
-return null},
-$S:4}
 B.ehu.prototype={
-$1(d){A.T(d,!1).S(!0)
-return null},
-$S:4}
-B.efj.prototype={
-$1(d){this.a.a=d
-return d!=null},
-$S:676}
-B.ei_.prototype={
 $1(d){A.T(d,!1).S(null)
 return null},
 $S:4}
-B.ei0.prototype={
+B.ehv.prototype={
 $1(d){A.T(d,!1).S(!0)
 return null},
 $S:4}
-B.dlM.prototype={
+B.efk.prototype={
+$1(d){this.a.a=d
+return d!=null},
+$S:676}
+B.ei0.prototype={
+$1(d){A.T(d,!1).S(null)
+return null},
+$S:4}
+B.ei1.prototype={
+$1(d){A.T(d,!1).S(!0)
+return null},
+$S:4}
+B.dlN.prototype={
 $3(d,e,f){var x=null,w=this.b,v=w.a,u=this.a,t=u.d,s=u.w,r=u.r,q=u.e,p=u.f
 return A.eZ(!1,A.b([new A.n(x,15,x,x),new D.aH6(v,x),new D.aHc(v,t,x),new D.aH4(v,t,x),new D.aH7(v,x),new D.aHb(u.c,x),new D.aH9(v,x),new B.bn8(w,t,r,q,s,p,u.y,x),new B.bn_(w,t,r,q,s,p,u.x,x),new D.aH8(v,t,r,s,x),new D.aDb(v,t,r,s,x)],y.u),C.aJ,x,x,!1)},
 $S:1738}
-B.dlI.prototype={
+B.dlJ.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this,t
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:t=u.a
@@ -246,7 +246,7 @@ break
 case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:2}
-B.dlO.prototype={
+B.dlP.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this,t
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:t=u.a
@@ -258,10 +258,10 @@ break
 case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:2};(function inheritance(){var x=a.inheritMany
-x(A.bB,[B.ef6,B.eht,B.ehu,B.efj,B.ei_,B.ei0,B.dlM])
+x(A.bB,[B.ef7,B.ehu,B.ehv,B.efk,B.ei0,B.ei1,B.dlN])
 x(A.w,[B.aeq,B.bn_,B.bn0,B.bn8,B.bn9])
-x(A.bz,[B.dlI,B.dlO])})()
+x(A.bz,[B.dlJ,B.dlP])})()
 A.bj(b.typeUniverse,JSON.parse('{"aeq":{"w":[],"k":[]},"bn_":{"w":[],"k":[]},"bn0":{"w":[],"k":[]},"bn8":{"w":[],"k":[]},"bn9":{"w":[],"k":[]}}'))
 var y={u:A.E("K<k>"),w:A.E("p"),j:A.E("G<l7>"),B:A.E("O<l7>"),e:A.E("J"),q:A.E("l7?"),h:A.E("J?"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_44",e:"endPart",h:b})})($__dart_deferred_initializers__,"XafLImDNDqSQI2Bhvx0TxcAcC7Y=");
+a.eventLog.push({p:"main.dart.js_44",e:"endPart",h:b})})($__dart_deferred_initializers__,"2E64ds+WPY2w9jKBWK/ETlR6qqQ=");

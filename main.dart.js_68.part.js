@@ -3,8 +3,8 @@ a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_68",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={bfy:function bfy(d,e,f){this.c=d
 this.d=e
-this.a=f},d1o:function d1o(d,e){this.a=d
-this.b=e},d1p:function d1p(d,e){this.a=d
+this.a=f},d1p:function d1p(d,e){this.a=d
+this.b=e},d1q:function d1q(d,e){this.a=d
 this.b=e}},D
 A=c[0]
 C=c[2]
@@ -24,7 +24,7 @@ u=C.h.W(178.5)
 x=A.bO(q,q,w.cf(A.S(u,v.gi(v)>>>16&255,v.gi(v)>>>8&255,v.gi(v)&255),12),x)
 v=A.l("policy",q,q,!0)
 w=A.p6(q,q)
-w.bn=new B.d1o(this,d)
+w.bn=new B.d1p(this,d)
 t=A.r(d).p2.z
 t.toString
 v=A.bO(q,w,t.cf(A.r(d).ax.y,12),v)
@@ -37,7 +37,7 @@ s=r==null?s.k3:r
 t=A.bO(q,q,w.cf(A.S(u,s.gi(s)>>>16&255,s.gi(s)>>>8&255,s.gi(s)&255),12)," "+t)
 s=A.l("termToUse",q,q,!0)
 u=A.p6(q,q)
-u.bn=new B.d1p(this,d)
+u.bn=new B.d1q(this,d)
 w=A.r(d).p2.z
 w.toString
 return new A.P(D.aRY,new A.n(p*0.7,q,A.RZ(q,q,C.bg,q,q,!0,q,A.bO(A.b([x,v,t,A.bO(q,u,w.cf(A.r(d).ax.y,12),s)],y.a),q,o,q),C.t,q,q,C.ak,C.aj),q),q)},
@@ -56,15 +56,15 @@ return A.c(A.Rl(d,!0,"https://simpletor.app/terms-of-use",!0),$async$zQ)
 case 2:return A.f(null,w)}})
 return A.h($async$zQ,w)}}
 var z=a.updateTypes([])
-B.d1o.prototype={
+B.d1p.prototype={
 $0(){return this.a.zP(this.b)},
 $S:1}
-B.d1p.prototype={
+B.d1q.prototype={
 $0(){return this.a.zQ(this.b)},
 $S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.bfy,A.w)
-w(A.bz,[B.d1o,B.d1p])})()
+w(A.bz,[B.d1p,B.d1q])})()
 A.bj(b.typeUniverse,JSON.parse('{"bfy":{"w":[],"k":[]}}'))
 var y={a:A.E("K<Yw>"),f:A.E("~")};(function constants(){D.aRY=new A.y(0,12,0,0)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_68",e:"endPart",h:b})})($__dart_deferred_initializers__,"9P5xJpsI8t9J93uat/NQW4f7vmM=");
+a.eventLog.push({p:"main.dart.js_68",e:"endPart",h:b})})($__dart_deferred_initializers__,"FEH8sVKb32KNIg7IFv5hA4NrrPE=");

@@ -17,11 +17,11 @@ case 3:x=$.aj?7:9
 break
 case 7:A.b9("createInvoicePage")
 x=10
-return A.c(A.jk(null,D.eG2(d,f,g,h),e,null),$async$ag2)
+return A.c(A.jk(null,D.eG3(d,f,g,h),e,null),$async$ag2)
 case 10:u=j
 x=8
 break
-case 9:u=A.kj(new C.ekK(d,h,f,g),null,y.d)
+case 9:u=A.kj(new C.ekL(d,h,f,g),null,y.d)
 x=11
 return A.c(A.T(e,!1).fV(u),$async$ag2)
 case 11:u=j
@@ -36,7 +36,7 @@ x=1
 break
 case 1:return A.f(v,w)}})
 return A.h($async$ag2,w)},
-ekK:function ekK(d,e,f,g){var _=this
+ekL:function ekL(d,e,f,g){var _=this
 _.a=d
 _.b=e
 _.c=f
@@ -47,12 +47,12 @@ B=c[2]
 D=c[115]
 C=a.updateHolder(c[195],C)
 var z=a.updateTypes(["a9z(A)"])
-C.ekK.prototype={
+C.ekL.prototype={
 $1(d){var x=this
 A.b9("createInvoicePage")
-return D.eG2(x.a,x.c,x.d,x.b)},
+return D.eG3(x.a,x.c,x.d,x.b)},
 $S:z+0};(function inheritance(){var x=a.inherit
-x(C.ekK,A.bB)})()
+x(C.ekL,A.bB)})()
 var y={d:A.E("f_"),e:A.E("f_?")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_201",e:"endPart",h:b})})($__dart_deferred_initializers__,"Vb0vzCCwNkBSDhFyi7s6aavgvkU=");
+a.eventLog.push({p:"main.dart.js_201",e:"endPart",h:b})})($__dart_deferred_initializers__,"KWMQzOz/C5KEeaZO4ksZYcB8oio=");

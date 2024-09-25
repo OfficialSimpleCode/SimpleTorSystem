@@ -2,21 +2,21 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_266",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,E,B={
-eF7(d,e){return new B.a4p(d,e,null)},
+eF8(d,e){return new B.a4p(d,e,null)},
 a4p:function a4p(d,e,f){this.c=d
 this.d=e
 this.a=f},
-bua:function bua(d){this.a=null
+bub:function bub(d){this.a=null
 this.b=d
 this.c=null},
-dEI:function dEI(d){this.a=d},
-e9k(d){var x=0,w=A.i(y.v),v,u,t,s,r,q
-var $async$e9k=A.d(function(e,f){if(e===1)return A.e(f,w)
+dEJ:function dEJ(d){this.a=d},
+e9l(d){var x=0,w=A.i(y.v),v,u,t,s,r,q
+var $async$e9l=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:q=$.iW()
 if(q.a==null){x=1
 break}u=A.T(d,!1)
 x=3
-return A.c(A.bA("assets/animations/success_animation.json.zip",d,C.Q,B.bRO(),A.l("confirmedBooking",null,null,!0),u,!0,!0,new B.e9l(),!1,C.T,!1).b6(),$async$e9k)
+return A.c(A.bA("assets/animations/success_animation.json.zip",d,C.Q,B.bRP(),A.l("confirmedBooking",null,null,!0),u,!0,!0,new B.e9m(),!1,C.T,!1).b6(),$async$e9l)
 case 3:t=f
 if(!J.z(t,!0)){u=q.r
 u===$&&A.j()
@@ -37,9 +37,9 @@ v=t
 x=1
 break
 case 1:return A.f(v,w)}})
-return A.h($async$e9k,w)},
-bRO(){var x=0,w=A.i(y.e),v,u,t,s,r
-var $async$bRO=A.d(function(d,e){if(d===1)return A.e(e,w)
+return A.h($async$e9l,w)},
+bRP(){var x=0,w=A.i(y.e),v,u,t,s,r
+var $async$bRP=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:s=$.iW()
 r=s.r
 r===$&&A.j()
@@ -49,7 +49,7 @@ case 3:u=$.bo()
 r=s.a
 t=r.d
 x=5
-return A.c(u.nh(r.r,t),$async$bRO)
+return A.c(u.nh(r.r,t),$async$bRP)
 case 5:t=e
 r=t
 case 4:s.r=r
@@ -58,7 +58,7 @@ v=!1
 x=1
 break}t=s.a
 t.toString
-if(!A.eFV(t,r)){$.bk().b=C.v8
+if(!A.eFW(t,r)){$.bk().b=C.v8
 v=!1
 x=1
 break}u=$.fA()
@@ -67,22 +67,22 @@ r.toString
 t=s.r
 t.toString
 x=6
-return A.c(u.L5(r,r.as,t),$async$bRO)
+return A.c(u.L5(r,r.as,t),$async$bRP)
 case 6:v=e
 x=1
 break
 case 1:return A.f(v,w)}})
-return A.h($async$bRO,w)},
-e9l:function e9l(){},
+return A.h($async$bRP,w)},
+e9m:function e9m(){},
 aWk:function aWk(d){this.a=d},
 aTV:function aTV(d){this.a=d},
-bXD:function bXD(d,e){this.a=d
+bXE:function bXE(d,e){this.a=d
 this.b=e},
 aWj:function aWj(d){this.a=d},
 aWm:function aWm(d){this.a=d},
 aWi:function aWi(d){this.a=d},
-c2Z:function c2Z(d){this.a=d},
 c3_:function c3_(d){this.a=d},
+c30:function c30(d){this.a=d},
 aZB:function aZB(d){this.a=d},
 aWl:function aWl(d){this.a=d}},D,F,G,H
 J=c[1]
@@ -95,8 +95,8 @@ F=c[218]
 G=c[191]
 H=c[209]
 B.a4p.prototype={
-a1(){return new B.bua(C.v)}}
-B.bua.prototype={
+a1(){return new B.bub(C.v)}}
+B.bub.prototype={
 v(){$.ba().fx=null
 this.aT()},
 al(){var x,w=$.iW(),v=this.c
@@ -106,7 +106,7 @@ w.aUt(v,x.c,C.BO,x.d)
 this.ar()},
 m(d){var x=$.iW().f
 x===$&&A.j()
-return new A.G(x,new B.dEI(this),null,null,y.m)},
+return new A.G(x,new B.dEJ(this),null,null,y.m)},
 gc1(d){var x=null,w=$.iW(),v=w.f
 v===$&&A.j()
 if(v.a){v=w.e
@@ -128,13 +128,13 @@ x=$.fI()
 w=A.r(d)
 v=A.r(d).ax
 u=v.a8
-return A.ae(t,t,t,t,A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.bXD(s,d),!1,new A.y(10,15,10,15),A.bS(C.G6,u==null?v.k3:u,t,t,19),5,t,t,!1,t,t,13,t,t,t,s.a,15,0,t),w.ax.k2,t,0,!1,t,t,t,new A.y(0,15,0,0),!1,t,t,t,t,t,!1,!1,!1,x)}}
+return A.ae(t,t,t,t,A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.bXE(s,d),!1,new A.y(10,15,10,15),A.bS(C.G6,u==null?v.k3:u,t,t,19),5,t,t,!1,t,t,13,t,t,t,s.a,15,0,t),w.ax.k2,t,0,!1,t,t,t,new A.y(0,15,0,0),!1,t,t,t,t,t,!1,!1,!1,x)}}
 B.aWj.prototype={
 m(d){var x=null,w=$.iW().f
 w===$&&A.j()
 return new A.fj(w.a?this.aOp(d):A.ik(x,this.aOp(d),x,1,x,x,x),!0,!0,x,x)},
 aOp(d){var x=$.iW().a
-if(x==null)x=$.eD1()
+if(x==null)x=$.eD2()
 return new D.aET(x,A.r(d).ax.k2,null)}}
 B.aWm.prototype={
 m(d){var x=null,w=$.iW(),v=w.f
@@ -153,7 +153,7 @@ m(d){var x=null,w=$.iW(),v=w.f
 v===$&&A.j()
 if(v.a){v=w.x
 v===$&&A.j()
-v=new A.G(v,new B.c2Z(this),x,x,y.m)}else v=A.ik(x,this.aOJ(0,d),x,1,x,x,x)
+v=new A.G(v,new B.c3_(this),x,x,y.m)}else v=A.ik(x,this.aOJ(0,d),x,1,x,x,x)
 return new A.fj(v,!0,!0,x,x)},
 aOJ(d,e){var x,w,v,u,t,s=null,r=$.iW(),q=r.a
 if(q==null)return this.aOK(e,!1,A.B("",s,!1,!1,s,!1,!1,s,!1,!1,!1,!1,1,s,!1,!1,!1,19,s,""))
@@ -174,7 +174,7 @@ t=!1}else{if(!r.y){v=w.x
 w=v!=null&&!A.hS(v,!0,w.a,!0)}else w=!1
 if(w)x=A.B(A.l("bookingIsNotAccured",s,s,!0),C.t,!1,!1,C.an,!1,!1,s,!1,!1,!1,!1,1,s,!1,!1,!1,17,s,"")
 t=!w}}return this.aOK(e,t,x)},
-aOK(d,e,f){var x=null,w=e?A.r(d).ax.y:x,v=e?new B.c3_(d):x
+aOK(d,e,f){var x=null,w=e?A.r(d).ax.y:x,v=e?new B.c30(d):x
 return A.ae(C.l,x,x,x,new A.P(E.Oo,f,x),w,x,0,!1,x,x,x,new A.y(0,10,0,0),!1,v,x,x,x,x,!1,!1,!1,1/0)}}
 B.aZB.prototype={
 m(d){var x=null,w=$.iW().f
@@ -196,14 +196,14 @@ v=A.r(d)
 x=A.ik(u,A.L(A.b([s,new A.n(u,5,u,u),w,new A.n(u,3,u,u),A.ae(u,u,u,u,A.B("",u,!1,!1,u,!1,!1,u,!1,!1,!1,!1,1,u,!1,!1,!1,12,u,""),v.ax.k2,u,0,!1,u,u,u,u,!1,u,u,u,u,u,!1,!1,!1,125)],x),C.e,C.F,C.d),u,1,u,u,u)
 s=x}return new A.fj(s,!0,!0,u,u)}}
 var z=a.updateTypes([])
-B.dEI.prototype={
+B.dEJ.prototype={
 $3(d,e,f){var x=null,w=A.l("bookingDetails",x,x,!0),v=$.iW().a
 return A.d0(F.alx(d,w,v==null?x:"https://simpletor.app/"+v.grq()),x,this.a.gc1(0),x,!1,x,23,!1,!1,x,!0,!0)},
 $S:293}
-B.e9l.prototype={
+B.e9m.prototype={
 $0(){return $.bk().b!==C.v8},
 $S:6}
-B.bXD.prototype={
+B.bXE.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:v=A.aRu(u.b,u.a.a)
@@ -212,14 +212,14 @@ break
 case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:2}
-B.c2Z.prototype={
+B.c3_.prototype={
 $3(d,e,f){return this.a.aOJ(0,d)},
 $S:54}
-B.c3_.prototype={
+B.c30.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:x=3
-return A.c(B.e9k(u.a),$async$$0)
+return A.c(B.e9l(u.a),$async$$0)
 case 3:v=e
 x=1
 break
@@ -227,11 +227,11 @@ case 1:return A.f(v,w)}})
 return A.h($async$$0,w)},
 $S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.a4p,A.a6)
-x(B.bua,A.a7)
-w(A.bB,[B.dEI,B.c2Z])
-w(A.bz,[B.e9l,B.bXD,B.c3_])
+x(B.bub,A.a7)
+w(A.bB,[B.dEJ,B.c3_])
+w(A.bz,[B.e9m,B.bXE,B.c30])
 w(A.w,[B.aWk,B.aTV,B.aWj,B.aWm,B.aWi,B.aZB,B.aWl])})()
-A.bj(b.typeUniverse,JSON.parse('{"a4p":{"a6":[],"k":[]},"bua":{"a7":["a4p"]},"aWk":{"w":[],"k":[]},"aTV":{"w":[],"k":[]},"aWj":{"w":[],"k":[]},"aWm":{"w":[],"k":[]},"aWi":{"w":[],"k":[]},"aZB":{"w":[],"k":[]},"aWl":{"w":[],"k":[]}}'))
+A.bj(b.typeUniverse,JSON.parse('{"a4p":{"a6":[],"k":[]},"bub":{"a7":["a4p"]},"aWk":{"w":[],"k":[]},"aTV":{"w":[],"k":[]},"aWj":{"w":[],"k":[]},"aWm":{"w":[],"k":[]},"aWi":{"w":[],"k":[]},"aZB":{"w":[],"k":[]},"aWl":{"w":[],"k":[]}}'))
 var y={f:A.E("x"),u:A.E("K<k>"),m:A.E("G<J>"),y:A.E("O<da>"),e:A.E("J"),b:A.E("@"),B:A.E("F"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"5C2DLNH+11EA29tyJLhpYe42ZLM=");
+a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"7R27dohftlCBgOKBAmW6GiK+DHc=");

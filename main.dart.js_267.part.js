@@ -8,7 +8,7 @@ this.a=f},auP:function auP(d,e,f,g){var _=this
 _.c=d
 _.f=e
 _.r=f
-_.a=g},cd1:function cd1(d){this.a=d},cd2:function cd2(d,e){this.a=d
+_.a=g},cd2:function cd2(d){this.a=d},cd3:function cd3(d,e){this.a=d
 this.b=e}},D
 J=c[1]
 A=c[0]
@@ -24,7 +24,7 @@ x=q.c
 w=y.e
 return A.a1(A.b([new A.aD(B.cR,28,!1,1,!1,!0,!1,v,v),new A.n(10,v,v,v),u,new A.n(30,v,v,v),A.a1(A.b([new A.aD(B.eI,28,!1,1,!1,!0,!1,v,v),new A.n(10,v,v,v),A.B(t,v,!1,!1,x.ax.y,!1,!0,v,!1,!1,!1,!1,1,v,!1,!1,!1,20,v,"")],w),B.e,B.i,B.d)],w),B.e,B.F,B.d)}}
 C.aET.prototype={
-m(d){var x,w,v,u,t,s,r,q=this,p=null,o="treatments",n=4280229673,m=q.c,l=A.eSz(m),k=q.t1(0,d),j=m.as
+m(d){var x,w,v,u,t,s,r,q=this,p=null,o="treatments",n=4280229673,m=q.c,l=A.eSA(m),k=q.t1(0,d),j=m.as
 j=A.ce(B.l,new C.b1B(j==null?m.a:j,p),B.a5)
 x=q.coK(d,l)
 w=q.c4N(d,l)
@@ -60,7 +60,7 @@ w=A.l("durationOfBooking",q,q,!0)
 w=A.B(w,q,!1,!1,r.t1(0,d).eE()>0.5?new A.o(p):B.y,!1,!1,q,!1,!1,!1,!1,0.7,q,!1,!1,!1,13.5,q,"")
 if(x!=="")v=A.B(x,q,!1,!1,r.t1(0,d).eE()>0.5?new A.o(p):B.y,!1,!1,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,"")
 else v=new A.n(q,q,q,q)
-u=A.emR(A.R(0,0,0,0,e.c,0))
+u=A.emS(A.R(0,0,0,0,e.c,0))
 u=A.B(u,q,!1,!1,r.t1(0,d).eE()>0.5?new A.o(p):B.y,!1,!0,q,!1,!1,!1,!1,1,q,!1,!1,!1,14,q,"")
 t=A.l("hours",q,q,!0)
 s=y.e
@@ -127,22 +127,22 @@ t=A.N(t,"WORKER",x)
 if(w){s=A.r(d).ax
 r=s.CW
 s=r==null?s.y:r}else s=A.r(d).ax.k2
-s=A.bT(!1,s,p,p,B.lD,!0,!1,!0,!1,p,p,p,p,!0,new C.cd1(q),!1,p,!1,p,p,0.55,p,p,25,p,p)
+s=A.bT(!1,s,p,p,B.lD,!0,!1,!0,!1,p,p,p,p,!0,new C.cd2(q),!1,p,!1,p,p,0.55,p,p,25,p,p)
 if(w){w=A.r(d).ax
 r=w.CW
 w=r==null?w.y:r}else w=A.r(d).ax.k2
-return A.ae(p,p,p,p,A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,p,!1,p,u,5,p,p,!1,p,p,13,A.a1(A.b([s,new A.n(5,p,p,p),A.bT(!1,w,p,p,B.fi,!0,!1,!0,!1,p,p,p,p,!0,new C.cd2(q,d),!1,p,!1,p,p,0.55,p,p,25,p,p)],y.e),B.e,B.F,B.d),p,p,t,15,0,p),v,p,0,!1,p,p,p,q.r,!1,p,p,new A.y(10,10,10,10),p,p,!1,!1,!1,o)}}
+return A.ae(p,p,p,p,A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,p,!1,p,u,5,p,p,!1,p,p,13,A.a1(A.b([s,new A.n(5,p,p,p),A.bT(!1,w,p,p,B.fi,!0,!1,!0,!1,p,p,p,p,!0,new C.cd3(q,d),!1,p,!1,p,p,0.55,p,p,25,p,p)],y.e),B.e,B.F,B.d),p,p,t,15,0,p),v,p,0,!1,p,p,p,q.r,!1,p,p,new A.y(10,10,10,10),p,p,!1,!1,!1,o)}}
 var z=a.updateTypes([])
-C.cd1.prototype={
+C.cd2.prototype={
 $0(){return $.m2().oT(this.a.c.a.f)},
 $S:1}
-C.cd2.prototype={
+C.cd3.prototype={
 $0(){return A.afU(this.b,this.a.c.a.f)},
 $S:1};(function inheritance(){var x=a.inheritMany
 x(A.w,[C.b1B,C.aET,C.auP])
-x(A.bz,[C.cd1,C.cd2])})()
+x(A.bz,[C.cd2,C.cd3])})()
 A.bj(b.typeUniverse,JSON.parse('{"b1B":{"w":[],"k":[]},"aET":{"w":[],"k":[]},"auP":{"w":[],"k":[]}}'))
 var y={c:A.E("K<Rx>"),e:A.E("K<k>")};(function constants(){D.aSx=new A.y(12,0,12,8)
 D.aWv=new A.aJ(983541,"MaterialIcons",null,!1)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_267",e:"endPart",h:b})})($__dart_deferred_initializers__,"KJV8xBK4Xw2KQjO0gcA6oIT0bdQ=");
+a.eventLog.push({p:"main.dart.js_267",e:"endPart",h:b})})($__dart_deferred_initializers__,"jxHcpw/tamN2KWDF2v559mh49Ew=");

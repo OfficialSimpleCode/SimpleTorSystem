@@ -11,7 +11,7 @@ break
 case 3:u=$.aq().as
 A.b9("multipleSectionPage")
 x=7
-return A.c(A.kH(d,u,C.f9x(e)),$async$aS9)
+return A.c(A.kH(d,u,C.f9y(e)),$async$aS9)
 case 7:v=g
 x=1
 break
@@ -27,4 +27,4 @@ D=a.updateHolder(c[181],D)
 var z=a.updateTypes([])
 var y={b:A.E("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_84",e:"endPart",h:b})})($__dart_deferred_initializers__,"d5gYMOPKvHYmWKWPkTTpHOCC/iw=");
+a.eventLog.push({p:"main.dart.js_84",e:"endPart",h:b})})($__dart_deferred_initializers__,"26z/bGbxSe0AljabLh1yitXFFEk=");
