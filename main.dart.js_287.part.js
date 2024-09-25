@@ -1,45 +1,31 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_287",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={aVM:function aVM(d){this.a=d},c56:function c56(d){this.a=d},c57:function c57(d){this.a=d},c58:function c58(d){this.a=d},c59:function c59(d){this.a=d},
-f2S(){return new B.bjh(null)},
-bjh:function bjh(d){this.a=d}},D
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+f3c(){return new C.aZ3(null)},
+aZ3:function aZ3(d){this.a=d},
+ccG:function ccG(d){this.a=d},
+ccF:function ccF(d){this.a=d}}
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[63],B)
-D=c[233]
-B.aVM.prototype={
-n(d){var x=null
-return new A.P(D.aS7,A.a2(A.b([A.bS(!1,x,x,x,C.Fp,!0,!1,!0,!1,x,x,x,x,!0,new B.c56(d),!1,x,!1,x,x,0.55,x,x,x,x,x),A.bS(!1,x,x,x,C.Fo,!0,!1,!0,!1,x,x,x,x,!0,new B.c57(d),!1,x,!1,x,x,0.55,x,x,x,x,x),A.bS(!1,x,x,x,C.lt,!0,!1,!0,!1,x,x,x,x,!0,new B.c58(d),!1,x,!1,x,x,0.55,x,x,x,x,x),A.bS(!1,x,x,x,C.fM,!0,!1,!0,!1,x,x,x,x,!0,new B.c59(d),!1,x,!1,x,x,0.55,x,x,x,x,x)],y.e),C.e,C.cF,C.d),x)}}
-B.bjh.prototype={
-n(d){var x=null,w=A.r(d),v=$.am?$.ef.m():x,u=y.e
-return A.an(x,A.J(A.b([new B.aVM(x),A.cR(x,x,x),A.J(A.b([new A.P(C.NE,new A.dM("assets/animations/cuntact_us_animation.json.zip",Math.min($.aU.m()*0.3,500),x,x,x),x),A.C(A.l("SupportDscription",x,x,!0),C.t,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.7,x,!1,!1,!1,16,x,"")],u),C.e,C.i,C.d),new A.n(x,30,x,x)],u),C.e,C.aB,C.d),C.o,w.ax.k2,x,x,x,x,x,x,new A.z(0,0,0,30),x,x,v)}}
+B=c[2]
+C=a.updateHolder(c[64],C)
+C.aZ3.prototype={
+m(d){var x=null,w=$.aj?$.hq.n():x,v=A.C(A.l("simpleTorAvilibleInComputer",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,20,x,""),u=$.aj?$.aT.n()*0.3:x,t=$.ah.n(),s=$.aj?$.hq.n():$.ah.n(),r=A.C(A.l("simpleTorAvilibleInComputerExplain",x,x,!0),B.t,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.7,x,!1,!1,!1,14,x,""),q=$.aj?$.hq.n():$.ah.n(),p=A.r(d),o=y.e
+q=A.ae(B.l,x,x,x,A.ce(B.l,A.a1(A.b([new A.aD(B.jo,24,!1,1,!0,!1,!1,x,x),new A.n(10,x,x,x),A.C(A.l("tapToCopyTheLink",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,"")],o),B.e,B.i,B.d),B.a5),p.ax.y,x,0,!1,x,x,x,x,!1,new C.ccG(d),x,new A.y(0,10,0,10),x,x,!1,!1,!1,q*0.6)
+p=$.aj?0:30
+return A.ao(x,A.L(A.b([new A.n(x,10,x,x),v,new A.dK("assets/animations/new_user.json.zip",t*0.7,u,B.aC,x),new A.n(s*0.8,x,r,x),new A.n(x,30,x,x),q,new A.n(x,p,x,x)],o),B.e,B.i,B.d),B.o,x,x,x,x,x,x,x,x,x,x,w)}}
 var z=a.updateTypes([])
-B.c56.prototype={
-$0(){var x=0,w=A.i(y.h),v=this
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.QZ(v.a,!0,"https://simpletor.app",!0),$async$$0)
-case 2:return A.f(null,w)}})
-return A.h($async$$0,w)},
-$S:3}
-B.c57.prototype={
-$0(){var x=0,w=A.i(y.h),v=this
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.QZ(v.a,!0,"https://simpletor.app/contact-us",!0),$async$$0)
-case 2:return A.f(null,w)}})
-return A.h($async$$0,w)},
-$S:3}
-B.c58.prototype={
-$0(){return A.e5P(this.a,"simpletor.official")},
-$S:1}
-B.c59.prototype={
-$0(){return A.afz(this.a,"+972-533523691")},
-$S:1};(function inheritance(){var x=a.inheritMany
-x(A.w,[B.aVM,B.bjh])
-x(A.bE,[B.c56,B.c57,B.c58,B.c59])})()
-A.bt(b.typeUniverse,JSON.parse('{"aVM":{"w":[],"k":[]},"bjh":{"w":[],"k":[]}}'))
-var y={e:A.E("L<k>"),h:A.E("ay")};(function constants(){D.aS7=new A.z(15,7,15,7)})()};
+C.ccG.prototype={
+$0(){var x=$.H().a,w=x.CW
+A.nn(new A.m7("https://system.simpletor.app/business/"+(w==null?x.R8:w))).H(0,new C.ccF(this.a),y.f)},
+$S:5}
+C.ccF.prototype={
+$1(d){return A.UZ(this.a)},
+$S:65};(function inheritance(){var x=a.inherit
+x(C.aZ3,A.w)
+x(C.ccG,A.bz)
+x(C.ccF,A.bB)})()
+A.bj(b.typeUniverse,JSON.parse('{"aZ3":{"w":[],"k":[]}}'))
+var y={e:A.E("K<k>"),f:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_287",e:"endPart",h:b})})($__dart_deferred_initializers__,"gxZeCftEBj9Fmt0D69MwOAQ3/RQ=");
+a.eventLog.push({p:"main.dart.js_287",e:"endPart",h:b})})($__dart_deferred_initializers__,"ccS80/szgT/8F4H5KIiXYu5/+54=");
