@@ -39,7 +39,7 @@ s=A.B(A.l("copyToWorkerSettings",o,o,!0),o,!1,!1,o,!1,!1,o,!1,!1,!1,!1,1,o,!1,!1
 r=$.ah.n()
 q=A.B(A.l(v?"pickSettingsYpuWantToCopyManager":"pickSettingsYpuWantToCopyAfterCreate",o,o,!0),B.t,!1,!1,o,!1,!1,o,!1,!1,!1,!1,0.7,o,!1,!1,!1,15,o,"")
 v=v&&!$.aj?A.b5(A.ec(p.aPy(0,l),o,B.D,B.a7,o,o,o,B.O),1):p.aPy(0,l)
-return A.ao(o,A.L(A.b([t,new A.P(B.ce,s,o),new A.n(r*0.8,o,new A.P(B.pU,q,o),o),v],m),B.e,B.i,B.d),B.o,x.ax.k2,u,o,o,o,o,o,B.uX,o,o,w)},
+return A.ao(o,A.L(A.b([t,new A.P(B.ce,s,o),new A.n(r*0.8,o,new A.P(B.pU,q,o),o),v],m),B.e,B.i,B.d),B.o,x.ax.k2,u,o,o,o,o,o,B.uW,o,o,w)},
 aPy(d,e){var x=null
 return A.L(B.b.ap(e,A.b([new A.P(B.Fc,A.B(A.l("theSettingsCanBeChangedAfterManager",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),x),new A.n(x,30,x,x)],y.e)),B.e,B.i,B.d)},
 bh7(d,e,f){return new A.G(f,new C.cdl(this,f,e),null,null,y.m)}}
@@ -89,9 +89,9 @@ w(A.bB,[C.cdg,C.cdl,C.cdj])
 w(A.bz,[C.cdi,C.cdh,C.cdk])})()
 A.bj(b.typeUniverse,JSON.parse('{"aZk":{"w":[],"k":[]}}'))
 var y={e:A.E("K<k>"),j:A.E("mW"),m:A.E("G<c9<mW>>"),o:A.E("O<c9<mW>>")};(function constants(){var x=a.makeConstList
-D.aYE=A.b(x([B.qY,B.B3,B.qZ,B.r_,B.o8,B.o9,B.r0,B.r1]),A.E("K<mW>"))
-D.bmo=new A.fX([B.r1,B.qY,B.qZ,B.r_,B.o8],A.E("fX<mW>"))})();(function lazyInitializers(){var x=a.lazy
-x($,"h6c","eDm",()=>A.m([B.qY,"workTime",B.B3,"treatments",B.qZ,"notifications",B.r_,"workSettings",B.o8,"scheduleSettings",B.r1,"tools",B.r0,"discounts",B.o9,"clients"],y.j,A.E("p")))
-x($,"h6b","f_f",()=>A.m([B.qY,B.eI,B.B3,B.nx,B.qZ,B.f3,B.r_,B.Gd,B.o8,B.jq,B.o9,B.eH,B.r1,B.Gj,B.r0,B.vZ],y.j,A.E("aJ")))})()};
+D.aYE=A.b(x([B.qX,B.B3,B.qY,B.qZ,B.o8,B.o9,B.r_,B.r0]),A.E("K<mW>"))
+D.bmo=new A.fX([B.r0,B.qX,B.qY,B.qZ,B.o8],A.E("fX<mW>"))})();(function lazyInitializers(){var x=a.lazy
+x($,"h6c","eDm",()=>A.m([B.qX,"workTime",B.B3,"treatments",B.qY,"notifications",B.qZ,"workSettings",B.o8,"scheduleSettings",B.r0,"tools",B.r_,"discounts",B.o9,"clients"],y.j,A.E("p")))
+x($,"h6b","f_f",()=>A.m([B.qX,B.eI,B.B3,B.nx,B.qY,B.f3,B.qZ,B.Gd,B.o8,B.jq,B.o9,B.eH,B.r0,B.Gj,B.r_,B.vY],y.j,A.E("aJ")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_95",e:"endPart",h:b})})($__dart_deferred_initializers__,"aP3zc7wgRt80SYa2II0NtgcNyLw=");
+a.eventLog.push({p:"main.dart.js_95",e:"endPart",h:b})})($__dart_deferred_initializers__,"P2CMfhvopICKQX/8+pRkFEgpkN4=");

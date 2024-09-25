@@ -13,7 +13,7 @@ C.b4K.prototype={
 m(d){var x,w,v=null,u=$.ah.n(),t=A.B(A.l("wellDone",v,v,!0),B.t,!1,!1,v,!1,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,19,v,""),s=$.ah.n(),r=A.B(A.l("youFinishTheStartGuide",v,v,!0),B.t,!1,!1,v,!1,!1,v,!1,!1,!0,!1,0.9,v,!1,!1,!1,16,v,""),q=$.ah.n(),p=A.r(d).ax,o=p.CW
 p=o==null?p.y:o
 o=A.l("contactUs",v,v,!0)
-p=A.b1(!0,B.l,v,B.a2,v,v,A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new C.ctv(d),!0,new A.y(10,10,10,10),new A.iN(B.mT,new A.aD(B.vV,24,!1,1,!1,!1,!1,B.y,v),v,v,!0,v),10,v,v,!1,A.l("contactUsExplainGuide",v,v,!0),v,13,B.fL,v,v,o,15,0,v),p,0,"",v,!1,v,v,!0,!0,v,v,v,v,v,v,0.55,v,v,v)
+p=A.b1(!0,B.l,v,B.a2,v,v,A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new C.ctv(d),!0,new A.y(10,10,10,10),new A.iN(B.mT,new A.aD(B.vU,24,!1,1,!1,!1,!1,B.y,v),v,v,!0,v),10,v,v,!1,A.l("contactUsExplainGuide",v,v,!0),v,13,B.fL,v,v,o,15,0,v),p,0,"",v,!1,v,v,!0,!0,v,v,v,v,v,v,0.55,v,v,v)
 o=A.eW(!1,v,!1,!0,!1,!0,!1,14,A.l("youCanFindTheGuidesInSetting",v,v,!0),v)
 x=$.ah.n()
 w=A.r(d)
@@ -38,4 +38,4 @@ w(A.bz,[C.ctv,C.ctw])})()
 A.bj(b.typeUniverse,JSON.parse('{"b4K":{"w":[],"k":[]}}'))
 var y={e:A.E("K<k>"),f:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_335",e:"endPart",h:b})})($__dart_deferred_initializers__,"b59d6DkGJVZMBuR3nHQcXGUUP9w=");
+a.eventLog.push({p:"main.dart.js_335",e:"endPart",h:b})})($__dart_deferred_initializers__,"6JD7S90CS7IBJetnZl61WhpxX/Y=");

@@ -124,7 +124,7 @@ e8c(d){var x=0,w=A.i(y.H),v,u
 var $async$e8c=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=A.R(0,0,0,400,0,0)
 x=3
-return A.c(A.de(C.uM,!1,1,!0,null,null,null,A.L(A.b([new A.no(new A.nv(A.r(d).ax.k3,C.dP),A.ht("assets/drag.webp",null,null,100,null,null,100),null),new A.n(null,8,null,null),A.eW(!1,null,!1,!0,!1,!0,!1,14,A.l("noticeYouCanDragTreatmentTimes",null,null,!0),null)],y.p),C.e,C.i,C.d),d,C.a0,20,!0,!0,u,null,null,!1,null,null),$async$e8c)
+return A.c(A.de(C.uL,!1,1,!0,null,null,null,A.L(A.b([new A.no(new A.nv(A.r(d).ax.k3,C.dP),A.ht("assets/drag.webp",null,null,100,null,null,100),null),new A.n(null,8,null,null),A.eW(!1,null,!1,!0,!1,!0,!1,14,A.l("noticeYouCanDragTreatmentTimes",null,null,!0),null)],y.p),C.e,C.i,C.d),d,C.a0,20,!0,!0,u,null,null,!1,null,null),$async$e8c)
 case 3:v=f
 x=1
 break
@@ -364,7 +364,7 @@ w=this.a
 v=A.l("addTimeSegment",t,t,!0)
 u=A.r(d).p2.y
 u.toString
-return A.cz(s,A.h3(!0,t,A.ae(t,t,t,t,A.dl(new A.P(H.v_,A.ce(C.l,A.a1(A.b([new A.aD(C.br,21,!0,1,!1,!1,!1,t,t),new A.n(6,t,t,t),A.B(v,t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,1,t,!1,!1,!1,14.5,u.bW(A.r(d).ax.z),"")],y.p),C.e,C.i,C.d),C.a5),t),t,!1,!1,!1,new B.bXy(w,d),t),t,t,0,!1,t,t,t,t,!1,t,t,t,t,t,!1,!1,!1,t),t,!1,!0,new B.bXz(w,d),t,0.4,x,!0,C.c1,"addTimeSegmentShowcase"),t,t,t,t,t,t)},
+return A.cz(s,A.h3(!0,t,A.ae(t,t,t,t,A.dl(new A.P(H.uZ,A.ce(C.l,A.a1(A.b([new A.aD(C.br,21,!0,1,!1,!1,!1,t,t),new A.n(6,t,t,t),A.B(v,t,!1,!1,t,!1,!1,t,!1,!1,!0,!1,1,t,!1,!1,!1,14.5,u.bW(A.r(d).ax.z),"")],y.p),C.e,C.i,C.d),C.a5),t),t,!1,!1,!1,new B.bXy(w,d),t),t,t,0,!1,t,t,t,t,!1,t,t,t,t,t,!1,!1,!1,t),t,!1,!0,new B.bXz(w,d),t,0.4,x,!0,C.c1,"addTimeSegmentShowcase"),t,t,t,t,t,t)},
 $S:54}
 B.bXz.prototype={
 $0(){var x=0,w=A.i(y.P),v=this,u
@@ -545,4 +545,4 @@ A.bj(b.typeUniverse,JSON.parse('{"aAI":{"a6":[],"k":[]},"bD0":{"a7":["aAI"]},"aT
 var y=(function rtii(){var x=A.E
 return{F:x("K<fn>"),x:x("K<hI>"),p:x("K<k>"),C:x("e9<hI>"),P:x("ay"),a:x("hm"),N:x("p"),B:x("hI"),O:x("cp<p>"),M:x("G<a_<p,hI>>"),A:x("G<J>"),f:x("O<J>"),y:x("J"),z:x("@"),S:x("F"),H:x("~")}})();(function constants(){D.aRE=new A.eK(10,10,20,10)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_71",e:"endPart",h:b})})($__dart_deferred_initializers__,"bCMbozNFrpUv0lKI05T/5gWLRzA=");
+a.eventLog.push({p:"main.dart.js_71",e:"endPart",h:b})})($__dart_deferred_initializers__,"oJS9YHG6u5db6cuqGMUsi2wJ2AI=");

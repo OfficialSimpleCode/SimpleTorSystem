@@ -20,7 +20,7 @@ return A.c(A.bA("assets/animations/success_animation.json.zip",d,C.Q,B.bRP(),A.l
 case 3:t=f
 if(!J.z(t,!0)){u=q.r
 u===$&&A.j()
-if(u!=null&&$.bk().b===C.v8){u=A.l("confirmOnlyOnDay",null,null,!1)
+if(u!=null&&$.bk().b===C.v7){u=A.l("confirmOnlyOnDay",null,null,!1)
 s=C.a3C.h(0,q.r.ax.a)
 s.toString
 s=A.l(s,null,null,!0)
@@ -53,12 +53,12 @@ return A.c(u.nh(r.r,t),$async$bRP)
 case 5:t=e
 r=t
 case 4:s.r=r
-if(r==null){$.bk().b=C.OV
+if(r==null){$.bk().b=C.OW
 v=!1
 x=1
 break}t=s.a
 t.toString
-if(!A.eFW(t,r)){$.bk().b=C.v8
+if(!A.eFW(t,r)){$.bk().b=C.v7
 v=!1
 x=1
 break}u=$.fA()
@@ -140,7 +140,7 @@ B.aWm.prototype={
 m(d){var x=null,w=$.iW(),v=w.f
 v===$&&A.j()
 if(v.a)v=this.aUo()
-else v=w.w!=null?A.ik(x,this.aUo(),x,1,x,x,x):A.QY()
+else v=w.w!=null?A.ik(x,this.aUo(),x,1,x,x,x):A.QX()
 return new A.fj(v,!0,!0,x,x)},
 aUo(){var x,w=null,v=$.iW().a
 if(v==null){v=A.atv()
@@ -175,7 +175,7 @@ w=v!=null&&!A.hS(v,!0,w.a,!0)}else w=!1
 if(w)x=A.B(A.l("bookingIsNotAccured",s,s,!0),C.t,!1,!1,C.an,!1,!1,s,!1,!1,!1,!1,1,s,!1,!1,!1,17,s,"")
 t=!w}}return this.aOK(e,t,x)},
 aOK(d,e,f){var x=null,w=e?A.r(d).ax.y:x,v=e?new B.c30(d):x
-return A.ae(C.l,x,x,x,new A.P(E.Oo,f,x),w,x,0,!1,x,x,x,new A.y(0,10,0,0),!1,v,x,x,x,x,!1,!1,!1,1/0)}}
+return A.ae(C.l,x,x,x,new A.P(E.Op,f,x),w,x,0,!1,x,x,x,new A.y(0,10,0,0),!1,v,x,x,x,x,!1,!1,!1,1/0)}}
 B.aZB.prototype={
 m(d){var x=null,w=$.iW().f
 w===$&&A.j()
@@ -201,7 +201,7 @@ $3(d,e,f){var x=null,w=A.l("bookingDetails",x,x,!0),v=$.iW().a
 return A.d0(F.alx(d,w,v==null?x:"https://simpletor.app/"+v.grq()),x,this.a.gc1(0),x,!1,x,23,!1,!1,x,!0,!0)},
 $S:293}
 B.e9m.prototype={
-$0(){return $.bk().b!==C.v8},
+$0(){return $.bk().b!==C.v7},
 $S:6}
 B.bXE.prototype={
 $0(){var x=0,w=A.i(y.v),v,u=this
@@ -234,4 +234,4 @@ w(A.w,[B.aWk,B.aTV,B.aWj,B.aWm,B.aWi,B.aZB,B.aWl])})()
 A.bj(b.typeUniverse,JSON.parse('{"a4p":{"a6":[],"k":[]},"bub":{"a7":["a4p"]},"aWk":{"w":[],"k":[]},"aTV":{"w":[],"k":[]},"aWj":{"w":[],"k":[]},"aWm":{"w":[],"k":[]},"aWi":{"w":[],"k":[]},"aZB":{"w":[],"k":[]},"aWl":{"w":[],"k":[]}}'))
 var y={f:A.E("x"),u:A.E("K<k>"),m:A.E("G<J>"),y:A.E("O<da>"),e:A.E("J"),b:A.E("@"),B:A.E("F"),v:A.E("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"7R27dohftlCBgOKBAmW6GiK+DHc=");
+a.eventLog.push({p:"main.dart.js_266",e:"endPart",h:b})})($__dart_deferred_initializers__,"6mqKgDISF5ARuUkyZN5jdCF+jjw=");

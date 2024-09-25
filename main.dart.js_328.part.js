@@ -118,7 +118,7 @@ if(!C.b.u($.H().a.b3,C.eD))return new A.n(w,w,w,w)
 x=A.l("youPassedProductsLimit",w,w,!0)
 return A.b1(!0,C.l,w,C.a2,w,w,A.bE(!1,!1,!1,!0,!1,!1,!1,!1,!0,!0,!1,!0,w,!1,new A.y(10,10,10,10),new A.dK("assets/animations/attention.json.zip",30,30,w,w),5,w,w,!1,w,this.R1(d),13,w,w,w,x,15,0,w),w,0,"",w,!1,w,w,!0,!0,w,w,w,w,w,w,0.55,w,w,w)},
 R1(d){var x,w,v,u,t=null,s=A.bb(t,t,t,t,t,t,t,t,t,t,t,13,t,t,t,t,t,!0,t,t,t,t,t,t,t,t),r=y.R
-if(A.R0($.H().a)>=5)r=A.b([this.C1(d)],r)
+if(A.R_($.H().a)>=5)r=A.b([this.C1(d)],r)
 else{x=this.C1(d)
 w=A.l("or",t,t,!0)
 v=A.r(d).p2.z
@@ -126,9 +126,9 @@ v.toString
 u=A.r(d).ax.k3
 w=A.bO(t,t,v.cf(A.S(C.h.W(178.5),u.gi(u)>>>16&255,u.gi(u)>>>8&255,u.gi(u)&255),13)," "+w)
 u=A.l("upgradeTheSub",t,t,!0)
-v=A.p6(t,t)
+v=A.p5(t,t)
 v.bn=new B.cPK(d)
-r=A.b([x,w,A.bO(t,v,A.r(d).p2.z.cf(C.cj,13)," "+u)],r)}return A.RZ(t,t,C.bg,t,t,!0,t,A.bO(r,t,s,t),C.aD,t,t,C.ak,C.aj)},
+r=A.b([x,w,A.bO(t,v,A.r(d).p2.z.cf(C.cj,13)," "+u)],r)}return A.RY(t,t,C.bg,t,t,!0,t,A.bO(r,t,s,t),C.aD,t,t,C.ak,C.aj)},
 C1(d){var x,w=null,v=A.l("deleteUntilTheLimit",w,w,!0),u=$.H().a.a8.h(0,C.eD)
 u.toString
 u=C.f.l(u)
@@ -139,7 +139,7 @@ x=A.r(d).ax.k3
 return A.bO(w,w,u.cf(A.S(C.h.W(178.5),x.gi(x)>>>16&255,x.gi(x)>>>8&255,x.gi(x)&255),13),v)}}
 B.bmD.prototype={
 m(d){var x=null,w=y.p
-return A.b1(!0,C.l,x,C.a2,x,x,A.L(A.b([A.L(A.b([new A.n(x,10,x,x),A.B(A.l("productsTitle",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,15,x,""),new A.P(F.Op,A.dD(!1,x,!1,x,x,this.c,x,x,x,x,A.l("ourProducts",x,x,!0),x,B.fV3(),x,x,x,!0,x,x,x,x,x,x,x,!0,x,x,!1,x,x,!1,!1,!0,!0,!0,!1,A.bS(C.bJ,x,x,x,x),x,C.aH),x)],w),C.e,C.i,C.d),A.d1(x,0,1),E.eEL(this.d,A.l("productViewExplain",x,x,!1))],w),C.e,C.i,C.d),x,0,"",x,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
+return A.b1(!0,C.l,x,C.a2,x,x,A.L(A.b([A.L(A.b([new A.n(x,10,x,x),A.B(A.l("productsTitle",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,15,x,""),new A.P(F.Oq,A.dD(!1,x,!1,x,x,this.c,x,x,x,x,A.l("ourProducts",x,x,!0),x,B.fV3(),x,x,x,!0,x,x,x,x,x,x,x,!0,x,x,!1,x,x,!1,!1,!0,!0,!0,!1,A.bS(C.bJ,x,x,x,x),x,C.aH),x)],w),C.e,C.i,C.d),A.d1(x,0,1),E.eEL(this.d,A.l("productViewExplain",x,x,!1))],w),C.e,C.i,C.d),x,0,"",x,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
 var z=a.updateTypes(["p?(p?)"])
 B.d2v.prototype={
 $3(d,e,f){var x=null,w=this.a,v=w.c,u=J.aG(v.a),t=J.fs(v.a),s=A.l("deleteTheMarkedProducts",x,x,!0)
@@ -202,6 +202,6 @@ w(B.aCw,A.a6)
 w(B.bFV,A.a7)})()
 A.bj(b.typeUniverse,JSON.parse('{"bfV":{"w":[],"k":[]},"aCw":{"a6":[],"k":[]},"bFV":{"a7":["aCw"]},"bfT":{"w":[],"k":[]},"bd6":{"w":[],"k":[]},"bmD":{"w":[],"k":[]}}'))
 var y=(function rtii(){var x=A.E
-return{q:x("q2"),T:x("K<aa<@>>"),R:x("K<pv>"),p:x("K<k>"),P:x("ay"),N:x("p"),D:x("G<mM>"),z:x("G<c9<p>>"),l:x("O<mM>"),M:x("O<c9<p>>"),y:x("J"),A:x("@"),u:x("J?"),H:x("~")}})()};
+return{q:x("q1"),T:x("K<aa<@>>"),R:x("K<pu>"),p:x("K<k>"),P:x("ay"),N:x("p"),D:x("G<mM>"),z:x("G<c9<p>>"),l:x("O<mM>"),M:x("O<c9<p>>"),y:x("J"),A:x("@"),u:x("J?"),H:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_328",e:"endPart",h:b})})($__dart_deferred_initializers__,"y6Wm9fno+QALzcnnbYXbAmc7bPI=");
+a.eventLog.push({p:"main.dart.js_328",e:"endPart",h:b})})($__dart_deferred_initializers__,"EYb0HuuHn290FwmrCbmLoCKzoOw=");
