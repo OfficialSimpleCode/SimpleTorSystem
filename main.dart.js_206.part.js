@@ -2,70 +2,72 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_206",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-eMH(d,e,f,g,h,i,j){return new B.bjH(d,i,g,j,h,null)},
-bjH:function bjH(d,e,f,g,h,i){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.r=g
-_.x=h
-_.a=i},
-ddg:function ddg(d){this.a=d},
-ddh:function ddh(d){this.a=d},
-ddi:function ddi(d){this.a=d}}
+c_Q(d,e,f){var x=0,w=A.i(y.h),v,u,t,s,r
+var $async$c_Q=A.d(function(g,h){if(g===1)return A.e(h,w)
+while(true)switch(x){case 0:u=A.l("deletingTicket",null,null,!0)
+t=$.a9.n()
+s=A.l("doDeleteTheTicketFromUser",null,null,!1)
+r=e.f
+t=A.I(A.a([new A.m(t*0.5,null,A.y(A.G(s,"NAME",r),C.p,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,""),null),new B.bt2(e,f,null)],y.e),C.c,C.h,C.e)
+s=A.l("yes",null,null,!0)
+x=3
+return A.c(A.iV(A.l("no",null,null,!0),t,d,s,new B.eC6(),new B.eC7(),!0,u),$async$c_Q)
+case 3:v=h
+x=1
+break
+case 1:return A.f(v,w)}})
+return A.h($async$c_Q,w)},
+eC6:function eC6(){},
+eC7:function eC7(){},
+bt2:function bt2(d,e,f){this.c=d
+this.d=e
+this.a=f},
+dGQ:function dGQ(d){this.a=d},
+dGP:function dGP(d,e){this.a=d
+this.b=e},
+dGO:function dGO(d){this.a=d}},D
 A=c[0]
-C=c[213]
-B=a.updateHolder(c[190],B)
-B.bjH.prototype={
-m(d){var x,w=this,v=null,u=w.d
-if(u==null)u=A.l("waitingList",v,v,!0)
-x=w.x
-if(x==null)x=A.l("showWaitingListToClients",v,v,!0)
-return A.bE(!1,!0,!1,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.ddg(w),!1,w.e,v,5,v,v,!1,x,v,13,new A.eg(w.c.a.dy,new B.ddh(w),v),v,v,u,15,0,v)},
-U(d){return this.clE(d)},
-clE(d){var x=0,w=A.i(y.b),v=this,u,t,s
-var $async$U=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:u=$.iV()
-t=v.c
-s=t.a
-u.a_o(s,s.as,d,v.r)
-C.a88(t,new B.ddi(d))
-return A.f(null,w)}})
-return A.h($async$U,w)}}
+C=c[2]
+B=a.updateHolder(c[191],B)
+D=c[397]
+B.bt2.prototype={
+m(d){var x,w=null
+if(A.f_v(this.c).a<=0)return new A.m(w,w,w,w)
+x=this.d
+x.sj(0,D.JE)
+return new A.E(x,new B.dGQ(this),w,w,y.f)}}
 var z=a.updateTypes([])
-B.ddg.prototype={
-$0(){var x=0,w=A.i(y.b),v,u=this,t
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:t=u.a
-x=3
-return A.c(t.U(!t.c.a.dy),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$$0,w)},
-$S:2}
-B.ddh.prototype={
-$2(d,e){return this.b4h(d,e)},
-b4h(d,e){var x=0,w=A.i(y.b),v,u=this,t
-var $async$$2=A.d(function(f,g){if(f===1)return A.e(g,w)
-while(true)switch(x){case 0:t=u.a
-x=3
-return A.c(t.U(!t.c.a.dy),$async$$2)
-case 3:v=g
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$$2,w)},
-$S:24}
-B.ddi.prototype={
-$1(d){d.a.dy=this.a},
-$S:144};(function inheritance(){var x=a.inherit
-x(B.bjH,A.w)
-x(B.ddg,A.bz)
-x(B.ddh,A.d_)
-x(B.ddi,A.bB)})()
-A.bj(b.typeUniverse,JSON.parse('{"bjH":{"w":[],"k":[]},"aeB":{"w":[],"k":[]}}'))
-var y={b:A.E("~")}};
+B.eC6.prototype={
+$1(d){return A.T(d,!1).O(!1)},
+$S:4}
+B.eC7.prototype={
+$1(d){return A.T(d,!1).O(!0)},
+$S:4}
+B.dGQ.prototype={
+$3(d,e,f){var x=null,w=y.e,v=A.a([],w)
+C.b.q(A.a([D.JE,C.JF],y.d),new B.dGP(this.a,v))
+return A.a6(x,x,x,x,A.I(A.a([new A.m(x,5,x,x),new A.m($.a9.n()*0.6,x,A.y(A.l("refundDeleteOptions",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,14,x,""),x),new A.m(x,5,x,x),A.I(v,C.c,C.h,C.e)],w),C.c,C.h,C.e),x,x,0,!1,x,x,x,C.nA,!1,x,x,C.ko,x,x,!1,!1,!1,x)},
+$S:1809}
+B.dGP.prototype={
+$1(d){var x,w,v=null,u=$.ftJ().h(0,d)
+u.toString
+u=A.l(u,v,v,!0)
+x=this.a
+w=A.f_v(x.c).l(0)
+u=A.y(A.G(u,"PRICE",w),v,!1,!1,v,!1,!1,v,!1,!1,!0,!1,0.7,v,!1,!1,!1,13,v,"")
+this.b.push(A.aGC(new A.x(5,0,5,0),v,v,x.d.a,!1,new B.dGO(x),u,d,y.a))},
+$S:1810}
+B.dGO.prototype={
+$1(d){var x
+if(d!=null){x=this.a.d
+x.sj(0,d)
+x.A()}},
+$S:1811};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.bs,[B.eC6,B.eC7,B.dGQ,B.dGP,B.dGO])
+w(B.bt2,A.t)})()
+A.b6(b.typeUniverse,JSON.parse('{"bt2":{"t":[],"k":[]}}'))
+var y={d:A.B("K<RE>"),e:A.B("K<k>"),a:A.B("RE"),f:A.B("E<RE?>"),h:A.B("H?")};(function constants(){D.JE=new A.RE(0,"withoutRefund")
+D.bmC=new A.RE(2,"relativeRefund")})();(function lazyInitializers(){var x=a.lazy
+x($,"hEl","ftJ",()=>A.n([D.JE,"withoutRefund",C.JF,"refundAll",D.bmC,"relativeRefund"],y.a,A.B("q")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_206",e:"endPart",h:b})})($__dart_deferred_initializers__,"u4boKXOSXtnvYCg5ky/UKnUq1XQ=");
+a.eventLog.push({p:"main.dart.js_206",e:"endPart",h:b})})($__dart_deferred_initializers__,"Ol4iEtj0jLkvk3+usT/0jYHBIT0=");

@@ -1,66 +1,47 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_298",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-e8z(d){var x=0,w=A.i(y.f),v,u,t,s,r,q
-var $async$e8z=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:s=$.b3()
-r=$.H()
-q=s.b
-if(r.b.h(0,q.a)==null){new A.a5(A.l("thereIsProblem",null,null,!0),B.m,B.n,B.r,d).E()
-v=null
-x=1
-break}u=r.b.h(0,q.a)
-u.toString
-x=3
-return A.c(C.ebr(d,u),$async$e8z)
-case 3:t=f
-if(t!=null&&t!==r.b.h(0,q.a).k3){s=$.bo()
-u=t===""?null:t
-q=r.b.h(0,q.a)
-q.toString
-s.a7z(d,u,q)}case 1:return A.f(v,w)}})
-return A.h($async$e8z,w)},
-ebr(d,e){var x=0,w=A.i(y.g),v,u,t,s,r,q,p
-var $async$ebr=A.d(function(f,g){if(f===1)return A.e(g,w)
-while(true)switch(x){case 0:q=new A.aZ(null,y.o)
-p=e.k3
-if(p==null)p=""
-u=A.dD(!0,null,!1,null,null,new A.cH(new A.cX(p,B.aO,B.ax),$.af()),null,d,null,null,null,null,D.eBd(),null,null,null,!0,150,null,null,null,null,null,null,!1,null,null,!1,null,null,!1,!0,!0,!0,!0,!1,null,null,B.cL)
-t=A.l("clientMessageoOnCancel",null,null,!0)
-s=A.iv(A.L(A.b([A.aW(A.l("thisMessageWillPopOnCancel",null,null,!0),null,null,null,null,null,null,B.t,null,null,null,null),new A.n(null,30,null,null),u],y.e),B.e,B.i,B.d),q)
-r=A.l("save",null,null,!0)
-x=3
-return A.c(A.de(B.n3,!1,1,!0,null,A.l("cancel",null,null,!0),null,s,d,B.a0,20,!0,!0,B.A,new C.ebx(),new C.eby(q,u),!1,r,t),$async$ebr)
-case 3:v=g
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$ebr,w)},
-ebx:function ebx(){},
-eby:function eby(d,e){this.a=d
-this.b=e}}
-A=c[0]
-B=c[2]
-D=c[201]
-C=a.updateHolder(c[111],C)
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={bkT:function bkT(d,e,f,g,h){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.a=h},dg3:function dg3(d,e){this.a=d
+this.b=e},
+fcI(d,e,f,g){return new A.aeU(g,d,f,e,null)},
+aeU:function aeU(d,e,f,g,h){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.a=h},
+bMd:function bMd(){this.c=this.a=null}},D,C
+B=c[0]
+A=a.updateHolder(c[135],A)
+D=c[267]
+C=c[188]
+A.bkT.prototype={
+m(d){var x=new B.M(this.c,$.a8(),y.c)
+return new B.E(x,new A.dg3(this,x),null,null,y.h)}}
+A.aeU.prototype={
+Z(){return new A.bMd()}}
+A.bMd.prototype={
+m(d){var x=null,w=D.a87(d,B.l("paymentRequest",x,x,!0),"https://simpletor.app/"+("payment-request/"+this.a.c.b)),v=this.a,u=v.c,t=v.d,s=v.f
+return B.cR(w,x,new A.bkT(u,t,v.e,s,x),x,!1,x,x,23,!1,!1,x,!0,!0)}}
 var z=a.updateTypes([])
-C.ebx.prototype={
-$1(d){A.T(d,!1).S(null)
-return null},
-$S:4}
-C.eby.prototype={
-$1(d){return this.b78(d)},
-b78(d){var x=0,w=A.i(y.p),v,u=this,t
-var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:t=u.a
-if(t.ga3()!=null&&!t.ga3().he()){x=1
-break}t=u.b.d.a.a
-A.T(d,!1).S(t)
-case 1:return A.f(v,w)}})
-return A.h($async$$1,w)},
-$S:36};(function inheritance(){var x=a.inheritMany
-x(A.bB,[C.ebx,C.eby])})()
-var y={e:A.E("K<k>"),o:A.E("aZ<je>"),p:A.E("ay"),g:A.E("p?"),f:A.E("~")}};
+A.dg3.prototype={
+$3(d,e,f){var x,w=null,v=this.a,u=v.c
+if(u.ay)v=new C.aFk(this.b.a,w)
+else if(u.ch&&u.z)v=new C.aFl(w)
+else{u=u.x&&u.ax.a!==0
+x=this.b
+v=u?new C.aFi(x.a,w):new C.aFm(x,v.d,v.e,v.f,w)}return v},
+$S:728};(function inheritance(){var x=a.inherit
+x(A.bkT,B.t)
+x(A.dg3,B.bs)
+x(A.aeU,B.a2)
+x(A.bMd,B.a5)})()
+B.b6(b.typeUniverse,JSON.parse('{"bkT":{"t":[],"k":[]},"aeU":{"a2":[],"k":[]},"bMd":{"a5":["aeU"]}}'))
+var y={h:B.B("E<h1>"),c:B.B("M<h1>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_298",e:"endPart",h:b})})($__dart_deferred_initializers__,"+q54YA8JqgbxOMI57g59pMLkmOs=");
+a.eventLog.push({p:"main.dart.js_298",e:"endPart",h:b})})($__dart_deferred_initializers__,"P9R4pH/hxM4VpYhmwSM1E+lSX7o=");
