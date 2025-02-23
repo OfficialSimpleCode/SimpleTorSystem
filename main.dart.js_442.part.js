@@ -104,7 +104,7 @@ x(A.r,[C.aFi,C.azb])
 x(A.bg,[C.cpM,C.cpN])
 x(A.b7,[C.cpO,C.cpP])})()
 A.aY(b.typeUniverse,JSON.parse('{"aFi":{"r":[],"l":[]},"azb":{"r":[],"l":[]}}'))
-var y={e:A.z("I<l>"),m:A.z("pA"),g:A.z("o"),f:A.z("~")};(function constants(){D.b54=new A.aA(58728,"MaterialIcons",null,!1)
+var y={e:A.z("I<l>"),m:A.z("pz"),g:A.z("o"),f:A.z("~")};(function constants(){D.b54=new A.aA(58728,"MaterialIcons",null,!1)
 D.b5T=new A.aA(62283,"MaterialIcons",null,!1)})();(function staticFields(){$.haM=A.a(["trains","haircut","anatomicBuilding","pilatisMachines","yoga","hairMaster","nailsMaster","coach"],A.z("I<o>"))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_442",e:"endPart",h:b})})($__dart_deferred_initializers__,"TpbniYx0cv1zMQWSrymhaFvTM5c=");
+a.eventLog.push({p:"main.dart.js_442",e:"endPart",h:b})})($__dart_deferred_initializers__,"MfvGW8+1kc7sriSpX0EBNn/clLg=");

@@ -1338,7 +1338,7 @@ m(d){var x={}
 x.a=null
 $.aD.y1$.push(new B.eCW(x))
 $.hG().c=new A.J($.F().a.b.a,$.a4(),y.M)
-return new A.pf(new A.f5(new B.eCX(x,this),null),null,null)}}
+return new A.pe(new A.f5(new B.eCX(x,this),null),null,null)}}
 B.ae4.prototype={
 m(d){var x,w,v,u,t,s,r=this,q=null
 $.aD.y1$.push(new B.cCN(r))
@@ -1376,7 +1376,7 @@ s=C.h.l(q.d)
 r=A.k("diffrentClients",p,p,!1)
 s=B.lw(p,A.k("diffrentClientsExpalin",p,p,!1),r,s)
 r=$.aQ.n()
-return A.G(A.a([new E.pk(w,x,p),s,B.bty(A.a([new B.ceP(o,q),new B.ceQ(q,t),new B.ceR(o,q)],y.T),r*0.43)],y.p),C.d,C.c,C.e)},
+return A.G(A.a([new E.pj(w,x,p),s,B.bty(A.a([new B.ceP(o,q),new B.ceQ(q,t),new B.ceR(o,q)],y.T),r*0.43)],y.p),C.d,C.c,C.e)},
 gbiA(){var x,w={}
 w.a=0
 x=A.q(y.N,y.i)
@@ -1433,7 +1433,7 @@ v=A.a0(v,q,u)
 u=A.k("avgCanceletionAmount",s,s,!0)
 t=A.k(r,s,s,!0)
 m=A.fF(m.e,s,!1,-1)
-return A.G(A.a([new E.pk(o,n,s),l,k,x,B.cAR(new E.mg(u,A.a0(t,q,m),s),p,$.aQ.n()*0.4,C.ac,new E.mg(w,v,s),20,$.mw()),new A.m(s,40,s,s)],y.p),C.d,C.c,C.e)},
+return A.G(A.a([new E.pj(o,n,s),l,k,x,B.cAR(new E.mg(u,A.a0(t,q,m),s),p,$.aQ.n()*0.4,C.ac,new E.mg(w,v,s),20,$.mw()),new A.m(s,40,s,s)],y.p),C.d,C.c,C.e)},
 biJ(d){var x={},w=A.q(y.N,y.i)
 x.a=0
 this.c.ch.q(0,new B.cyJ(x,this,d,w))
@@ -1482,7 +1482,7 @@ v=A.fF(A.R(0,0,0,0,n===0?0:C.h.cH(C.h.T(v.f.a,k),n),0),l,!1,-1)
 n=A.k("AvgBookingTime",l,l,!0)
 v=B.lw(l,A.k("AvgBookingTimeExplanation",l,l,!1),n,v)
 n=$.aQ.n()
-return A.G(A.a([new E.pk(u,s,l),q,p,o,v,B.bty(A.a([new B.dTE(j),new B.dTF(h),new B.dTG(i)],y.T),n*0.43)],y.p),C.d,C.c,C.e)},
+return A.G(A.a([new E.pj(u,s,l),q,p,o,v,B.bty(A.a([new B.dTE(j),new B.dTF(h),new B.dTG(i)],y.T),n*0.43)],y.p),C.d,C.c,C.e)},
 gbkl(){var x=A.q(y.N,y.i)
 this.c.as.q(0,new B.dTJ(x))
 return x},
@@ -1520,7 +1520,7 @@ r=new A.bI(s)
 r.ce(t,s)
 r=r.l(0)
 s=A.k("cancelRevenue",w,w,!0)
-return A.G(A.a([new E.pk(v,u,w),x,B.lw(C.ac,A.k("cancelRevenueExplain",w,w,!0),s,r)],y.p),C.d,C.c,C.e)}}
+return A.G(A.a([new E.pj(v,u,w),x,B.lw(C.ac,A.k("cancelRevenueExplain",w,w,!0),s,r)],y.p),C.d,C.c,C.e)}}
 B.bfS.prototype={
 m(d){var x,w=null,v=A.k("generalPayments",w,w,!0),u=A.k("generalPaymentsExplain",w,w,!0),t=this.c,s=this.d,r=t.fy.h(0,s.a)
 r=C.i.l(r==null?0:r)
@@ -1537,7 +1537,7 @@ r=new A.bI(s)
 r.ce(t,s)
 r=r.l(0)
 s=A.k("debts",w,w,!0)
-return A.G(A.a([new E.pk(v,u,w),x,B.lw(w,A.k("debtsExplain",w,w,!0),s,r)],y.p),C.d,C.c,C.e)}}
+return A.G(A.a([new E.pj(v,u,w),x,B.lw(w,A.k("debtsExplain",w,w,!0),s,r)],y.p),C.d,C.c,C.e)}}
 B.bjq.prototype={
 m(d){var x,w,v,u=null,t="displayInDiffrenceOf",s="DURATION",r=36e8,q=this.bkC(d),p=$.aQ.n(),o=$.mw(),n=A.k("revenues",u,u,!0),m=A.k(t,u,u,!0),l=this.c,k=A.fF(l.e,u,!1,-1)
 m=A.a0(m,s,k)
@@ -1614,7 +1614,7 @@ o=$.mw()
 n=A.k("paymentResource",j,j,!0)
 m=A.k("paymentResourceExplain",j,j,!0)
 l=y.p
-x=A.a([A.d1(A.G(A.a([new E.pk(w,v,j),r,q,new A.K(C.mq,A.a8h(!0,j,j,p,u,!1,$.aQ.n()*0.4,t,!1,16,j,j,j,j,!0,j,!1,!1,25,new E.mg(n,m,j),j,s,j,!0,!1,o),j)],l),C.d,C.c,C.e),x)],l)
+x=A.a([A.d1(A.G(A.a([new E.pj(w,v,j),r,q,new A.K(C.mq,A.a8h(!0,j,j,p,u,!1,$.aQ.n()*0.4,t,!1,16,j,j,j,j,!0,j,!1,!1,25,new E.mg(n,m,j),j,s,j,!0,!1,o),j)],l),C.d,C.c,C.e),x)],l)
 if(!A.W9(i.a)){w=i.a
 w=A.ds(w.fy,j)!=null&&w.z!=null}else w=!0
 C.b.V(x,w?A.a([],l):A.a([k.crF(d)],l))
@@ -1633,7 +1633,7 @@ x=new A.bI(t)
 x.ce(s,t)
 x=x.l(0)
 t=A.k("totalTicketsRevenue",w,w,!0)
-return A.G(A.a([new E.pk(v,u,w),B.lw(w,A.k("totalTicketsRevenueExplain",w,w,!1),t,x)],y.p),C.d,C.c,C.e)}}
+return A.G(A.a([new E.pj(v,u,w),B.lw(w,A.k("totalTicketsRevenueExplain",w,w,!1),t,x)],y.p),C.d,C.c,C.e)}}
 B.aiG.prototype={
 m(d){var x,w,v,u,t,s,r,q,p=null
 $.aD.y1$.push(new B.dSL(this))
@@ -1647,7 +1647,7 @@ t=A.cF(p,p,5)
 s=A.k("tokensUsage",p,p,!0)
 r=A.k("tokensUsageExplanation",p,p,!0)
 q=C.h.l(0)
-return A.e5(!1,A.a([new A.m(p,x,p,p),new B.aaF(p),new B.byl(v,p),u,t,new E.pk(s,r,p),B.lw(p,p,A.k("tokensUsageAmount",p,p,!0),q),A.cF(p,p,5),new E.pk(A.k("comparisons",p,p,!0),A.k("comparisonsExplanations",p,p,!0),p),new B.b6Z(v,p),A.cF(p,p,5),new E.pk(A.k("ticketsHistory",p,p,!0),A.k("ticketsHistoryExplanation",p,p,!0),p),new B.bgG(v,p)],y.p),!0,C.au,w,this.c,!1)}}
+return A.e5(!1,A.a([new A.m(p,x,p,p),new B.aaF(p),new B.byl(v,p),u,t,new E.pj(s,r,p),B.lw(p,p,A.k("tokensUsageAmount",p,p,!0),q),A.cF(p,p,5),new E.pj(A.k("comparisons",p,p,!0),A.k("comparisonsExplanations",p,p,!0),p),new B.b6Z(v,p),A.cF(p,p,5),new E.pj(A.k("ticketsHistory",p,p,!0),A.k("ticketsHistoryExplanation",p,p,!0),p),new B.bgG(v,p)],y.p),!0,C.au,w,this.c,!1)}}
 B.b6Z.prototype={
 m(d){var x=null,w=this.bjm(d),v=$.a9.n(),u=$.a9.n(),t=A.k("topTickets",x,x,!1),s=A.k(w.a===1?"topTicketExplain":"topTicketsExplain",x,x,!1),r=C.h.l(w.a)
 s=A.a0(s,"NUMBER",r)
@@ -1708,7 +1708,7 @@ h=B.lw(d,A.k("OrderedBookingsExplanation",d,d,!0),g,h)
 g=u.at
 g=C.i.aT(g===0?0:u.p3/g,1)
 f=A.k("TreatmentsInBooking",d,d,!0)
-return A.e5(!1,A.a([new A.m(d,w,d,d),new B.aaF(d),new B.bjp(u,d),t,new E.pk(s,r,d),q,o,p,n,new E.pk(m,l,d),new B.bzI(u,d),new A.m(d,30,d,d),k,new E.pk(j,i,d),h,B.lw(d,A.k("TreatmentsInBookingExplanation",d,d,!0),f,g),new B.bzF(u,e.e,d)],y.p),!0,C.au,v,e.c,!1)},
+return A.e5(!1,A.a([new A.m(d,w,d,d),new B.aaF(d),new B.bjp(u,d),t,new E.pj(s,r,d),q,o,p,n,new E.pj(m,l,d),new B.bzI(u,d),new A.m(d,30,d,d),k,new E.pj(j,i,d),h,B.lw(d,A.k("TreatmentsInBookingExplanation",d,d,!0),f,g),new B.bzF(u,e.e,d)],y.p),!0,C.au,v,e.c,!1)},
 gblj(){var x,w={}
 w.a=0
 x=A.q(y.R,y.a)
@@ -1767,7 +1767,7 @@ m(d){var x,w=null,v=this.c,u=v.k4,t=A.Q(u).k("aw<1>"),s=A.a7(new A.aw(u,t),!0,t.
 C.b.hU(s)
 x=A.r3($.hG().z,1)
 t=y.p
-return A.G(A.a([new A.K(new A.x(15,0,15,0),A.W(A.a([A.aX(new E.mg(A.k("TreatmentsIncome",w,w,!0),A.k("TreatmentsIncomeExplanation",w,w,!0),w),1),new A.m(5,w,w,w),new A.amC(x,v,!0,w)],t),C.d,C.aQ,C.e),w),A.aX(A.agY(C.F,x,new B.dWQ(this,s),s.length,w,w,!0,!0,new A.pv(w),!1,w,C.aH),1)],t),C.d,C.c,C.e)}}
+return A.G(A.a([new A.K(new A.x(15,0,15,0),A.W(A.a([A.aX(new E.mg(A.k("TreatmentsIncome",w,w,!0),A.k("TreatmentsIncomeExplanation",w,w,!0),w),1),new A.m(5,w,w,w),new A.amC(x,v,!0,w)],t),C.d,C.aQ,C.e),w),A.aX(A.agY(C.F,x,new B.dWQ(this,s),s.length,w,w,!0,!0,new A.pu(w),!1,w,C.aH),1)],t),C.d,C.c,C.e)}}
 B.aaF.prototype={
 m(d){var x=null,w=$.F().a.xr
 w=w.y?C.bd:w.a.b
@@ -2641,7 +2641,7 @@ x(B.bZu,A.cO)
 x(B.bO4,A.cO)})()
 A.aY(b.typeUniverse,JSON.parse('{"a4q":{"cO":[]},"aDd":{"cO":[]},"aFw":{"a2":[],"l":[]},"aSB":{"a3":["aFw"]},"a1v":{"cO":[]},"kr":{"cO":[]},"Xr":{"cO":[]},"UZ":{"jX":[],"cO":[]},"a2o":{"UZ":[],"jX":[],"cO":[]},"Wj":{"cO":[]},"a61":{"cO":[]},"arE":{"cO":[]},"ag_":{"bv":["a1v"],"bs":["a1v"],"bv.T":"a1v","bs.T":"a1v"},"aFx":{"cO":[]},"b2B":{"cO":[]},"ayE":{"cO":[]},"af3":{"cO":[]},"aoT":{"cO":[]},"aFz":{"cO":[]},"ag0":{"cO":[]},"biJ":{"bB":[],"l":[]},"bsc":{"ae":[],"ag":[],"r0":[],"bD":[]},"b9K":{"r":[],"l":[]},"aAW":{"a2":[],"l":[]},"aR2":{"a3":["aAW"]},"b9N":{"r":[],"l":[]},"btx":{"r":[],"l":[]},"bwf":{"r":[],"l":[]},"bwg":{"r":[],"l":[]},"aaE":{"a2":[],"l":[]},"bXT":{"a3":["aaE"]},"ae4":{"r":[],"l":[]},"b2f":{"r":[],"l":[]},"bjn":{"r":[],"l":[]},"afh":{"r":[],"l":[]},"b7m":{"r":[],"l":[]},"bjo":{"r":[],"l":[]},"byD":{"r":[],"l":[]},"aqZ":{"r":[],"l":[]},"b3D":{"r":[],"l":[]},"bfS":{"r":[],"l":[]},"bjq":{"r":[],"l":[]},"boi":{"r":[],"l":[]},"by8":{"r":[],"l":[]},"aiG":{"r":[],"l":[]},"b6Z":{"r":[],"l":[]},"bgG":{"r":[],"l":[]},"byl":{"r":[],"l":[]},"aiR":{"r":[],"l":[]},"bzF":{"r":[],"l":[]},"bjp":{"r":[],"l":[]},"bzI":{"r":[],"l":[]},"asD":{"r":[],"l":[]},"aaF":{"r":[],"l":[]},"b9G":{"r":[],"l":[]},"aMs":{"r":[],"l":[]},"bwh":{"r":[],"l":[]}}'))
 var y=(function rtii(){var x=A.z
-return{x:x("Xo"),J:x("Xr"),j:x("la"),V:x("lY"),N:x("hx"),D:x("jX"),O:x("I<p>"),U:x("I<jX>"),n:x("I<kr>"),o:x("I<a96>"),X:x("I<Z<jX>>"),F:x("I<f2>"),q:x("I<arE>"),b:x("I<U2>"),_:x("I<a2o>"),p:x("I<l>"),C:x("I<al>"),t:x("I<E>"),Y:x("I<Wj?>"),T:x("I<l()>"),Z:x("UZ"),g:x("kr"),d:x("a1v"),e:x("ag0"),u:x("Wj"),v:x("aga<kr>"),L:x("Z<E>"),I:x("oJ"),r:x("N<hx,al>"),w:x("pt"),P:x("aB"),k:x("Yn<a1v>"),y:x("rc"),R:x("o"),c:x("a2o"),W:x("a61"),a:x("eg"),z:x("D<bR<o>>"),s:x("D<rc>"),B:x("D<o>"),E:x("D<H>"),G:x("D<E>"),h:x("D<nr?>"),K:x("J<ej>"),M:x("J<o>"),f:x("J<H>"),l:x("J<nr?>"),m:x("l()"),Q:x("H"),i:x("al"),bJ:x("@"),S:x("E"),A:x("ag_?"),H:x("~")}})();(function constants(){var x=a.makeConstList
+return{x:x("Xo"),J:x("Xr"),j:x("la"),V:x("lY"),N:x("hx"),D:x("jX"),O:x("I<p>"),U:x("I<jX>"),n:x("I<kr>"),o:x("I<a96>"),X:x("I<Z<jX>>"),F:x("I<f2>"),q:x("I<arE>"),b:x("I<U2>"),_:x("I<a2o>"),p:x("I<l>"),C:x("I<al>"),t:x("I<E>"),Y:x("I<Wj?>"),T:x("I<l()>"),Z:x("UZ"),g:x("kr"),d:x("a1v"),e:x("ag0"),u:x("Wj"),v:x("aga<kr>"),L:x("Z<E>"),I:x("oJ"),r:x("N<hx,al>"),w:x("ps"),P:x("aB"),k:x("Yn<a1v>"),y:x("rc"),R:x("o"),c:x("a2o"),W:x("a61"),a:x("eg"),z:x("D<bR<o>>"),s:x("D<rc>"),B:x("D<o>"),E:x("D<H>"),G:x("D<E>"),h:x("D<nr?>"),K:x("J<ej>"),M:x("J<o>"),f:x("J<H>"),l:x("J<nr?>"),m:x("l()"),Q:x("H"),i:x("al"),bJ:x("@"),S:x("E"),A:x("ag_?"),H:x("~")}})();(function constants(){var x=a.makeConstList
 D.b3C=new A.a4r(C.a3,null,2,null)
 D.Nw=new B.ayE(!1,D.b3C,B.hd6(),!0)
 D.aXK=new A.x(0,0,4,0)
@@ -2677,4 +2677,4 @@ D.LD=new A.rc(4,"tickets")})();(function lazyInitializers(){var x=a.lazy
 x($,"hWb","fJu",()=>{var w=null
 return A.a([A.aZ(w,!1,!0,!0,!1,C.H,w,!0,!1,C.mM,16,!1,!1,w,w,"general",!1,!1,!1,!0,w,w,w,new B.f4O(),!1,w,0,w,!0,!1,w,w,!0,w,C.u4,w,!0,!0,w,w,w,!0,w,0.3),A.aZ(w,!1,!0,!0,!1,C.H,w,!0,!1,C.cD,19,!1,!1,w,w,"clients",!1,!1,!1,!0,w,w,w,new B.f4P(),!1,w,0,w,!0,!1,w,w,!0,w,D.LB,w,!0,!0,w,w,w,!0,w,0.3),A.aZ(w,!1,!0,!0,!1,C.H,w,!0,!1,C.oA,5,!1,!1,w,w,"treatments",!1,!1,!0,!0,w,w,w,new B.f4Q(),!1,w,0,w,!0,!1,w,w,!0,w,D.LC,w,!0,!0,w,w,w,!0,w,0.3),A.aZ(w,!1,!0,!0,!1,C.H,w,!0,!1,C.oB,61,!1,!1,w,w,"tickets",!1,!1,!0,!0,w,w,w,new B.f4R(),!1,w,0,w,!0,!1,w,w,!0,w,D.LD,w,!0,!0,w,w,w,!0,w,0.3),A.aZ(w,!1,!0,!0,!1,C.H,w,!0,!1,C.cg,192,!1,!1,w,w,"payments",!1,!1,!1,!0,w,w,w,new B.f4S(),!1,w,0,w,!0,!0,w,w,!0,w,D.Ej,w,!0,!0,w,w,w,!0,new B.b9G(w),0.3)],A.z("I<fY>"))})})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_385",e:"endPart",h:b})})($__dart_deferred_initializers__,"cF6VPMTDTnatXF3binY0wroTc/g=");
+a.eventLog.push({p:"main.dart.js_385",e:"endPart",h:b})})($__dart_deferred_initializers__,"hgooKONx5SC0czdinapOUeGl0KA=");

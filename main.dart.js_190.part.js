@@ -196,11 +196,11 @@ v.q(0,new B.d0k(this,u))
 return u}}
 B.bhM.prototype={
 m(d){var x=null
-return A.G(A.a([new E.pk(A.k("graphsAndTables",x,x,!0),A.k("invoiceGraphsAndTables",x,x,!0),x),new B.bw7(this.c,this.d,x)],y.p),C.d,C.c,C.e)}}
+return A.G(A.a([new E.pj(A.k("graphsAndTables",x,x,!0),A.k("invoiceGraphsAndTables",x,x,!0),x),new B.bw7(this.c,this.d,x)],y.p),C.d,C.c,C.e)}}
 B.bhH.prototype={
 m(d){var x,w=null,v=this.gbk0()
 if(v.length===0)return new A.m(w,w,w,w)
-x=A.a([new E.pk(A.k("dryData",w,w,!0),A.k("invoiceDryData",w,w,!0),w)],y.p)
+x=A.a([new E.pj(A.k("dryData",w,w,!0),A.k("invoiceDryData",w,w,!0),w)],y.p)
 C.b.V(x,v)
 return A.G(x,C.d,C.c,C.e)},
 gbk0(){var x=A.a([],y.p),w=this.c.r.h(0,this.d)
@@ -216,7 +216,7 @@ t=s==null?$.bK():s
 $.bK()
 s=new A.bI(t)
 s.ce(x,t)
-return A.G(A.a([new E.pk(v,u,w),new B.aEU("invoiceTotalAmount",r,w),new B.aEU("invoiceTotalPrice",s.l(0),w)],y.p),C.d,C.c,C.e)}}
+return A.G(A.a([new E.pj(v,u,w),new B.aEU("invoiceTotalAmount",r,w),new B.aEU("invoiceTotalPrice",s.l(0),w)],y.p),C.d,C.c,C.e)}}
 B.bhG.prototype={
 m(d){var x,w,v,u,t,s=this,r=null,q=A.cF(r,0,0.4),p=$.fjA().h(0,s.c)
 p=A.k((p==null?"":p)+"PriceData",r,r,!0)
@@ -457,4 +457,4 @@ D.bgk=A.a(x([]),A.z("I<e0>"))})();(function lazyInitializers(){var x=a.lazy
 x($,"hUS","fjA",()=>A.n([C.hj,"bankTransfer",C.hk,"check",C.hl,"cash",C.Ig,"payBox",C.Ih,"bit",C.Ii,"paypal",C.Ij,"otherApp",C.hm,"credit",C.hn,"combined"],y.W,y.N))
 x($,"hUR","fIY",()=>A.n([C.hj,C.hv,C.hk,C.kf,C.hl,C.pj,C.Ij,C.ts,C.Ig,C.cd,C.Ih,C.nb,C.Ii,C.n9,C.hm,C.JQ,C.hn,C.tw],y.W,A.z("p")))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_190",e:"endPart",h:b})})($__dart_deferred_initializers__,"kWJG39juTmQ2Ipmh5jqaOcPvfiU=");
+a.eventLog.push({p:"main.dart.js_190",e:"endPart",h:b})})($__dart_deferred_initializers__,"WqCaJUky/6tZVdlT7CYc6+O2qrk=");
