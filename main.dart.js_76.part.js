@@ -1,66 +1,22 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_76",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-fSp(d,e){return new C.bhI(e,d,null)},
-bhI:function bhI(d,e,f){this.c=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,D,C={
+fps(d,e){return new C.aoz(e,d,null)},
+aoz:function aoz(d,e,f){this.c=d
 this.d=e
-this.a=f},
-d_Y:function d_Y(){},
-d_Z:function d_Z(d,e,f,g){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g},
-d0_:function d0_(d,e,f){this.a=d
-this.b=e
-this.c=f}},D
+this.a=f}},E,B
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[162],C)
-D=c[325]
-C.bhI.prototype={
-m(d){var x=null
-return A.G(A.a([new A.m(x,10,x,x),A.y(A.k("invoices",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!0,1,x,!1,!1,!1,16,x,""),A.G(this.bhU(d),B.d,B.c,B.e),new A.m(x,30,x,x)],y.e),B.d,B.c,B.e)},
-bhU(d){var x,w={},v=this.c
-B.b.bq(v,new C.d_Y())
-x=A.a([],y.e)
-w.a=0
-B.b.q(v,new C.d_Z(w,this,x,d))
-return x},
-zy(d,e,f){var x,w,v=null,u=this.d,t=!u&&e.z?"-":""
-if(u&&e.z)t="+"
-u=A.t(d).ax
-x=u.CW
-u=x==null?u.y:x
-x=A.k("invoiceNumber",v,v,!0)
-w=B.h.l(f+1)
-x=A.a0(x,"NUMBER",w)
-return A.as(!0,B.k,v,B.I,v,v,A.aW(!1,!0,!1,B.c,B.d,!0,!0,!0,!1,!1,!0,!0,!1,!1,new C.d0_(this,d,e),!0,new A.x(10,17,10,17),new A.ao(B.oC,19,!1,1,!1,!0,!1,v,v),5,v,v,!1,v,v,13,A.W(A.a([A.y(t+e.a.l(0),v,!1,!1,v,!1,!0,v,!1,!1,!1,!0,0.7,v,!1,!1,!1,14,v,""),new A.m(5,v,v,v),B.dQ],y.e),B.d,B.c,B.e),v,v,x,15,0,v),u,0,"",v,v,B.c,!1,v,new A.x(0,15,0,0),!1,!0,v,v,v,v,v,v,0.55,v,v,v)}}
-var z=a.updateTypes([])
-C.d_Y.prototype={
-$2(d,e){return d.c.ao(0,e.c)},
-$S:770}
-C.d_Z.prototype={
-$1(d){var x=this,w=x.a
-x.c.push(x.b.zy(x.d,d,w.a));++w.a},
-$S:771}
-C.d0_.prototype={
-$0(){var x=0,w=A.i(y.b),v,u=this
-var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
-while(true)switch(x){case 0:x=3
-return A.c(D.aci(u.b,u.a.d,u.c),$async$$0)
-case 3:v=e
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$$0,w)},
-$S:11};(function inheritance(){var x=a.inherit
-x(C.bhI,A.r)
-x(C.d_Y,A.ca)
-x(C.d_Z,A.bg)
-x(C.d0_,A.b7)})()
-A.aY(b.typeUniverse,JSON.parse('{"bhI":{"r":[],"l":[]}}'))
-var y={e:A.z("I<l>"),b:A.z("@")}};
+D=c[2]
+C=a.updateHolder(c[145],C)
+E=c[315]
+B=c[215]
+C.aoz.prototype={
+m(d){var x=null,w=new A.cW(0,!0,x,x,x,A.a([],y.d),$.a4()),v=this.c,u=E.a9V(d,A.k(v.z?"refundInvoice":"invoice",x,x,!0),"https://simpletor.app/invoice/"+v.b),t=$.a9.n()*0.03,s=this.d
+return A.ch(u,x,new A.K(new A.x(t,0,t,0),A.e5(!1,A.a([new A.m(x,20,x,x),new B.aEL(v,x),new A.a3W(1,D.cK,A.bk(A.k("customerDetaild",x,x,!1),x,x,x,x,x,x,x,x,x,x,x,x),x,x,x),new B.azZ(v,s,x),new B.aEM(v.c,!1,x),new B.aEQ(v,x),new B.aAn(v,s,x),A.bk(A.k("Items",x,x,!0),x,x,x,x,x,x,A.t(d).p2.r,x,x,x,x,x),new B.aF2(v,x),A.bk(A.k("payments",x,x,!0),x,x,x,x,x,x,A.t(d).p2.r,x,x,x,x,x),new B.aI7(v,x),new B.aNS(v,x)],y.e),!0,D.au,x,w,!1),x),x,x,!1,x,x,23,!1,!1,w,!0,!0)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.aoz,A.r)})()
+A.aY(b.typeUniverse,JSON.parse('{"aoz":{"r":[],"l":[]}}'))
+var y={d:A.z("I<f2>"),e:A.z("I<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_76",e:"endPart",h:b})})($__dart_deferred_initializers__,"CDjFsKttLxF51uzTTDBCSiZFWr8=");
+a.eventLog.push({p:"main.dart.js_76",e:"endPart",h:b})})($__dart_deferred_initializers__,"sP/gHybqW7BrqAlYUoUcsxK+s1k=");

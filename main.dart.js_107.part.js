@@ -1,17 +1,30 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_107",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
-fYb(d){return new B.bta(d,null)},
-bta:function bta(d,e){this.c=d
-this.a=e}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+aZG(d,e){var x=0,w=A.i(y.b),v,u
+var $async$aZG=A.d(function(f,g){if(f===1)return A.e(g,w)
+while(true)switch(x){case 0:x=6
+return A.c(A.bc(e,A.be("companyInvoiceDataPage",0)),$async$aZG)
+case 6:x=g===!0?3:5
+break
+case 3:u=$.ap().as
+A.aT("companyInvoiceDataPage")
+x=7
+return A.c(A.hW(D.fNv(d),e,u),$async$aZG)
+case 7:v=g
+x=1
+break
+x=4
+break
+case 5:new A.Y(A.k("thereIsProblem",null,null,!0),B.l,B.n,B.p,e).D()
+case 4:case 1:return A.f(v,w)}})
+return A.h($async$aZG,w)}},D
 A=c[0]
-B=a.updateHolder(c[66],B)
-B.bta.prototype={
-m(d){var y=null
-return A.ch(A.dR(y,y,y,y,y,!1,y,A.y(A.k("subscriptionDetails",y,y,!0),y,!1,!1,y,!1,!1,y,!1,!1,!1,!1,1,y,!1,!1,!1,16,y,""),!0),y,new A.aKA(this.c,y),y,y,!1,y,y,23,!1,!1,y,!0,!0)}}
-var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
-y(B.bta,A.r)})()
-A.aY(b.typeUniverse,JSON.parse('{"bta":{"r":[],"l":[]}}'))};
+B=c[2]
+C=a.updateHolder(c[275],C)
+D=c[187]
+var z=a.updateTypes([])
+var y={b:A.z("@")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_107",e:"endPart",h:b})})($__dart_deferred_initializers__,"RSEs6eROW6kttAntKEMmzcjVNYM=");
+a.eventLog.push({p:"main.dart.js_107",e:"endPart",h:b})})($__dart_deferred_initializers__,"ZFi+xV/7SmGM12OgoxdYBpb3BaU=");

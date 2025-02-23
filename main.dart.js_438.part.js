@@ -1,70 +1,13 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_438",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,C={
-aYz(d,e,f){return C.hai(d,e,f)},
-hai(d,e,f){var x=0,w=A.i(y.b),v,u=2,t,s,r,q,p,o
-var $async$aYz=A.d(function(g,h){if(g===1){t=h
-x=u}while(true)switch(x){case 0:p=$.F()
-if(p.a.R8===""){x=1
-break}u=4
-x=7
-return A.c(A.b5("assets/animations/success_animation.json.zip",d,!1,B.K,$.cT().Bf($.a_().a,!0).I(0,new C.eOY(),y.l),"",null,!0,!0,!0,null,!1,B.O,!1).aF(),$async$aYz)
-case 7:x=8
-return A.c(C.eWZ(d),$async$aYz)
-case 8:s=h
-if(!J.B(s,!0)){x=1
-break}r=A.S(d,!1)
-x=9
-return A.c(A.b5("assets/animations/delete_animation.json.zip",d,!1,B.K,$.a3a().NL(p.a.R8,e,f),A.k("businessDeleted",null,null,!0),r,!0,!1,!0,null,!0,B.O,!1).aF(),$async$aYz)
-case 9:r=h
-v=r
-x=1
-break
-u=2
-x=6
-break
-case 4:u=3
-o=t
-x=6
-break
-case 3:x=2
-break
-case 6:case 1:return A.f(v,w)
-case 2:return A.e(t,w)}})
-return A.h($async$aYz,w)},
-eWZ(d){var x=0,w=A.i(y.h),v,u,t,s,r,q,p,o
-var $async$eWZ=A.d(function(e,f){if(e===1)return A.e(f,w)
-while(true)switch(x){case 0:r=$.a4()
-q=$.a_()
-p=q.a.W
-o=p==null?null:J.O(p,$.F().a.RG)
-p=o==null
-if(p)u=null
-else{u=o.w
-u=u==null?null:u.z}if(u!=null){if(p)p=null
-else{p=o.w
-p=p==null?null:p.z}t=p!==B.ie}else t=!1
-p=A.k("buisnessDeletion",null,null,!0)
-u=A.y(A.k("ensureDeleteBusiness",null,null,!0),B.q,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,"")
-s=t?A.ef(!1,null,!1,!0,!1,!0,!1,B.aF,14,A.k("deleteBusinessCauseTheSchedulePaymentToDelete",null,null,!0),null):new A.m(null,null,null,null)
-x=3
-return A.c(A.a7_(null,A.G(A.a([u,new A.m(null,3,null,null),s],y.e),B.d,B.c,B.e),d,new A.J(null,r,y.m),null,!1,!0,p,25,q.a.fr.c),$async$eWZ)
-case 3:v=f
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$eWZ,w)},
-eOY:function eOY(){}}
-J=c[1]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+h92(d){if(d.length>140)return A.k("toLong",null,null,!0)
+else return null}},C
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[136],C)
-var z=a.updateTypes([])
-C.eOY.prototype={
-$1(d){return!0},
-$S:252};(function inheritance(){var x=a.inherit
-x(C.eOY,A.bg)})()
-var y={e:A.z("I<l>"),m:A.z("J<Vp?>"),l:A.z("H"),b:A.z("@"),h:A.z("H?")}};
+B=a.updateHolder(c[228],B)
+C=c[368]
+var z=a.updateTypes(["o?(o?)"]);(function installTearOffs(){var y=a._static_1
+y(B,"fCm","h92",0)})();(function constants(){C.QI=new A.x(19,5,19,5)})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"1zMdOLWuY1Ym+LoRDKkDeoJA+N0=");
+a.eventLog.push({p:"main.dart.js_438",e:"endPart",h:b})})($__dart_deferred_initializers__,"MnBxmkWFfAoBeR0k36Jl2IV1ils=");
