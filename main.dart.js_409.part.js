@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_409",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-fNA(){return new C.b72(null)},
+fND(){return new C.b72(null)},
 b72:function b72(d){this.a=d},
 cxm:function cxm(d){this.a=d},
 cxl:function cxl(d){this.a=d}}
@@ -17,15 +17,15 @@ return A.am(x,A.G(A.a([new A.m(x,10,x,x),v,new A.d6("assets/animations/new_user.
 var z=a.updateTypes([])
 C.cxm.prototype={
 $0(){var x=$.F().a,w=x.cx
-A.pZ(new A.ow("https://system.simpletor.app/business/"+(w==null?x.R8:w))).I(0,new C.cxl(this.a),y.f)},
+A.pY(new A.ow("https://system.simpletor.app/business/"+(w==null?x.R8:w))).I(0,new C.cxl(this.a),y.f)},
 $S:5}
 C.cxl.prototype={
 $1(d){return A.a0p(this.a)},
-$S:83};(function inheritance(){var x=a.inherit
+$S:87};(function inheritance(){var x=a.inherit
 x(C.b72,A.r)
 x(C.cxm,A.b7)
 x(C.cxl,A.bg)})()
 A.aY(b.typeUniverse,JSON.parse('{"b72":{"r":[],"l":[]}}'))
 var y={e:A.z("I<l>"),f:A.z("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_409",e:"endPart",h:b})})($__dart_deferred_initializers__,"JJZZ/XOxPMRSXFVUEU/2+vF4kXg=");
+a.eventLog.push({p:"main.dart.js_409",e:"endPart",h:b})})($__dart_deferred_initializers__,"/N5gd0mFv6YViEkaMSjZGCZEaMI=");

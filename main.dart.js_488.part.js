@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_488",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-h0u(){return new C.bAa(null)},
+h0y(){return new C.bAa(null)},
 bAa:function bAa(d){this.a=d},
 dXZ:function dXZ(d){this.a=d},
 dY_:function dY_(d,e,f){this.a=d
@@ -14,7 +14,7 @@ C=a.updateHolder(c[108],C)
 C.bAa.prototype={
 m(d){var x,w,v,u,t,s,r,q=null
 A.bJ(d,!0,y.f)
-x=this.Zv()
+x=this.Zx()
 w=$.a_()
 v=w.gbh()===2?30:0
 u=A.y(A.k("lastUpdates",q,q,!0),q,!1,!1,q,!1,!1,q,!1,!1,!0,!1,1,q,!1,!1,!1,19,q,"")
@@ -23,21 +23,21 @@ s=$.F().a.k4
 r=y.e
 s=A.G(A.a([u,new A.m(q,2,q,q),A.y(A.a0(t,"BUSINESS",s),q,!1,!1,q,!1,!1,q,!1,!1,!0,!1,0.7,q,!1,!1,!1,14,q,"")],r),B.d,B.c,B.e)
 if(w.gbh()===2){u=A.t(d)
-u=A.bW(!1,A.t(d).ax.y,u.ax.k2,q,B.bG,!0,!1,!0,!1,q,q,q,q,!0,new C.dXZ(d),!1,new A.x(3,3,3,3),!1,q,q,0.55,q,q,19,q,q)}else u=new A.m(q,q,q,q)
+u=A.bT(!1,A.t(d).ax.y,u.ax.k2,q,B.bG,!0,!1,!0,!1,q,q,q,q,!0,new C.dXZ(d),!1,new A.x(3,3,3,3),!1,q,q,0.55,q,q,19,q,q)}else u=new A.m(q,q,q,q)
 return A.G(A.a([new A.m(q,9,q,q),A.W(A.a([new A.m(v,q,q,q),s,u],r),B.d,B.B,B.e),new A.m(q,15,q,q),A.cF(q,0,1),A.G(x,B.d,B.c,B.e),new A.m(q,30,q,q)],r),B.d,B.c,B.e)},
-Zv(){var x={},w=$.F(),v=A.fdC(w.a),u=A.a([],y.e),t=x.a=!1
+Zx(){var x={},w=$.F(),v=A.fdE(w.a),u=A.a([],y.e),t=x.a=!1
 w.a.x2.f.ga5(0).q(0,new C.dY_(x,this,u))
-if(v!=null?!x.a:t)u.push(this.b8v(v))
+if(v!=null?!x.a:t)u.push(this.b8w(v))
 return u},
-b8v(d){var x=null,w=d.a
+b8w(d){var x=null,w=d.a
 return A.G(A.a([A.aW(!1,!1,!1,B.c,B.d,!0,!1,!1,!1,!1,!0,!0,!1,!0,x,!1,new A.x(10,10,10,10),x,5,x,x,!1,x,A.y(d.b,x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.9,x,!1,!0,!1,15,x,""),13,x,x,x,w,18,5,x),A.cF(x,0,1)],y.e),B.d,B.c,B.e)}}
 var z=a.updateTypes([])
 C.dXZ.prototype={
-$0(){return A.akJ(this.a)},
+$0(){return A.akK(this.a)},
 $S:11}
 C.dY_.prototype={
 $1(d){if(d.e==="aboutBusiness")this.a.a=!0
-this.c.push(this.b.b8v(d))},
+this.c.push(this.b.b8w(d))},
 $S:398};(function inheritance(){var x=a.inherit
 x(C.bAa,A.r)
 x(C.dXZ,A.b7)
@@ -45,4 +45,4 @@ x(C.dY_,A.bg)})()
 A.aY(b.typeUniverse,JSON.parse('{"bAa":{"r":[],"l":[]}}'))
 var y={f:A.z("os"),e:A.z("I<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_488",e:"endPart",h:b})})($__dart_deferred_initializers__,"1a7chzVJX75GIk7lV1G/siZAhWo=");
+a.eventLog.push({p:"main.dart.js_488",e:"endPart",h:b})})($__dart_deferred_initializers__,"fCYeRfR8h9+p8hWcwk9nZWOzTfk=");

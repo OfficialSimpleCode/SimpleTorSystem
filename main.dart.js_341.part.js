@@ -11,7 +11,7 @@ this.b=e},b5K:function b5K(d,e){this.c=d
 this.a=e},cuN:function cuN(d,e){this.a=d
 this.b=e},cuM:function cuM(d,e){this.a=d
 this.b=e},
-fMB(){return new B.b5L(null)},
+fME(){return new B.b5L(null)},
 b5L:function b5L(d){this.a=d},
 cuO:function cuO(d){this.a=d},
 cuQ:function cuQ(d){this.a=d},
@@ -33,8 +33,8 @@ B.b5K.prototype={
 m(d){var x=null,w=$.a9.n(),v=A.t(d).ax,u=v.CW
 v=u==null?v.y:u
 u=this.c.x>1?0.7:1
-return A.a6(x,x,x,x,A.d1(A.G(C.b.aw(A.a([this.a1x(0,d)],y.e),this.gcJt()),C.d,C.c,C.e),u),v,x,0,!1,x,x,x,new A.x(0,10,0,0),!1,x,x,x,x,x,!1,!1,!1,w*0.94)},
-a1x(d,e){var x,w,v,u,t=null,s=this.c,r=s.y,q=s.x
+return A.a6(x,x,x,x,A.d1(A.G(C.b.aw(A.a([this.a1z(0,d)],y.e),this.gcJw()),C.d,C.c,C.e),u),v,x,0,!1,x,x,x,new A.x(0,10,0,0),!1,x,x,x,x,x,!1,!1,!1,w*0.94)},
+a1z(d,e){var x,w,v,u,t=null,s=this.c,r=s.y,q=s.x
 q=q>1?" X"+q:""
 x=s.dx
 x=x.gE(x)
@@ -46,18 +46,18 @@ u=A.y(A.fF(A.R(0,0,0,0,s.gJV(),0),t,!1,-1),t,!1,!1,t,!1,!1,t,!1,!1,!1,!1,1,t,!1,
 s=s.dx
 s=s.gE(s)<=1?C.bP:new A.m(t,t,t,t)
 return A.aW(!1,x<=1,!1,C.c,C.d,!0,w<=1,v<=1,!1,!1,!0,!0,!1,!0,new B.cuN(this,e),!1,new A.x(10,14,10,14),t,5,t,t,!1,t,t,13,A.W(A.a([u,new A.m(8,t,t,t),s],y.e),C.d,C.c,C.e),t,t,r+q,15,0,t)},
-gcJt(){var x,w=this.c,v=w.dx
+gcJw(){var x,w=this.c,v=w.dx
 if(v.gE(v)<=1)return A.a([],y.e)
 x=A.a([],y.e)
 w.dx.q(0,new B.cuM(this,x))
 return x}}
 B.b5L.prototype={
 m(d){return new A.D($.an().cX$,new B.cuO(this),null,null,y.a)},
-gcKg(){var x=A.a([],y.e)
+gcKj(){var x=A.a([],y.e)
 J.V($.an().cX$.a,new B.cuQ(x))
 x.push(new A.m(null,50,null,null))
 return x},
-gak1(){var x={}
+gak2(){var x={}
 x.a=0
 J.V($.an().cX$.a,new B.cuP(x))
 return x.a}}
@@ -101,8 +101,8 @@ B.cuM.prototype={
 $2(d,e){this.b.push(new B.b5J(e,this.a.c,d,null))},
 $S:29}
 B.cuO.prototype={
-$3(d,e,f){var x=null,w=$.aQ.n(),v=this.a,u=A.y(A.k("pickTreatment",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,""),t=A.y(A.k("pickTreatmentForSpecifiChange",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),s=A.k("totalTimeOfBooking",x,x,!1),r=A.fF(A.R(0,0,0,0,v.gak1(),0),x,!1,-1),q=y.e
-return A.am(x,A.e_(A.G(A.a([A.G(A.a([new A.m(x,10,x,x),u,new A.m(x,7,x,x),t,new A.m(x,10,x,x),A.y(A.a0(s,"DURATION",r),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,"")],q),C.d,C.c,C.e),A.G(v.gcKg(),C.d,C.c,C.e)],q),C.d,C.c,C.e),x,C.y,C.a2,x,x,x,C.N),C.o,x,new A.aS(0,1/0,0,w*0.7),x,x,x,x,x,x,x,x,x)},
+$3(d,e,f){var x=null,w=$.aQ.n(),v=this.a,u=A.y(A.k("pickTreatment",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,18,x,""),t=A.y(A.k("pickTreatmentForSpecifiChange",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,14,x,""),s=A.k("totalTimeOfBooking",x,x,!1),r=A.fF(A.R(0,0,0,0,v.gak2(),0),x,!1,-1),q=y.e
+return A.am(x,A.e_(A.G(A.a([A.G(A.a([new A.m(x,10,x,x),u,new A.m(x,7,x,x),t,new A.m(x,10,x,x),A.y(A.a0(s,"DURATION",r),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,"")],q),C.d,C.c,C.e),A.G(v.gcKj(),C.d,C.c,C.e)],q),C.d,C.c,C.e),x,C.y,C.a2,x,x,x,C.N),C.o,x,new A.aS(0,1/0,0,w*0.7),x,x,x,x,x,x,x,x,x)},
 $S:2002}
 B.cuQ.prototype={
 $2(d,e){this.a.push(new B.b5K(e,null))},
@@ -118,4 +118,4 @@ w(B.cuO,A.bg)})()
 A.aY(b.typeUniverse,JSON.parse('{"b5J":{"r":[],"l":[]},"b5K":{"r":[],"l":[]},"b5L":{"r":[],"l":[]}}'))
 var y={e:A.z("I<l>"),p:A.z("aB"),a:A.z("D<N<o,eg>>"),f:A.z("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_341",e:"endPart",h:b})})($__dart_deferred_initializers__,"Ffe+v3XlczmrJzy9tlPU8bHbYH8=");
+a.eventLog.push({p:"main.dart.js_341",e:"endPart",h:b})})($__dart_deferred_initializers__,"C/4MPMeb+abtlVJ8J8SHjzLuGpU=");

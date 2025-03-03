@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_171",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,E,C={
-fMC(d,e,f,g){return new C.b5M(e,d,f,g,null)},
+fMF(d,e,f,g){return new C.b5M(e,d,f,g,null)},
 b5M:function b5M(d,e,f,g,h){var _=this
 _.c=d
 _.d=e
@@ -30,8 +30,8 @@ m(d){var x,w=null,v=A.t(d).ax,u=v.CW
 v=u==null?v.y:u
 u=A.k(this.c?"theSubExplainOnUpgrade":"theSubExplainOnChange",w,w,!0)
 x=A.rv(this.d,w,w,!0,!0)
-return A.as(!0,B.k,w,B.I,w,w,A.G(A.a([A.ef(!1,w,!0,!1,!1,!0,!0,B.aF,14,A.a0(u,"NEXTDATE",x),w),A.cF(w,w,w),this.cEW(d),new A.m(w,10,w,w)],y.e),B.d,B.c,B.e),v,0,"",w,w,B.c,!1,w,new A.x(0,16,0,0),!1,!0,w,w,w,w,w,w,0.55,w,w,w)},
-cEW(d){var x,w,v=null,u=A.bt(v,v,v,v,v,v,v,v,v,v,v,13,v,v,v,v,v,!0,v,v,v,v,v,v,v,v),t=A.k("recommendedToUpdateBeforeChange",v,v,!0),s=A.t(d).p2.z
+return A.as(!0,B.k,w,B.I,w,w,A.G(A.a([A.ef(!1,w,!0,!1,!1,!0,!0,B.aF,14,A.a0(u,"NEXTDATE",x),w),A.cF(w,w,w),this.cEZ(d),new A.m(w,10,w,w)],y.e),B.d,B.c,B.e),v,0,"",w,w,B.c,!1,w,new A.x(0,16,0,0),!1,!0,w,w,w,w,w,w,0.55,w,w,w)},
+cEZ(d){var x,w,v=null,u=A.bu(v,v,v,v,v,v,v,v,v,v,v,13,v,v,v,v,v,!0,v,v,v,v,v,v,v,v),t=A.k("recommendedToUpdateBeforeChange",v,v,!0),s=A.t(d).p2.z
 s.toString
 x=A.t(d).ax
 w=x.W
@@ -46,7 +46,7 @@ return A.am(v,A.o5(v,v,v,B.bf,v,v,!0,v,A.bH(A.a([t,A.bH(v,s,w.c6(A.t(d).ax.y,13.
 C.b5N.prototype={
 m(d){var x=null,w=A.t(d),v=this.d,u=A.k(v?"toUpgrade":"toSwitch",x,x,!0),t=this.c.ns(0,!0)
 u=A.y(A.a0(u,"PRICE",t),B.q,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,19,x,"")
-return A.cN(A.as(!0,B.k,x,B.I,x,x,new A.bj(B.k,x,x,new A.K(new A.x(0,7,0,7),A.G(A.a([u,v?new E.aeX(x):new A.m(x,x,x,x)],y.e),B.d,B.c,B.e),x),x),w.ax.y,0,"",x,x,B.c,!1,x,new A.x(20,0,20,0),!0,!0,x,x,x,x,x,x,0.55,x,x,x),B.z,new C.cuR(d),0.5)}}
+return A.cO(A.as(!0,B.k,x,B.I,x,x,new A.bj(B.k,x,x,new A.K(new A.x(0,7,0,7),A.G(A.a([u,v?new E.aeX(x):new A.m(x,x,x,x)],y.e),B.d,B.c,B.e),x),x),w.ax.y,0,"",x,x,B.c,!1,x,new A.x(20,0,20,0),!0,!0,x,x,x,x,x,x,0.55,x,x,x),B.z,new C.cuR(d),0.5)}}
 var z=a.updateTypes([])
 C.dO2.prototype={
 $0(){return A.rw(this.a,!0,"https://simpletor.app/terms-of-use#business-owners",!1)},
@@ -60,4 +60,4 @@ x(A.b7,[C.dO2,C.cuR])})()
 A.aY(b.typeUniverse,JSON.parse('{"b5M":{"r":[],"l":[]},"bwM":{"r":[],"l":[]},"b5N":{"r":[],"l":[]}}'))
 var y={a:A.z("I<WP>"),e:A.z("I<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_171",e:"endPart",h:b})})($__dart_deferred_initializers__,"nJ9617pY6tzE4FKtTgHFNLcTkTM=");
+a.eventLog.push({p:"main.dart.js_171",e:"endPart",h:b})})($__dart_deferred_initializers__,"aWfmBFI3hj07uvWULOd5ybQzqgo=");

@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_436",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
-fN1(){return new B.b6s(null)},
+fN4(){return new B.b6s(null)},
 b6s:function b6s(d){this.a=d},
 cvB:function cvB(d,e){this.a=d
 this.b=e},
@@ -29,10 +29,10 @@ A.bJ(d,!0,y.z)
 t.a=null
 x=A.a([],y.l)
 w=$.a4()
-v=new A.cW(0,!0,u,u,u,x,w)
+v=new A.cX(0,!0,u,u,u,x,w)
 $.aD.y1$.push(new B.cvB(t,v))
-return new A.pe(new A.f5(new B.cvC(t,this,v,new A.J(this.gamY(),w,y.B)),u),u,u)},
-gamY(){var x,w,v=$.aV(),u=$.F().b.h(0,v.b.a)
+return new A.pe(new A.f5(new B.cvC(t,this,v,new A.J(this.gamZ(),w,y.B)),u),u,u)},
+gamZ(){var x,w,v=$.aV(),u=$.F().b.h(0,v.b.a)
 if(u==null)return!1
 x=u.L.ax.h(0,C.de)
 w=u.L.ax.h(0,C.cM)
@@ -41,13 +41,13 @@ if(x.mn(w))return!0
 return!1}}
 var z=a.updateTypes([])
 B.cvB.prototype={
-$1(d){return this.baK(d)},
-baK(d){var x=0,w=A.i(y.v),v=this,u,t
+$1(d){return this.baL(d)},
+baL(d){var x=0,w=A.i(y.v),v=this,u,t
 var $async$$1=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=$.b8()
 t=v.a.a
 t.toString
-u.WT(t,v.b,C.h_,2)
+u.WV(t,v.b,C.h_,2)
 return A.f(null,w)}})
 return A.h($async$$1,w)},
 $S:24}
@@ -62,7 +62,7 @@ w=$.ap().at
 u=A.as(!0,C.k,n,C.I,n,n,A.ef(!1,n,!0,!1,!1,!0,!1,C.aF,14,A.k("bookingsWillUpdatedFromNowOn",n,n,!0),n),n,0,"",n,n,C.c,!1,n,n,!0,!0,n,n,n,n,n,n,0.55,n,n,n)
 t=o.d
 s=$.b8()
-r=s.b08$
+r=s.b09$
 q=r.h(0,"reminder")
 q.toString
 p=o.b
@@ -70,14 +70,14 @@ q=D.blA(C.h_===s.a,"alertToCustomersAboutComing","alertBookingTemplate",n,new B.
 r=r.h(0,"approvalArrivalReminder")
 r.toString
 return A.ch(v,n,A.e5(w,A.a([u,new A.D(t,new B.cvy(t),n,n,y.m),q,D.blA(C.h_===s.a,"needConfirmationTitle","needConfirmBookingMessageFormat",n,new B.cvz(p,t),new B.cvA(d),n,C.de,!1,r,C.ce,"approvalArrivalReminderShowcase")],y.u),!0,C.au,n,x,!1),n,n,!1,n,n,23,!1,!1,x,!0,!0)},
-$S:135}
+$S:128}
 B.cvy.prototype={
 $3(d,e,f){var x=null,w=this.a.a
 return A.i0(C.N,A.bA(A.as(!0,C.k,x,C.I,x,x,A.ef(!1,x,!0,!1,!1,!0,!1,C.aF,14,A.k("remindersRecommend",x,x,!0),x),x,0,"",x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x),x,x),!1,x,w)},
-$S:130}
+$S:133}
 B.cvv.prototype={
 $0(){var x=this.b
-x.sj(0,this.a.gamY())
+x.sj(0,this.a.gamZ())
 x.A()},
 $S:5}
 B.cvw.prototype={
@@ -85,7 +85,7 @@ $0(){var x=0,w=A.i(y.F),v=this,u
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
 while(true)switch(x){case 0:u=v.a
 x=2
-return A.c(u.iD(C.b.gZ(u.f).gbS(),C.a1,A.R(0,0,0,200,0,0)),$async$$0)
+return A.c(u.is(C.b.gZ(u.f).gbS(),C.a1,A.R(0,0,0,200,0,0)),$async$$0)
 case 2:return A.f(null,w)}})
 return A.h($async$$0,w)},
 $S:3}
@@ -110,7 +110,7 @@ return A.h($async$$0,w)},
 $S:3}
 B.cvz.prototype={
 $0(){var x=this.b
-x.sj(0,this.a.gamY())
+x.sj(0,this.a.gamZ())
 x.A()},
 $S:5};(function inheritance(){var x=a.inherit,w=a.inheritMany
 x(B.b6s,A.r)
@@ -119,4 +119,4 @@ w(A.b7,[B.cvv,B.cvw,B.cvx,B.cvA,B.cvz])})()
 A.aY(b.typeUniverse,JSON.parse('{"b6s":{"r":[],"l":[]}}'))
 var y={l:A.z("I<f2>"),u:A.z("I<l>"),F:A.z("aB"),m:A.z("D<H>"),B:A.z("J<H>"),z:A.z("iw"),v:A.z("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_436",e:"endPart",h:b})})($__dart_deferred_initializers__,"iXLypXEDZw/hnDq6flGiI+D/vN0=");
+a.eventLog.push({p:"main.dart.js_436",e:"endPart",h:b})})($__dart_deferred_initializers__,"J2LSwLQ1tRWmYA/IvM3PbycFpyA=");

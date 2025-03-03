@@ -2,7 +2,7 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_104",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,E,B={
-fNx(d,e){return new B.b6R(d,e,null)},
+fNA(d,e){return new B.b6R(d,e,null)},
 b6R:function b6R(d,e,f){this.c=d
 this.d=e
 this.a=f},
@@ -49,7 +49,7 @@ break
 case 3:u=$.ap().as
 A.aT("companyInvoicesListPage")
 x=7
-return A.c(A.hW(E.fNw(d),e,u),$async$c7y)
+return A.c(A.hW(E.fNz(d),e,u),$async$c7y)
 case 7:v=g
 x=1
 break
@@ -67,7 +67,7 @@ break
 case 3:u=$.ap().as
 A.aT("companyTransactionListPage")
 x=7
-return A.c(A.hW(I.fNy(d),e,u),$async$c7z)
+return A.c(A.hW(I.fNB(d),e,u),$async$c7z)
 case 7:v=g
 x=1
 break
@@ -88,20 +88,20 @@ H=c[240]
 I=c[191]
 B.b6R.prototype={
 m(d){var x=new A.J(!1,$.a4(),y.B)
-this.agp(x)
+this.agq(x)
 return new A.D(this.c,new B.cwS(this,x),null,null,y.m)},
-agp(d){return this.ct_(d)},
-ct_(d){var x=0,w=A.i(y.v),v=this,u
-var $async$agp=A.d(function(e,f){if(e===1)return A.e(f,w)
+agq(d){return this.ct1(d)},
+ct1(d){var x=0,w=A.i(y.v),v=this,u
+var $async$agq=A.d(function(e,f){if(e===1)return A.e(f,w)
 while(true)switch(x){case 0:u=v.c.a
 x=u.e!=null&&u.w==null?2:3
 break
 case 2:x=4
-return A.c($.T2().agz(u),$async$agp)
+return A.c($.T2().agA(u),$async$agq)
 case 4:case 3:d.sj(0,!0)
 d.A()
 return A.f(null,w)}})
-return A.h($async$agp,w)}}
+return A.h($async$agq,w)}}
 B.b6L.prototype={
 m(d){var x=null,w=A.k("invoiceDataExplain",x,x,!0)
 return A.as(!0,C.k,x,C.I,x,x,A.aW(!1,!0,!1,C.c,C.d,!0,!0,!0,!1,!1,!0,!0,!1,!0,new B.cwH(this,d),!1,C.b8,new A.eE(C.kf,new A.ao(C.iA,24,!1,1,!1,!1,!1,C.v,x),x,x,!0,x),10,x,x,!1,x,x,13,C.dE,x,x,A.k("invoiceData",x,x,!0),15,0,x),x,0,w,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)}}
@@ -131,7 +131,7 @@ $S:2113}
 B.cwR.prototype={
 $3(d,e,f){var x=null,w=this.a,v=w.c,u=v.a,t=A.dR(x,x,x,x,x,!1,x,A.y(u.r.a,x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,""),!0)
 return A.ch(t,x,!this.b.a?new A.t3(x):A.e5(!1,A.a([new B.b6S(v,x),new B.b6L(v,x),new B.btb(u,w.d,x),new B.b6Y(v,x)],y.u),!0,C.au,x,x,!1),x,x,!1,x,x,23,!1,!1,x,!0,!0)},
-$S:171}
+$S:173}
 B.cwH.prototype={
 $0(){var x=0,w=A.i(y.b),v,u=this
 var $async$$0=A.d(function(d,e){if(d===1)return A.e(e,w)
@@ -152,7 +152,7 @@ v.toString
 v=A.rv(v,u,u,!0,!0)
 x=A.a([A.aW(!1,!1,!1,C.c,C.d,!0,!1,!1,!1,!1,!0,!0,!1,!0,u,!1,new A.x(10,10,10,10),new A.d6("assets/animations/attention.json.zip",40,u,C.ax,u,u),10,u,u,!1,A.a0(w,"DATE",v),u,13,u,u,u,x,15,0,u),new A.fL(!1,0.5,0,u,u,u),new A.m(u,10,u,u)],y.u)}else x=A.a([],y.u)
 x=A.a7(x,!0,y.l)
-x.push(new A.K(C.mq,new A.adr(s.gb7B(),new B.cwX(this.a,d,s,t),u,u),u))
+x.push(new A.K(C.mq,new A.adr(s.gb7C(),new B.cwX(this.a,d,s,t),u,u),u))
 x.push(new A.eF(50,!0,u,u))
 t=x}else t=A.a([],y.u)
 t=A.a7(t,!0,y.l)
@@ -213,6 +213,6 @@ x(A.bg,[B.cwS,B.cwR,B.cwZ])
 x(A.b7,[B.cwH,B.cwX,B.cwY,B.cNn,B.cx7,B.cx8])})()
 A.aY(b.typeUniverse,JSON.parse('{"b6R":{"r":[],"l":[]},"b6L":{"r":[],"l":[]},"b6S":{"r":[],"l":[]},"b6T":{"r":[],"l":[]},"bdt":{"r":[],"l":[]},"btb":{"r":[],"l":[]},"b6Y":{"r":[],"l":[]}}'))
 var y=(function rtii(){var x=A.z
-return{j:x("I<fY>"),u:x("I<l>"),m:x("D<hd>"),w:x("D<N<o,jL>>"),d:x("D<H>"),p:x("J<N<o,jL>>"),B:x("J<H>"),l:x("l"),b:x("@"),v:x("~")}})()};
+return{j:x("I<fY>"),u:x("I<l>"),m:x("D<he>"),w:x("D<N<o,jL>>"),d:x("D<H>"),p:x("J<N<o,jL>>"),B:x("J<H>"),l:x("l"),b:x("@"),v:x("~")}})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_104",e:"endPart",h:b})})($__dart_deferred_initializers__,"WaxWaDWv6/AUftRdYnaF9sAT7Zc=");
+a.eventLog.push({p:"main.dart.js_104",e:"endPart",h:b})})($__dart_deferred_initializers__,"QplLWEUHIaMNKH14YDFH9q4cNHc=");
