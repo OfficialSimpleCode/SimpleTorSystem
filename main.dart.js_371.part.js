@@ -1,33 +1,23 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_371",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
-aYv(d,e,f,g,h,i){var x=0,w=A.i(y.a),v,u,t,s,r
-var $async$aYv=A.d(function(j,k){if(j===1)return A.e(k,w)
-while(true)switch(x){case 0:u=A.S(d,!1)
-t=$.iA()
-s=f.a
-x=3
-return A.c(A.b5("assets/animations/success_animation.json.zip",d,!1,C.K,t.alZ(e,s,g,s.as,h,i),"",u,!0,!0,!0,null,!1,C.O,!1).aF(),$async$aYv)
-case 3:r=k
-u=J.fI(r)
-if(u.p(r,!0))D.ac4(f,new B.eMx(h))
-v=u.p(r,!0)
-x=1
-break
-case 1:return A.f(v,w)}})
-return A.h($async$aYv,w)},
-eMx:function eMx(d){this.a=d}}
-J=c[1]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={aCH:function aCH(d,e){this.c=d
+this.a=e}}
 A=c[0]
-C=c[2]
-D=c[302]
-B=a.updateHolder(c[261],B)
-var z=a.updateTypes([])
-B.eMx.prototype={
-$1(d){d.a.ch=this.a},
-$S:157};(function inheritance(){var x=a.inherit
-x(B.eMx,A.bg)})()
-var y={a:A.z("H")}};
+B=c[2]
+C=a.updateHolder(c[275],C)
+C.aCH.prototype={
+l(d){var x=null,w=this.c,v=w.Q?0.6:1,u=$.ab?$.W3.n()*0.18:$.W3.n()*0.15,t=$.ab,s=t?60:45
+s=Math.min(u,s)
+v=A.dh(new A.N(B.m_,A.fj("",s,w.e===B.bA?"assets/woman_profile.webp":"assets/man_profile.webp"),x),v)
+if(w.Q){w=t?$.W3.n()*0.18:$.W3.n()*0.15
+u=$.ab?60:45
+u=new A.an(B.pY,Math.min(w,u)*1.1,!1,1,!1,!1,!1,B.de,x)
+w=u}else w=new A.m(x,x,x,x)
+return new A.bK(B.af,x,B.a0,B.G,A.a([v,w],y.a),x)}}
+var z=a.updateTypes([]);(function inheritance(){var x=a.inherit
+x(C.aCH,A.u)})()
+A.aN(b.typeUniverse,JSON.parse('{"aCH":{"u":[],"l":[]}}'))
+var y={a:A.z("K<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_371",e:"endPart",h:b})})($__dart_deferred_initializers__,"7CdFscVcz2yEGiQMihUZY+n31e8=");
+a.eventLog.push({p:"main.dart.js_371",e:"endPart",h:b})})($__dart_deferred_initializers__,"YhXs+NtBCDUurawkOGsw1GDCa/k=");
