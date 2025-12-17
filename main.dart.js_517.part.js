@@ -1,71 +1,49 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_517",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
-b2u(d,e,f){return B.hBq(d,e,f)},
-hBq(d,e,f){var x=0,w=A.j(y.b),v,u=2,t=[],s,r,q,p,o
-var $async$b2u=A.e(function(g,h){if(g===1){t.push(h)
-x=u}while(true)switch(x){case 0:p=$.G()
-if(p.a.ok===""){x=1
-break}u=4
-x=7
-return A.c(A.b0("assets/animations/success_animation.json.zip",d,!1,C.J,$.dy().xb($.a7().a,!0).N(0,new B.f8W(),y.l),"",null,null,!0,!0,!0,null,!1,C.N,!1).aq(),$async$b2u)
-case 7:x=8
-return A.c(B.fhQ(d),$async$b2u)
-case 8:s=h
-if(!J.E(s,!0)){x=1
-break}r=A.S(d,!1)
-x=9
-return A.c(A.b0("assets/animations/delete_animation.json.zip",d,!1,C.J,$.ang().Zd(p.a.ok,e,f),A.k("businessDeleted",null,null,!0),null,r,!0,!1,!0,null,!0,C.N,!1).aq(),$async$b2u)
-case 9:r=h
-v=r
-x=1
-break
-u=2
-x=6
-break
-case 4:u=3
-o=t.pop()
-x=6
-break
-case 3:x=2
-break
-case 6:case 1:return A.h(v,w)
-case 2:return A.f(t.at(-1),w)}})
-return A.i($async$b2u,w)},
-fhQ(d){return B.hGU(d)},
-hGU(d){var x=0,w=A.j(y.h),v,u,t,s,r,q,p,o
-var $async$fhQ=A.e(function(e,f){if(e===1)return A.f(f,w)
-while(true)switch(x){case 0:r=$.a4()
-q=$.a7()
-p=q.a.ad
-o=p==null?null:J.Q(p,$.G().a.p1)
-p=o==null
-if(p)u=null
-else{u=o.w
-u=u==null?null:u.z}if(u!=null){if(p)p=null
-else{p=o.w
-p=p==null?null:p.z}t=p!==C.fQ}else t=!1
-p=A.k("buisnessDeletion",null,null,!0)
-u=A.y(A.k("ensureDeleteBusiness",null,null,!0),C.r,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,15,null,null,!1,"")
-s=t?A.dH(!1,null,!1,!0,null,!1,!0,!1,0.7,C.as,14,A.k("deleteBusinessCauseTheSchedulePaymentToDelete",null,null,!0),null):new A.m(null,null,null,null)
-x=3
-return A.c(A.a1P(null,A.I(A.a([u,new A.m(null,3,null,null),s],y.e),C.e,C.c,C.f),d,new A.L(null,r,y.m),null,!1,!0,p,25,q.a.fy.e),$async$fhQ)
-case 3:v=f
-x=1
-break
-case 1:return A.h(v,w)}})
-return A.i($async$fhQ,w)},
-f8W:function f8W(){}}
-J=c[1]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+hbo(d){return new B.bl1(d,null)},
+bl1:function bl1(d,e){this.c=d
+this.a=e},
+d5R:function d5R(d){this.a=d},
+bl_:function bl_(d,e){this.c=d
+this.a=e},
+d5P:function d5P(d,e){this.a=d
+this.b=e}}
 A=c[0]
 C=c[2]
-B=a.updateHolder(c[147],B)
+B=a.updateHolder(c[261],B)
+B.bl1.prototype={
+l(d){var x=null,w=this.gamh(),v=w.length>5?$.aS.n()*0.7:1/0,u=A.a([new A.m(x,10,x,x),A.x(A.e("filesAttachedToEvent",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,x,!1,"")],y.e)
+C.b.U(u,w)
+u.push(new A.m(x,30,x,x))
+return new A.dS(new A.aT(0,1/0,0,v),A.dG(A.H(u,C.d,C.c,C.f),x,C.B,x,x,x,x,C.J),x)},
+gamh(){var x=A.a([],y.e)
+C.b.t(this.c.db,new B.d5R(x))
+return x}}
+B.bl_.prototype={
+l(d){var x,w=null,v=A.r(d).ax,u=v.CW
+v=u==null?v.y:u
+u=this.c
+x=u.e
+return A.ab(!0,C.m,w,C.y,w,w,A.aM(!1,!0,!1,C.c,C.d,w,!0,!0,!0,!1,w,!1,!0,!0,!1,!0,new B.d5P(this,d),!0,new A.w(10,10,10,10),A.nj(w,2,"",15,!0,u.c,!1),10,w,w,!1,w,!1,w,w,w,13,A.U(A.a([new A.m(15,w,w,w),A.x(u.d,w,!1,!1,w,!1,!1,w,!1,!1,!1,!0,1,w,!1,!1,!1,12,w,w,!0,""),new A.m(5,w,w,w),A.eV(w,!1,!1,!1,!1,!0,0.7,20)],y.e),C.d,C.c,C.f,w),w,w,x,13,0,w),v,0,"",!1,w,w,C.c,!1,w,new A.w(0,16,0,0),!1,!0,w,w,w,w,w,w,0.55,w,w,w)},
+A(d){return this.czz(d)},
+czz(d){var x=0,w=A.k(y.f),v=this
+var $async$A=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:$.kM().BP(v.c.b,C.vi)
+return A.i(null,w)}})
+return A.j($async$A,w)}}
 var z=a.updateTypes([])
-B.f8W.prototype={
-$1(d){return!0},
-$S:152};(function inheritance(){var x=a.inherit
-x(B.f8W,A.b5)})()
-var y={e:A.x("J<l>"),m:A.x("L<V1?>"),l:A.x("K"),b:A.x("@"),h:A.x("K?")}};
+B.d5R.prototype={
+$1(d){this.a.push(new B.bl_(d,null))},
+$S:2274}
+B.d5P.prototype={
+$0(){return this.a.A(this.b)},
+$S:1};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.t,[B.bl1,B.bl_])
+w(B.d5R,A.aV)
+w(B.d5P,A.aQ)})()
+A.aJ(b.typeUniverse,JSON.parse('{"bl1":{"t":[],"l":[]},"bl_":{"t":[],"l":[]}}'))
+var y={e:A.v("K<l>"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_517",e:"endPart",h:b})})($__dart_deferred_initializers__,"MK5aHGsmMt+GjfNyyXcgoKIUEhE=");
+a.eventLog.push({p:"main.dart.js_517",e:"endPart",h:b})})($__dart_deferred_initializers__,"Ai4lC7U1NtpztEmJTe0djKCeAks=");

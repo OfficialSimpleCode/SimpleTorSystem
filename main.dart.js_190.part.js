@@ -1,98 +1,123 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_190",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,C={
-ha5(d,e,f,g,h,i){return new C.bcn(i,h,d,g,e,f,null)},
-bcn:function bcn(d,e,f,g,h,i,j){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.r=h
-_.w=i
-_.a=j},
-cFy:function cFy(d){this.a=d},
-cFw:function cFw(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-cFx:function cFx(d,e,f,g,h){var _=this
-_.a=d
-_.b=e
-_.c=f
-_.d=g
-_.e=h},
-cFz:function cFz(d,e,f){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,D,B={
+axM(d,e,f){return B.hBB(d,e,f)},
+hBB(d,e,f){var x=0,w=A.k(y.f),v,u,t,s,r,q,p
+var $async$axM=A.f(function(g,h){if(g===1)return A.h(h,w)
+while(true)switch(x){case 0:q={}
+q.a=e
+x=3
+return A.c(B.fny(d,e,f),$async$axM)
+case 3:if(h!==!0){x=1
+break}u=$.a8x()
+t=$.B()
+p=J
+x=4
+return A.c(A.aW("assets/animations/success_animation.json.zip",d,!1,C.I,u.BF(t.a.p2,e,f).M(0,new B.fc7(q),y.e),"",new B.fc8(q),null,!0,!1,!0,null,!0,C.M,!1).al(),$async$axM)
+case 4:if(!p.G(h,!0)){x=1
+break}t.b.t(0,new B.fc9(q,f,d))
+s=t.a.CW
+r=q.a
+s.i(0,r.f===C.c5?r.b:r.c,r)
+s=q.a
+if(s.c===$.ai().a.a)t.c=s
+A.br(C.bt)
+A.br(C.ae)
+A.c4(d,null)
+A.P(d,!1).H(null)
+s=$.b4
+x=s!=null?5:6
+break
+case 5:q=q.a
+x=q.f===C.c5?7:8
+break
+case 7:x=9
+return A.c(B.ceB(s,q),$async$axM)
+case 9:case 8:case 6:case 1:return A.i(v,w)}})
+return A.j($async$axM,w)},
+fny(d,e,f){return B.ibh(d,e,f)},
+ibh(d,e,f){var x=0,w=A.k(y.h),v,u,t,s,r,q
+var $async$fny=A.f(function(g,h){if(g===1)return A.h(h,w)
+while(true)switch(x){case 0:s=A.e(e.f===C.c5?"invitingCrewMember":"addingCrewMember",null,null,!0)
+r=A.e("invite",null,null,!0)
+q=A.e("cancel",null,null,!0)
+if(e.f===C.c5)u=f!=null?"doYouSureYouWantToInviteCrewMemberToWorker":"doYouSureYouWantToInviteCrewMember"
+else u=f!=null?"doYouSureYouWantToAddCrewMemberToWorker":"doYouSureYouWantToAddCrewMember"
+u=A.e(u,null,null,!0)
+t=e.a
+u=A.a7(u,"NAME",t)
+t=$.B().b.h(0,f)
+t=t==null?null:t.fy
+if(t==null)t=""
+x=3
+return A.c(A.dj(!0,C.aw,!1,1,!0,null,q,null,A.x(A.a7(u,"WORKER",t),C.r,!1,!1,null,!1,!1,null,!1,!1,!1,!1,1,null,!1,!1,!1,14,null,null,!1,""),d,C.a7,20,!0,!0,C.C,new B.fnD(),new B.fnE(),!1,r,s),$async$fny)
+case 3:v=h
+x=1
+break
+case 1:return A.i(v,w)}})
+return A.j($async$fny,w)},
+fc8:function fc8(d){this.a=d},
+fc7:function fc7(d){this.a=d},
+fc9:function fc9(d,e,f){this.a=d
 this.b=e
-this.c=f}}
+this.c=f},
+fnE:function fnE(){},
+fnD:function fnD(){},
+ceB(d,e){return B.hG3(d,e)},
+hG3(d,e){var x=0,w=A.k(y.f),v
+var $async$ceB=A.f(function(f,g){if(f===1)return A.h(g,w)
+while(true)switch(x){case 0:x=3
+return A.c(A.aX(d,A.aY("afterInviteCrewMemberSheet","")),$async$ceB)
+case 3:if(g!==!0){new A.R(A.e("thereIsProblem",null,null,!0),C.n,C.o,C.p,d).E()
+v=null
+x=1
+break}A.aF("afterInviteCrewMemberSheet")
+x=4
+return A.c(A.c8(d,!1,null,!0,!0,!0,D.h4A(e),1,!0).br(),$async$ceB)
+case 4:v=g
+x=1
+break
+case 1:return A.i(v,w)}})
+return A.j($async$ceB,w)}}
 J=c[1]
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[94],C)
-C.bcn.prototype={
-l(d){var x,w=this,v=null
-if(w.c==null&&w.d==null)return new A.m(v,v,v,v)
-x=$.aa?$.hm.n():v
-return new A.m(x,v,A.bF(A.I(A.a([A.y(A.k("chooseColor",v,v,!0),v,!1,!1,v,!1,!1,v,!1,!1,!0,!1,1,v,!1,!1,!1,19,v,v,!1,""),new A.m(v,20,v,v),new A.M(new A.w(5,0,5,0),new A.F(w.w,new C.cFy(w),v,v,y.h),v),new A.m(v,30,v,v)],y.e),B.e,B.c,B.f),v,v),v)},
-adW(d,e,f,g){var x,w=null,v=f===this.w.a,u=v?1:0.7
-if(v){v=$.eg().c.ax
-x=v.F
-v=A.ez(x==null?v.k3:x,-1,2)}else{v=$.eg().c.ax
-x=v.F
-v=A.ez(x==null?v.k3:x,-1,0.5)}v=A.au(w,w,B.j,w,w,new A.c7(A.bi(e),w,v,w,w,w,w,B.b7),w,50,w,new A.w(0,5,0,5),w,w,w,50)
-x=g===""?new A.m(w,w,w,w):A.au(w,A.y(A.k(g,w,w,!0),B.r,!1,!1,w,!1,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,13,w,w,!1,""),B.j,w,w,w,w,w,w,w,w,w,w,70)
-return A.bR(w,A.dt(A.I(A.a([v,new A.m(w,3,w,w),x],y.e),B.e,B.c,B.f),u),B.y,!1,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,new C.cFz(this,f,d),w,w,w,w,w,w,w,!1,B.Y)}}
+C=c[2]
+D=c[216]
+B=a.updateHolder(c[307],B)
 var z=a.updateTypes([])
-C.cFy.prototype={
-$3(d,e,f){var x,w,v=null,u={},t=y.e,s=A.a([],t),r=A.a([],t)
-u.a=0
-x=this.a
-w=x.c
-if(w!=null)w.q(0,new C.cFw(u,x,r,d,s))
-else{w=x.d
-w.toString
-B.b.q(w,new C.cFx(u,x,r,d,s))}u=A.fz(B.ay,s,B.bf,B.ay,0,13)
-return new A.cF(A.I(A.a([u,r.length===0?new A.m(v,v,v,v):A.I(A.a([A.bfL(B.aE,1,A.y(A.k("alreadyInUse",v,v,!0),v,!1,!1,v,!1,!1,v,!1,!1,!1,!1,1,v,!1,!1,!1,15,v,v,!1,""),v),new A.m(v,15,v,v),A.fz(B.ay,r,B.bf,B.ay,0,13)],t),B.e,B.c,B.f)],t),B.e,B.c,B.f),!0,!0,v,B.c,v)},
-$S:2076}
-C.cFw.prototype={
-$2(d,e){var x,w,v,u=this,t=u.b,s=t.e
-if(s==null)s=A.am(y.l)
-x=u.a
-s=s.u(0,x.a)
-w=u.d
-v=x.a
-if(s)u.c.push(t.adW(w,e,v,""))
-else u.e.push(t.adW(w,e,v,""));++x.a},
-$S:19}
-C.cFx.prototype={
-$1(d){var x,w,v,u=this,t=u.b,s=t.e
-if(s==null)s=A.am(y.l)
-x=u.a
-s=s.u(0,x.a)
-w=u.d
-v=x.a
-if(s)u.c.push(t.adW(w,d,v,""))
-else u.e.push(t.adW(w,d,v,""));++x.a},
-$S:27}
-C.cFz.prototype={
-$0(){var x,w,v=this,u=v.a
-if(!u.r){x=u.e
-if(x==null)x=A.am(y.l)
-w=v.b
-x=x.u(0,w)&&!J.E(u.w.a,w)}else x=!1
-if(x)return
-u=u.w
-u.sk(0,v.b)
-u.v()
-A.S(v.c,!1).K(null)},
-$S:1};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.bcn,A.u)
-w(A.b5,[C.cFy,C.cFx])
-x(C.cFw,A.c2)
-x(C.cFz,A.b_)})()
-A.aN(b.typeUniverse,JSON.parse('{"bcn":{"u":[],"l":[]}}'))
-var y={e:A.x("J<l>"),h:A.x("F<C>"),l:A.x("C")}};
+B.fc8.prototype={
+$0(){return A.e(this.a.a.f===C.c5?"crewMemberInvited":"crewMemberAdded",null,null,!0)},
+$S:6}
+B.fc7.prototype={
+$1(d){this.a.a=d
+return!0},
+$S:415}
+B.fc9.prototype={
+$2(d,e){var x,w,v,u=this
+if(e.c!==u.b)return
+x=e.bc
+w=x.a
+if(w!==0)if(w===1){w=u.a.a
+x=x.h(0,w.f===C.c5?w.b:w.c)!=null
+v=x}else v=!1
+else v=!0
+if(v&&e.b.length===0)$.bn().a2g(u.c,u.a.a.b,e)
+x=e.bc
+w=u.a.a
+x.i(0,w.f===C.c5?w.b:w.c,w)},
+$S:29}
+B.fnE.prototype={
+$1(d){A.P(d,!1).H(!0)
+return null},
+$S:5}
+B.fnD.prototype={
+$1(d){A.P(d,!1).H(!1)
+return null},
+$S:5};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.fc8,A.aQ)
+w(A.aV,[B.fc7,B.fnE,B.fnD])
+x(B.fc9,A.bR)})()
+var y={e:A.v("I"),h:A.v("I?"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_190",e:"endPart",h:b})})($__dart_deferred_initializers__,"F3dDSTJqyAo7QEgtwHp+1NntP4k=");
+a.eventLog.push({p:"main.dart.js_190",e:"endPart",h:b})})($__dart_deferred_initializers__,"Osy+Pn5SuJBW8B0Xcvb7CShtWM4=");
