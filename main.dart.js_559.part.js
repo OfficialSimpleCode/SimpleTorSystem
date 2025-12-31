@@ -1,12 +1,68 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_559",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-hE6(d){if(d.length>200)return B.e("toLong",null,null,!0)
-return null}}
-B=c[0]
-A=a.updateHolder(c[355],A)
-var z=a.updateTypes(["n?(n?)"]);(function installTearOffs(){var y=a._static_1
-y(A,"fCm","hE6",0)})()};
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
+f1u(d){return B.hvt(d)},
+hvt(d){var x=0,w=A.k(y.f),v,u,t,s,r,q
+var $async$f1u=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:s=$.aq()
+r=$.B()
+q=s.b
+if(r.b.h(0,q.a)==null){new A.R(A.e("thereIsProblem",null,null,!0),C.n,C.o,C.p,d).E()
+v=null
+x=1
+break}u=r.b.h(0,q.a)
+u.toString
+x=3
+return A.c(B.f5g(d,u),$async$f1u)
+case 3:t=f
+if(t!=null&&t!==r.b.h(0,q.a).b7){s=$.bn()
+u=t===""?null:t
+q=r.b.h(0,q.a)
+q.toString
+s.ab9(d,u,q)}case 1:return A.i(v,w)}})
+return A.j($async$f1u,w)},
+f5g(d,e){return B.hyr(d,e)},
+hyr(d,e){var x=0,w=A.k(y.g),v,u,t,s,r,q,p
+var $async$f5g=A.f(function(f,g){if(f===1)return A.h(g,w)
+while(true)switch(x){case 0:q=new A.b5(null,y.o)
+p=e.b7
+if(p==null)p=""
+u=A.d9(!0,null,null,!1,null,null,new A.ci(new A.cK(p,C.aA,C.as),$.a3()),null,d,null,null,null,null,D.fCs(),null,null,null,!0,200,null,null,null,null,null,null,!1,null,null,!1,null,!1,!0,!0,!0,!0,!1,null,null,null,null,C.cM)
+t=A.e("clientMessageoOnOrderNearDeadline",null,null,!0)
+s=A.hA(A.H(A.a([A.x(A.e("thisMessageWillPop",null,null,!1),C.r,!1,!1,null,!1,!1,null,!1,!1,!1,!1,0.8,null,!1,!1,!1,14,null,null,!1,""),new A.m(null,30,null,null),u],y.e),C.d,C.c,C.f),q)
+r=A.e("save",null,null,!0)
+x=3
+return A.c(A.dj(!0,C.uy,!1,1,!0,null,A.e("cancel",null,null,!0),null,s,d,C.a7,20,!0,!0,C.C,new B.f5n(),new B.f5o(q,u),!1,r,t),$async$f5g)
+case 3:v=g
+x=1
+break
+case 1:return A.i(v,w)}})
+return A.j($async$f5g,w)},
+f5n:function f5n(){},
+f5o:function f5o(d,e){this.a=d
+this.b=e}},D
+A=c[0]
+C=c[2]
+B=a.updateHolder(c[159],B)
+D=c[356]
+var z=a.updateTypes([])
+B.f5n.prototype={
+$1(d){A.P(d,!1).H(null)
+return null},
+$S:5}
+B.f5o.prototype={
+$1(d){return this.bha(d)},
+bha(d){var x=0,w=A.k(y.p),v,u=this,t
+var $async$$1=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:t=u.a
+if(t.ga1()!=null&&!t.ga1().eR()){x=1
+break}t=u.b.d.a.a
+A.P(d,!1).H(t)
+case 1:return A.i(v,w)}})
+return A.j($async$$1,w)},
+$S:63};(function inheritance(){var x=a.inheritMany
+x(A.aU,[B.f5n,B.f5o])})()
+var y={e:A.v("K<l>"),o:A.v("b5<ie>"),p:A.v("aC"),g:A.v("n?"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_559",e:"endPart",h:b})})($__dart_deferred_initializers__,"1KUJd5y8dVkRtMnCCysaObKbcGk=");
+a.eventLog.push({p:"main.dart.js_559",e:"endPart",h:b})})($__dart_deferred_initializers__,"AlappWMz0vT+4oxRPwgwokP0iXI=");

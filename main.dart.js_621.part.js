@@ -1,70 +1,53 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_621",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={aiR:function aiR(d,e){this.c=d
-this.a=e},dNM:function dNM(d,e){this.a=d
-this.b=e},
-hii(){return new B.byR(null)},
-byR:function byR(d){this.a=d},
-dNN:function dNN(d){this.a=d},
-dNO:function dNO(){},
-dNP:function dNP(){}}
-J=c[1]
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+hlR(){return new C.bGp(null)},
+bGp:function bGp(d){this.a=d},
+e8m:function e8m(d){this.a=d},
+e8n:function e8n(d,e,f){this.a=d
+this.b=e
+this.c=f}}
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[86],B)
-B.aiR.prototype={
-l(d){var x,w,v,u=null,t=this.c
-if(t.c===$.B().a.p2)x=A.r(d).ax.y.eD(30)
-else{x=A.r(d).ax
-w=x.CW
-x=w==null?x.y:w}w=t.a
-v=t.b
-return A.ab(!0,C.m,u,C.y,u,u,A.aM(!1,!0,!1,C.c,C.d,u,!0,!0,!0,!1,u,!1,!0,!0,!1,!0,new B.dNM(this,d),!0,new A.w(10,10,10,10),A.nj(u,2,$.bg().CW,17.5,!1,v,!1),10,u,u,!1,t.e.a,!1,2,u,u,13,A.U(A.a([new A.m(5,u,u,u),A.eV(u,!1,!1,!1,!1,!0,0.7,20)],y.e),C.d,C.c,C.f,u),u,u,w,15,0,u),x,0,"",!1,u,u,C.c,!1,u,new A.w(0,16,0,0),!1,!0,u,u,u,u,u,u,0.55,u,u,u)},
-A(d){return this.cAA(d)},
-cAA(d){var x=0,w=A.k(y.f),v,u=this,t,s,r
-var $async$A=A.f(function(e,f){if(e===1)return A.h(f,w)
-while(true)switch(x){case 0:t=$.B().a.p2
-s=u.c.c
-if(t===s){x=1
-break}t=A.P(d,!1)
-r=J
-x=3
-return A.c(A.aW("assets/animations/success_animation.json.zip",d,!1,C.I,$.cj().Qv(s,$.ai().a.a),"",null,t,!0,!0,!0,null,!1,C.M,!1).al(),$async$A)
-case 3:if(r.G(f,!0))A.P(d,!1).i3()
-case 1:return A.i(v,w)}})
-return A.j($async$A,w)}}
-B.byR.prototype={
-l(d){var x=null,w=A.a([new A.m(x,10,x,x),A.x(A.e("chooseBusinessToSeeSchedulesOf",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,16,x,x,!1,"")],y.e)
-C.b.U(w,this.bjk())
-w.push(new A.m(x,30,x,x))
-return A.H(w,C.d,C.c,C.f)},
-bjk(){var x,w=A.a([],y.g)
-$.ai().a.fy.cx.t(0,new B.dNN(w))
-C.b.aK(w,new B.dNO())
-x=y.o
-x=A.a5(new A.ar(w,new B.dNP(),x),x.j("aO.E"))
-return x}}
-var z=a.updateTypes(["aiR(ic)"])
-B.dNM.prototype={
-$0(){return this.a.A(this.b)},
-$S:2}
-B.dNN.prototype={
-$2(d,e){var x=$.ai().a.z.h(0,d)
-if(x==null)return
-this.a.push(x)},
-$S:20}
-B.dNO.prototype={
-$2(d,e){return C.k.ad(d.a,e.a)},
-$S:490}
-B.dNP.prototype={
-$1(d){return new B.aiR(d,null)},
-$S:z+0};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.t,[B.aiR,B.byR])
-w(B.dNM,A.aQ)
-x(A.bR,[B.dNN,B.dNO])
-w(B.dNP,A.aV)})()
-A.aJ(b.typeUniverse,JSON.parse('{"aiR":{"t":[],"l":[]},"byR":{"t":[],"l":[]}}'))
-var y={g:A.v("K<ic>"),e:A.v("K<l>"),o:A.v("ar<ic,aiR>"),f:A.v("~")}};
+B=c[2]
+C=a.updateHolder(c[128],C)
+C.bGp.prototype={
+l(d){var x,w,v,u,t,s,r,q,p=null
+A.bK(d,!0,y.f)
+x=this.Zu()
+w=$.B()
+v=w.a.y2
+u=$.b7().aN$.a
+t=u.gbf()
+v=v.b.q(0,t)?30:0
+t=A.x(A.e("lastUpdates",p,p,!0),p,!1,!1,p,!1,!1,p,!1,!1,!0,!1,1,p,!1,!1,!1,19,p,p,!1,"")
+s=A.e("fromBusiness",p,p,!0)
+r=w.a.k3
+q=y.e
+r=A.H(A.a([t,new A.m(p,2,p,p),A.x(A.a7(s,"BUSINESS",r),p,!1,!1,p,!1,!1,p,!1,!1,!0,!1,0.7,p,!1,!1,!1,14,p,p,!1,"")],q),B.d,B.c,B.f)
+t=w.a.y2
+u=u.gbf()
+if(t.b.q(0,u)){u=A.r(d)
+u=A.ca(!1,A.r(d).ax.y,u.ax.k2,p,B.bJ,!0,!1,!0,!1,p,p,p,p,!0,new C.e8m(d),!1,new A.w(3,3,3,3),!1,p,p,0.55,p,p,19,p,p)}else u=new A.m(p,p,p,p)
+return A.H(A.a([new A.m(p,9,p,p),A.U(A.a([new A.m(v,p,p,p),r,u],q),B.d,B.A,B.f,p),new A.m(p,15,p,p),A.cZ(p,0,1),A.H(x,B.d,B.c,B.f),new A.m(p,30,p,p)],q),B.d,B.c,B.f)},
+Zu(){var x={},w=$.B(),v=A.fyn(w.a),u=A.a([],y.e),t=x.a=!1,s=w.a.rx.f
+new A.aa(s,A.N(s).j("aa<2>")).t(0,new C.e8n(x,this,u))
+if(v!=null?!x.a:t)u.push(this.ba5(v))
+return u},
+ba5(d){var x=null,w=d.a
+return A.H(A.a([A.aM(!1,!1,!1,B.c,B.d,x,!0,!1,!1,!1,x,!1,!0,!0,!1,!0,x,!1,new A.w(10,10,10,10),x,5,x,x,!1,x,!1,x,x,A.x(d.b,x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.9,x,!1,!0,!1,15,x,x,!1,""),13,x,x,x,w,18,5,x),A.cZ(x,0,1)],y.e),B.d,B.c,B.f)}}
+var z=a.updateTypes([])
+C.e8m.prototype={
+$0(){return A.amj(this.a)},
+$S:11}
+C.e8n.prototype={
+$1(d){if(d.e==="aboutBusiness")this.a.a=!0
+this.c.push(this.b.ba5(d))},
+$S:483};(function inheritance(){var x=a.inherit
+x(C.bGp,A.t)
+x(C.e8m,A.aQ)
+x(C.e8n,A.aU)})()
+A.aJ(b.typeUniverse,JSON.parse('{"bGp":{"t":[],"l":[]}}'))
+var y={f:A.v("mI"),e:A.v("K<l>")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_621",e:"endPart",h:b})})($__dart_deferred_initializers__,"r84KRn7OucYE4Gyg133x+ilhEUQ=");
+a.eventLog.push({p:"main.dart.js_621",e:"endPart",h:b})})($__dart_deferred_initializers__,"xhfvKpYBVLSEbai/vdZPmWrTKzo=");

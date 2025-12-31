@@ -5756,5 +5756,18 @@
   "advancedQuestionnaireExplain": "עכשיו תוכלו להכין שאלונים מתקדמים עם שאלות של בחירה מאופציות, תשובות פתוחות, כתובות ובחירת זמנים",
   "randomWorkerPickerExplain": "הלקוחות יוכלו לבחור ״לא משנה לי״ בבחירת עמדות וכך הם לא יצטרכו לבחור עמדה המערכת תבחר את התור הכי טוב בשבילם",
   "advanceNotificationPanelExplain": "תוכלו למיין סוגי התראות והתראות לפי עסקים בפאנל התראות המחודש",
-  "youSelectMoreThanAllowed": "בחרת יותר תמונות ממה שמותר (ALLOWED_AMOUNT) - נמשיך עם התמונות הראשונות"
+  "youSelectMoreThanAllowed": "בחרת יותר תמונות ממה שמותר (ALLOWED_AMOUNT) - נמשיך עם התמונות הראשונות",
+  "chooseMessage": "בחר הודעה",
+  "baseWhatsappMessage": "הודעת בסיס",
+  "delayTheMeetingWhatsappMessage": "דחיית פגישה",
+  "earlyTheMeetingWhatsappMessage": "הקדמת פגישה",
+  "changeTheMeetingWhatsappMessage": "הזזת פגישה",
+  "whereAreYouWhatsappMessage": "איפה את/ה",
+  "regularWhatsappMessage": "הודעה רגילה",
+  "baseWhatsappMessageDetails": "היי CUSTOMER_NAME. בקשר לפגישה שלנו בתאריך DATE TREATMENT_NAME",
+  "delayTheMeetingWhatsappMessageDetails": "אני קצת עסוק/ה. תוכל/י להגיע באיחור של 20 דק׳?",
+  "earlyTheMeetingWhatsappMessageDetails": "תוכל/י להקדים ב20 דק׳?",
+  "changeTheMeetingWhatsappMessageDetails": "אכפת לך שנזיז את הפגישה שלנו?",
+  "whereAreYouWhatsappMessageDetails": "אני מחכה לך, האם את/ה בדרך?",
+  "regularWhatsappMessageDetails": "ללא טקסט מוכן מראש"
 }

@@ -1,51 +1,104 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_554",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-hfS(d){return new C.bvw(d,null)},
-bvw:function bvw(d,e){this.c=d
-this.a=e},
-dCp:function dCp(d){this.a=d},
-dCq:function dCq(d){this.a=d}},D,E,F
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,C={
+am2(d,e,f,g){return C.hHT(d,e,f,g)},
+hHT(d,e,f,g){var x=0,w=A.k(y.f),v,u
+var $async$am2=A.f(function(h,i){if(h===1)return A.h(i,w)
+while(true)switch(x){case 0:x=3
+return A.c(A.aW(d,A.aY("importCalendarAccountPage","")),$async$am2)
+case 3:if(i!==!0){new A.R(A.e("thereIsProblem",null,null,!0),B.n,B.o,B.p,d).E()
+v=null
+x=1
+break}x=$.a9?4:6
+break
+case 4:A.aF("importCalendarAccountPage")
+x=7
+return A.c(A.fq(null,D.fJk(e,f,g),d,null),$async$am2)
+case 7:u=i
+x=5
+break
+case 6:A.aF("importCalendarAccountPage")
+x=8
+return A.c(A.fM(D.fJk(e,f,g),d,null),$async$am2)
+case 8:u=i
+case 5:v=u
+x=1
+break
+case 1:return A.i(v,w)}})
+return A.j($async$am2,w)},
+axV(d){return C.hD4(d)},
+hD4(d){var x=0,w=A.k(y.f),v,u,t,s,r,q,p,o,n,m
+var $async$axV=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:p=$.aq()
+o=$.B()
+n=o.b.h(0,p.b.a)
+if(n==null){x=1
+break}m=J
+x=3
+return A.c(C.f10(),$async$axV)
+case 3:if(m.G(f,!1)){x=1
+break}p=$.Wp()
+u=$.ai().a.a
+t=n.c
+x=4
+return A.c(p.vK(!0,o.a.p2,d,u,t),$async$axV)
+case 4:s=f
+if(s==null||s.c==null){x=1
+break}r=n.r.gMo()
+u=r.b
+if(u.h(0,d)==null)u.i(0,d,A.o(y.g,y.m))
+u=r.b.h(0,d)
+u.toString
+t=s.c
+t.toString
+q=J.a6(u)
+if(q.h(u,t)==null)q.i(u,t,A.o(y.g,y.a))
+n.r=r
+A.br(B.ae)
+A.c4($.ka.n(),null)
+u=$.acY.n()
+t=s.c
+t.toString
+x=5
+return A.c(C.am2(u,t,!0,d),$async$axV)
+case 5:case 1:return A.i(v,w)}})
+return A.j($async$axV,w)},
+f10(){var x=0,w=A.k(y.e),v,u,t,s,r,q,p,o
+var $async$f10=A.f(function(d,e){if(d===1)return A.h(e,w)
+while(true)switch(x){case 0:q=$.aq()
+p=$.B()
+o=p.b.h(0,q.b.a)
+if(o==null){v=!1
+x=1
+break}u=p.a.xr.h(0,B.i0)
+if(u==null)u=0
+x=u<=o.r.gcKb()?3:4
+break
+case 3:x=A.kF(p.a)>=5?5:7
+break
+case 5:t=$.acY.n()
+s=A.e("cantAddMoreThanAccounts",null,null,!0)
+r=B.i.m(u)
+new A.R(A.a7(s,"AMOUNT",r),B.n,B.o,B.p,t).E()
+x=6
+break
+case 7:x=8
+return A.c(A.hI($.acY.n(),A.e("forAddingImportAccountNewCalendarNeedGolden",null,null,!1),!1,null,!0),$async$f10)
+case 8:case 6:v=!1
+x=1
+break
+case 4:v=!0
+x=1
+break
+case 1:return A.i(v,w)}})
+return A.j($async$f10,w)}}
+J=c[1]
 A=c[0]
 B=c[2]
-C=a.updateHolder(c[228],C)
-D=c[539]
-E=c[312]
-F=c[537]
-C.bvw.prototype={
-l(d){var x,w,v,u,t=null
-A.bL(d,!0,y.b)
-$.acX.b=d
-x=this.c
-w=x===F.lf
-v=A.e(w?"importToExternalCalendarsInfo":"exportToExternalCalendarsInfo",t,t,!1)
-u=$.B().gcZ().a
-v=A.jg(t,t,t,u>1,t,t,d,t,t,t,v,!1,t,!1,!0,!0,t,t,A.e(w?"importToExternalCalendars":"exportToExternalCalendars",t,t,!1),t,B.mi)
-u=$.ay().at
-x=E.fAr(x)
-return A.bV(t,A.cf(v,t,A.dV(u,A.a([A.ab(!0,B.m,t,x,t,t,t,t,0,A.e(w?"importCalendarsExplain":"exportCalendarsExplain",t,t,!0),!1,t,t,B.c,!1,t,t,!0,!0,t,t,t,t,t,t,0.55,t,t,t),this.bmE(d)],y.e),!0,B.au,t,t,!1),t,t,!1,t,23,!1,!0,t,!0,!0),B.B,!1,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,t,new C.dCp(d),t,t,t,t,t,t,t,!1,B.Z)},
-bmE(d){var x,w,v,u=null
-if(A.kF($.B().a)>4)return new A.m(u,u,u,u)
-x=A.e("goldenSubOnExportCalendars",u,u,!0)
-w=A.e("goldenSubOnExportCalendarsExplain",u,u,!0)
-v=$.eB().b.z.h(0,B.eC)
-v=v==null?u:v.h(0,B.i_)
-v=B.i.m(v==null?5:v)
-return A.ab(!0,B.m,u,B.y,u,u,A.aM(!1,!0,!1,B.c,B.d,u,!0,!0,!0,!1,u,!1,!0,!0,!1,!0,new C.dCq(d),!1,new A.w(15,10,15,10),u,5,u,u,!1,A.a7(w,"AMOUNT",v),!1,u,u,u,13,new A.M(D.b5C,new A.a5z(13,u),u),u,u,x,15,0,u),u,0,"",!1,u,u,B.c,!1,u,u,!0,!0,u,u,u,u,u,u,0.55,u,u,u)}}
+D=c[230]
+C=a.updateHolder(c[357],C)
 var z=a.updateTypes([])
-C.dCp.prototype={
-$0(){return A.cT(this.a)},
-$S:1}
-C.dCq.prototype={
-$0(){var x=null,w=A.e("goldenSubOnExportCalendarsExplain",x,x,!0),v=$.eB().b.z.h(0,B.eC)
-v=v==null?x:v.h(0,B.i_)
-v=B.i.m(v==null?5:v)
-return A.hI(this.a,A.a7(w,"AMOUNT",v),!1,x,!0)},
-$S:2};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(C.bvw,A.t)
-w(A.aQ,[C.dCp,C.dCq])})()
-A.aJ(b.typeUniverse,JSON.parse('{"bvw":{"t":[],"l":[]}}'))
-var y={e:A.v("K<l>"),b:A.v("hl")};(function constants(){D.b5C=new A.cQ(20,0,0,0)})()};
+var y={a:A.v("jn"),m:A.v("E<n,jn>"),g:A.v("n"),e:A.v("I"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_554",e:"endPart",h:b})})($__dart_deferred_initializers__,"wE/6ZCRcOB97k4xdZsIu09+GqfU=");
+a.eventLog.push({p:"main.dart.js_554",e:"endPart",h:b})})($__dart_deferred_initializers__,"UFYFbyZD4jEVJqWC8+lGtyWfQNA=");

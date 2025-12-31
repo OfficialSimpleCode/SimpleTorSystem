@@ -1,104 +1,109 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_553",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,B,D,C={
-am0(d,e,f,g){return C.hHN(d,e,f,g)},
-hHN(d,e,f,g){var x=0,w=A.k(y.f),v,u
-var $async$am0=A.f(function(h,i){if(h===1)return A.h(i,w)
-while(true)switch(x){case 0:x=3
-return A.c(A.aX(d,A.aY("importCalendarAccountPage","")),$async$am0)
-case 3:if(i!==!0){new A.R(A.e("thereIsProblem",null,null,!0),B.n,B.o,B.p,d).E()
-v=null
-x=1
-break}x=$.a9?4:6
-break
-case 4:A.aF("importCalendarAccountPage")
-x=7
-return A.c(A.fq(null,D.fJe(e,f,g),d,null),$async$am0)
-case 7:u=i
-x=5
-break
-case 6:A.aF("importCalendarAccountPage")
-x=8
-return A.c(A.fL(D.fJe(e,f,g),d,null),$async$am0)
-case 8:u=i
-case 5:v=u
-x=1
-break
-case 1:return A.i(v,w)}})
-return A.j($async$am0,w)},
-axT(d){return C.hCZ(d)},
-hCZ(d){var x=0,w=A.k(y.f),v,u,t,s,r,q,p,o,n,m
-var $async$axT=A.f(function(e,f){if(e===1)return A.h(f,w)
-while(true)switch(x){case 0:p=$.aq()
-o=$.B()
-n=o.b.h(0,p.b.a)
-if(n==null){x=1
-break}m=J
-x=3
-return A.c(C.f0V(),$async$axT)
-case 3:if(m.G(f,!1)){x=1
-break}p=$.Wo()
-u=$.ai().a.a
-t=n.c
-x=4
-return A.c(p.vJ(!0,o.a.p2,d,u,t),$async$axT)
-case 4:s=f
-if(s==null||s.c==null){x=1
-break}r=n.r.gMn()
-u=r.b
-if(u.h(0,d)==null)u.i(0,d,A.o(y.g,y.m))
-u=r.b.h(0,d)
-u.toString
-t=s.c
-t.toString
-q=J.a6(u)
-if(q.h(u,t)==null)q.i(u,t,A.o(y.g,y.a))
-n.r=r
-A.br(B.ae)
-A.c4($.ka.n(),null)
-u=$.acX.n()
-t=s.c
-t.toString
-x=5
-return A.c(C.am0(u,t,!0,d),$async$axT)
-case 5:case 1:return A.i(v,w)}})
-return A.j($async$axT,w)},
-f0V(){var x=0,w=A.k(y.e),v,u,t,s,r,q,p,o
-var $async$f0V=A.f(function(d,e){if(d===1)return A.h(e,w)
-while(true)switch(x){case 0:q=$.aq()
-p=$.B()
-o=p.b.h(0,q.b.a)
-if(o==null){v=!1
-x=1
-break}u=p.a.xr.h(0,B.i_)
-if(u==null)u=0
-x=u<=o.r.gcKc()?3:4
-break
-case 3:x=A.kF(p.a)>=5?5:7
-break
-case 5:t=$.acX.n()
-s=A.e("cantAddMoreThanAccounts",null,null,!0)
-r=B.i.m(u)
-new A.R(A.a7(s,"AMOUNT",r),B.n,B.o,B.p,t).E()
-x=6
-break
-case 7:x=8
-return A.c(A.hI($.acX.n(),A.e("forAddingImportAccountNewCalendarNeedGolden",null,null,!1),!1,null,!0),$async$f0V)
-case 8:case 6:v=!1
-x=1
-break
-case 4:v=!0
-x=1
-break
-case 1:return A.i(v,w)}})
-return A.j($async$f0V,w)}}
+$__dart_deferred_initializers__.current=function(a,b,c,$){var J,A,C,B={
+h6l(d,e){return new B.b9m(e,d,null)},
+b9m:function b9m(d,e,f){this.c=d
+this.d=e
+this.a=f},
+cBZ:function cBZ(d,e){this.a=d
+this.b=e},
+cBY:function cBY(d){this.a=d},
+cC_:function cC_(d,e,f){this.a=d
+this.b=e
+this.c=f},
+b3S:function b3S(d,e,f,g,h){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.a=h},
+cik:function cik(d,e){this.a=d
+this.b=e},
+cil:function cil(d){this.a=d}},D
 J=c[1]
 A=c[0]
-B=c[2]
-D=c[230]
-C=a.updateHolder(c[356],C)
+C=c[2]
+B=a.updateHolder(c[229],B)
+D=c[357]
+B.b9m.prototype={
+l(d){var x,w,v,u,t=null
+A.bK(d,!0,y.z)
+x=this.gS9()
+$.aK.y1$.push(new B.cBZ(x,d))
+w=x.length>5?$.aS.n()*0.7:1/0
+v=A.e("importAccountProvider",t,t,!0)
+u=A.e(this.c.b,t,t,!0)
+v=A.a([new A.m(t,10,t,t),A.x(A.a7(v,"PROVIDER",u),t,!1,!1,t,!1,!1,t,!1,!1,!1,!1,1,t,!1,!1,!1,16,t,t,!1,"")],y.u)
+C.b.U(v,x)
+v.push(this.c2W(d))
+v.push(new A.m(t,30,t,t))
+return new A.dS(new A.aT(0,1/0,0,w),A.dG(A.H(v,C.d,C.c,C.f),t,C.B,t,t,t,t,C.J),t)},
+c2W(d){var x=null,w=A.r(d),v=A.e("addAccountCalendar",x,x,!0),u=A.e(this.c.b,x,x,!0)
+return new A.cb(A.ab(!0,C.m,x,C.y,x,x,new A.ba(C.m,x,x,new A.M(C.iF,A.x(A.a7(v,"PROVIDER",u),C.r,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),x),x),w.ax.y,0,"",!1,x,x,C.c,!1,x,new A.w(20,30,20,0),!1,!0,x,x,x,x,x,x,0.55,x,x,x),new B.cBY(this),0.3,C.C,x)},
+gS9(){var x,w=y.u,v=A.a([],w),u=$.aq(),t=$.B().b.h(0,u.b.a)
+if(t==null)return A.a([],w)
+w=t.r
+x=this.c
+if(this.d){w=w.b.h(0,x)
+if(w==null)w=A.o(y.w,y.C)}else{w=w.a.h(0,x)
+if(w==null)w=A.o(y.w,y.t)}J.S(w,new B.cC_(this,v,t))
+return v}}
+B.b3S.prototype={
+l(d){var x,w,v,u=null,t=this.gS9(),s=A.r(d).ax,r=s.CW
+s=r==null?s.y:r
+r=A.r(d)
+x=A.r(d)
+w=t.a
+if(w===0)w=""
+else if(w===1)w=new A.aa(t,A.N(t).j("aa<2>")).gY(0).r
+else{w=A.e("countCalendars",u,u,!0)
+v=C.i.m(t.a)
+w=A.a7(w,"COUNT",v)}return A.ab(!0,C.m,u,C.y,u,u,A.aM(!1,!0,!1,C.c,C.d,u,!0,!0,!0,!1,u,!1,!0,!0,!1,!0,new B.cik(this,d),!0,new A.w(10,10,10,10),new A.dn(r.ax.y,new A.am(C.bY,24,!1,1,!1,!1,!1,x.ax.z,u),u,u,!0,u),10,u,u,!1,u,!1,u,u,u,13,A.U(A.a([new A.m(15,u,u,u),new A.dS(new A.aT(0,90,0,1/0),A.x(w,u,!1,!1,u,!1,!1,u,!1,!1,!1,!0,1,C.H,!1,!1,!1,14,u,u,!0,""),u),new A.m(5,u,u,u),A.eV(u,!1,!1,!1,!1,!0,0.7,20)],y.u),C.d,C.c,C.f,u),u,u,this.d,15,0,u),s,0,"",!1,u,u,C.c,!1,u,new A.w(0,16,0,0),!1,!0,u,u,u,u,u,u,0.55,u,u,u)},
+gS9(){var x=this,w=y.w,v=A.o(w,y.j),u=x.c,t=x.e.r
+if(x.f){u=t.b.h(0,u)
+u=u==null?null:J.Q(u,x.d)
+w=u==null?A.o(w,y.f):u}else{u=t.a.h(0,u)
+u=u==null?null:J.Q(u,x.d)
+w=u==null?A.o(w,y.x):u}J.S(w,new B.cil(v))
+return v},
+A(d){return this.cyj(d)},
+cyj(d){var x=0,w=A.k(y.v),v=this
+var $async$A=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:x=2
+return A.c(D.am2(d,v.d,v.f,v.c),$async$A)
+case 2:return A.i(null,w)}})
+return A.j($async$A,w)}}
 var z=a.updateTypes([])
-var y={a:A.v("jn"),m:A.v("E<n,jn>"),g:A.v("n"),e:A.v("I"),f:A.v("~")}};
+B.cBZ.prototype={
+$1(d){return this.bcd(d)},
+bcd(d){var x=0,w=A.k(y.v),v=this
+var $async$$1=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:if(v.a.length===0)A.P(v.b,!1).H(null)
+return A.i(null,w)}})
+return A.j($async$$1,w)},
+$S:18}
+B.cBY.prototype={
+$0(){return D.axV(this.a.c)},
+$S:2}
+B.cC_.prototype={
+$2(d,e){var x=this.a
+this.b.push(new B.b3S(x.c,d,this.c,x.d,null))},
+$S:2178}
+B.cik.prototype={
+$0(){return this.a.A(this.b)},
+$S:1}
+B.cil.prototype={
+$2(d,e){var x
+if(!(e instanceof A.jn&&e.ax))x=e instanceof A.k1&&e.Q
+else x=!0
+if(x)this.a.i(0,d,e)},
+$S:788};(function inheritance(){var x=a.inheritMany,w=a.inherit
+x(A.t,[B.b9m,B.b3S])
+w(B.cBZ,A.aU)
+x(A.aQ,[B.cBY,B.cik])
+x(A.bR,[B.cC_,B.cil])})()
+A.aJ(b.typeUniverse,JSON.parse('{"b9m":{"t":[],"l":[]},"b3S":{"t":[],"l":[]}}'))
+var y={j:A.v("lD"),x:A.v("k1"),f:A.v("jn"),u:A.v("K<l>"),t:A.v("E<n,k1>"),C:A.v("E<n,jn>"),w:A.v("n"),z:A.v("hk"),v:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_553",e:"endPart",h:b})})($__dart_deferred_initializers__,"x5F7G95Sl8u2maYvcQOUuNKZHLo=");
+a.eventLog.push({p:"main.dart.js_553",e:"endPart",h:b})})($__dart_deferred_initializers__,"vhzhACpeL9LfyXwJlf/q5WH0Oec=");

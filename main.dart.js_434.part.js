@@ -1,46 +1,39 @@
 ((a,b,c)=>{a[b]=a[b]||{}
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_434",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-heV(d,e,f,g,h,i,j){return new B.bsS(g,e,i,j,d,f,null)},
-bsS:function bsS(d,e,f,g,h,i,j){var _=this
-_.c=d
-_.d=e
-_.e=f
-_.f=g
-_.w=h
-_.x=i
-_.a=j},
-drt:function drt(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+hf2(){return new C.bt0(null)},
+bt0:function bt0(d){this.a=d},
+drP:function drP(d,e){this.a=d
 this.b=e}}
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[191],B)
-B.bsS.prototype={
-l(d){var x,w=null,v=A.x(A.e("noAvailableBusinessSubscription",w,w,!0),w,!1,!1,w,!1,!1,w,!1,!1,!0,!1,1,w,!1,!1,!1,20,w,w,!1,""),u=$.a8.n(),t=A.x(this.c,C.r,!1,!1,w,!1,!1,w,!1,!1,!0,!1,0.7,w,!1,!1,!1,16,w,w,!1,""),s=$.B().a.y2,r=$.b7().aN$.a.gbf()
-s=s.b.q(0,r)?1:0.6
-r=$.a8.n()
-x=A.r(d)
-return A.H(A.a([new A.m(w,10,w,w),v,new A.m(w,10,w,w),new A.m(u*0.7,w,t,w),new A.m(w,20,w,w),A.a4(C.m,w,w,w,A.x(this.d,w,!1,!1,w,!1,!1,w,!1,!0,!1,!1,1,w,!1,!1,!1,16,w,w,!1,""),C.j,x.ax.y,w,0,!1,w,w,w,new A.w(0,10,0,0),!1,new B.drt(this,d),s,new A.w(0,10,0,10),w,w,!1,!1,!1,r*0.6),new A.m(w,30,w,w)],y.e),C.d,C.c,C.f)},
-giI(){return this.w}}
-var z=a.updateTypes([])
-B.drt.prototype={
-$0(){var x=0,w=A.k(y.h),v,u=this,t,s
-var $async$$0=A.f(function(d,e){if(d===1)return A.h(e,w)
-while(true)switch(x){case 0:t=$.B().a.y2
-s=$.b7().aN$.a.gbf()
-if(!t.b.q(0,s)){x=1
-break}t=u.b
-A.P(t,!1).H(null)
-s=u.a
+B=c[2]
+C=a.updateHolder(c[192],C)
+C.bt0.prototype={
+l(d){var x=null,w=A.x(A.e("fromNowOnYouCanSendWhatsapp",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,20,x,x,!1,""),v=A.x(A.e("welcomeToGoldenSubscriptionNowYouCanSendWhatsappToYourClients",x,x,!0),B.r,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,14,x,x,!0,""),u=A.r(d)
+return A.H(A.a([new A.m(x,20,x,x),new A.cN("assets/animations/whatsapp.json.zip",100,100,B.al,x,x),new A.m(x,30,x,x),w,new A.M(B.bp,v,x),new A.cb(A.ab(!0,B.m,x,B.y,x,x,new A.M(B.ao,A.x(A.e("tryIt",x,x,!0),B.r,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,""),x),u.ax.y,0,"",!1,x,x,B.c,!1,x,new A.w(0,10,0,0),!0,!0,x,x,x,x,x,x,0.55,x,x,x),new C.drP(this,d),0.3,B.C,x),new A.m(x,30,x,x)],y.e),B.d,B.c,B.f)},
+x4(d){return this.cA8(d)},
+cA8(d){var x=0,w=A.k(y.f),v
+var $async$x4=A.f(function(e,f){if(e===1)return A.h(f,w)
+while(true)switch(x){case 0:A.P(d,!1).H(null)
+v=y.b
+x=2
+return A.c(A.c3(A.T(0,0,0,100,0,0),null,v),$async$x4)
+case 2:$.az().a3x()
+A.ayw(d)
 x=3
-return A.c(A.a1g(s.w,s.x,t,!1,!0,s.e,!0,s.f),$async$$0)
-case 3:case 1:return A.i(v,w)}})
-return A.j($async$$0,w)},
-$S:3};(function inheritance(){var x=a.inherit
-x(B.bsS,A.t)
-x(B.drt,A.aQ)})()
-A.aJ(b.typeUniverse,JSON.parse('{"bsS":{"t":[],"l":[]}}'))
-var y={e:A.v("K<l>"),h:A.v("aC")}};
+return A.c(A.c3(A.T(0,0,0,300,0,0),null,v),$async$x4)
+case 3:v=$.b4
+if(v!=null)new A.R(A.e("pressOnWhatsappButtonToStart",null,null,!0),A.T(0,0,0,0,0,3),B.o,B.d1,v).E()
+return A.i(null,w)}})
+return A.j($async$x4,w)}}
+var z=a.updateTypes([])
+C.drP.prototype={
+$0(){return this.a.x4(this.b)},
+$S:2};(function inheritance(){var x=a.inherit
+x(C.bt0,A.t)
+x(C.drP,A.aQ)})()
+A.aJ(b.typeUniverse,JSON.parse('{"bt0":{"t":[],"l":[]}}'))
+var y={e:A.v("K<l>"),b:A.v("@"),f:A.v("~")}};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_434",e:"endPart",h:b})})($__dart_deferred_initializers__,"1w3w953jHpeq1qpuUqh4Qp6UsAA=");
+a.eventLog.push({p:"main.dart.js_434",e:"endPart",h:b})})($__dart_deferred_initializers__,"yrR5edgpzzQGlTGNRp5TSeR1ImY=");

@@ -5756,5 +5756,18 @@
   "advancedQuestionnaireExplain": "Now you can create advanced questionnaires with multiple choice, open-ended, address, and time selection questions",
   "randomWorkerPickerExplain": "Customers can choose ״Anyone״ when selecting positions, so they don't have to choose a position. The system will choose the best queue for them",
   "advanceNotificationPanelExplain": "You can sort notification types and notifications by business in the redesigned notification panel",
-  "youSelectMoreThanAllowed": "You have selected more images than allowed (ALLOWED_AMOUNT) - we will continue with the first images"
+  "youSelectMoreThanAllowed": "You have selected more images than allowed (ALLOWED_AMOUNT) - we will continue with the first images",
+  "chooseMessage": "Choose Message",
+  "baseWhatsappMessage": "Base Message",
+  "delayTheMeetingWhatsappMessage": "Postpone Meeting",
+  "earlyTheMeetingWhatsappMessage": "Bring Up Meeting",
+  "changeTheMeetingWhatsappMessage": "Move Meeting",
+  "whereAreYouWhatsappMessage": "Where Are You",
+  "regularWhatsappMessage": "Regular Message",
+  "baseWhatsappMessageDetails": "Hi CUSTOMER_NAME. Regarding our meeting on DATE TREATMENT_NAME",
+  "delayTheMeetingWhatsappMessageDetails": "I'm a little busy. Can you be 20 minutes late?",
+  "earlyTheMeetingWhatsappMessageDetails": "Can you be 20 minutes early?",
+  "changeTheMeetingWhatsappMessageDetails": "Do you mind if we move our meeting?",
+  "whereAreYouWhatsappMessageDetails": "I'm waiting for you, are you on your way?",
+  "regularWhatsappMessageDetails": "No pre-prepared text"
 }
