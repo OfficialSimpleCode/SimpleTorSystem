@@ -1,14 +1,6 @@
-((a,b,c)=>{a[b]=a[b]||{}
-a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_299",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var B,A={
-hxk(d){var y=null
-if(d==="")return y
-if(d.length>1000)return B.e("toLong",y,y,!0)
-return y}}
-B=c[0]
-A=a.updateHolder(c[339],A)
-var z=a.updateTypes(["n?(n?)"]);(function installTearOffs(){var y=a._static_1
-y(A,"fXa","hxk",0)})()};
-((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_299",e:"endPart",h:b})})($__dart_deferred_initializers__,"Fgm3b4Oy9O5rzK+1tf1guZhHHuc=");
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+A=c[0]
+B=c[957]
+var z=a.updateTypes([]);(function constants(){B.Hf=new A.rl("full",0,"full")})()};
+(a=>{a["NC8Qb1Uaum0nk4HTMgGBGeQqIG4="]=a.current})($__dart_deferred_initializers__);

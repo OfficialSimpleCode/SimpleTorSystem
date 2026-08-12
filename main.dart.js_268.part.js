@@ -1,63 +1,46 @@
-((a,b,c)=>{a[b]=a[b]||{}
-a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_268",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={
-he0(){return new B.br4(null)},
-br4:function br4(d){this.a=d},
-dk3:function dk3(d,e){this.a=d
-this.b=e},
-dk4:function dk4(){},
-bsQ:function bsQ(d){this.a=d},
-drm:function drm(d){this.a=d},
-drl:function drl(){}}
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+k5a(){return new C.cot(null)},
+cot:function cot(d){this.a=d},
+fuk:function fuk(d){this.a=d},
+iRk(d){var x=0,w=A.m(y.f),v
+var $async$iRk=A.i(function(e,f){if(e===1)return A.j(f,w)
+for(;;)switch(x){case 0:v=A.e("exampleEmailSendSuccessfully",null,null,!0)
+x=2
+return A.c(A.aM("assets/animations/success_animation.json.zip",d,!1,B.O,$.dl().IQ(),v,null,null,!0,null,!1,!0,null,!0,B.T,!1).aj(),$async$iRk)
+case 2:return A.k(null,w)}})
+return A.l($async$iRk,w)}}
 A=c[0]
-C=c[2]
-B=a.updateHolder(c[67],B)
-B.br4.prototype={
-l(d){var x,w=null
-$.a7S.b=d
-x=new A.L(!1,$.a3(),y.l)
-this.m_(x)
-return A.cf(A.dL(w,w,w,w,w,!1,w,A.x(A.e("messageControl",w,w,!0),w,!1,!1,w,!1,!1,w,!1,!1,!1,!1,1,w,!1,!1,!1,16,w,w,!1,""),!0),w,new A.F(x,new B.dk3(this,x),w,w,y.m),w,w,!1,w,23,!1,!1,w,!0,!0)},
-m_(d){return this.crP(d)},
-crP(d){var x=0,w=A.k(y.f)
-var $async$m_=A.f(function(e,f){if(e===1)return A.h(f,w)
-while(true)switch(x){case 0:x=2
-return A.c($.dF().wP($.ai().a,!0),$async$m_)
-case 2:d.sk(0,!0)
-d.v()
-return A.i(null,w)}})
-return A.j($async$m_,w)},
-c7c(){return new A.F($.c5().z,new B.dk4(),null,null,y.a)}}
-B.bsQ.prototype={
-l(d){var x=null,w=Math.min($.fl(),500),v=A.r(d)
-return A.ab(!0,C.m,x,C.y,x,x,A.bX(new A.bT(C.an,x,C.a4,C.K,A.a([new A.M(C.KB,new A.F($.c5().z,new B.drl(),x,x,y.a),x)],y.e),x),x,!1,!1,!1,new B.drm(d),10),v.ax.k2,0,"",!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,w)}}
+B=c[2]
+C=a.updateHolder(c[296],C)
+C.cot.prototype={
+l(d){var x,w,v,u,t,s,r=null
+A.c0(d,!0,y.n)
+x=$.b4().as
+if(x==null)w=r
+else{x=x.rx
+x=x==null?r:B.m.aA(x)
+w=x}if(w==null)w=""
+x=$.ag?$.fm.n():r
+v=y.e
+u=A.H(A.b([A.iq(A.e("sendExampleEmailUsesBusinessEmail",r,r,!0),B.B,!1,r,!1,r,!1,!0,!1,1,r,!1,16,r,!1),new A.n(r,8,r,r),A.iq(A.e("sendExampleEmailUsesBusinessEmailSubtitle",r,r,!0),B.B,!1,r,!1,r,!1,!0,!1,0.85,r,!1,14,r,!1)],v),B.f,r,B.c,B.i,r,B.o)
+t=A.p(d).ax
+s=t.CW
+t=s==null?t.y:s
+t=A.a2(!0,B.q,r,r,B.H,r,r,new A.D(B.Lx,A.H(A.b([A.iq(A.e("email",r,r,!0),B.aR,!1,r,!1,r,!1,!1,!0,0.7,r,!1,13,r,!1),new A.n(r,4,r,r),A.iq(w,B.aR,!1,r,!1,r,!1,!1,!0,1,r,!1,15,r,!1)],v),B.bR,r,B.c,B.i,r,B.o),r),t,0,"",!1,r,r,B.c,!1,r,r,!1,!0,r,r,r,r,!1,r,r,0.55,r,r,r)
+s=A.p(d)
+return new A.n(x,r,A.H(A.b([new A.n(r,10,r,r),new A.D(B.dO,u,r),new A.n(r,16,r,r),new A.bh(new A.D(B.dO,t,r),!0,!0,r,B.c,r),new A.D(B.dO,new A.cn(A.a2(!0,B.q,r,r,B.H,r,r,new A.D(new A.z(15,10,15,10),A.R(A.b([new A.ae(B.nF,22,!1,1,!0,!1,!1,r,r),new A.n(5,r,r,r),A.iq(A.e("sendEmail",r,r,!0),r,!1,r,!1,r,!0,!1,!1,1,r,!1,14,r,!1)],v),B.f,r,B.Q,B.P,0,r,r),r),s.ax.y,0,"",!1,r,r,B.c,!1,r,r,!0,!0,r,r,r,r,!1,r,r,0.55,r,r,r),new C.fuk(d),0.3,B.L,r),r),new A.n(r,30,r,r)],v),B.f,r,B.c,B.i,r,B.o),r)}}
 var z=a.updateTypes([])
-B.dk3.prototype={
-$3(d,e,f){var x=null
-return!this.b.a?new A.nZ(x):A.dV(!1,A.a([A.ab(!0,C.m,x,$.fET(),x,x,x,x,0,A.e("regularMessageCounterExplain",x,x,!0),!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x),A.ab(!0,C.m,x,$.fEe(),x,x,x,x,0,A.e("consumableMessageCounterExplain",x,x,!0),!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x),this.a.c7c()],y.e),!0,C.au,x,x,!1)},
-$S:226}
-B.dk4.prototype={
-$3(d,e,f){var x=null,w=$.c5().z.a
-if(w.a+w.c>10)return A.ab(!0,C.m,x,$.fE4(),x,x,x,x,0,"",!1,x,x,C.c,!1,x,x,!0,!0,x,x,x,x,x,x,0.55,x,x,x)
-return new B.bsQ(x)},
-$S:2256}
-B.drm.prototype={
-$0(){var x=0,w=A.k(y.f),v=this
-var $async$$0=A.f(function(d,e){if(d===1)return A.h(e,w)
-while(true)switch(x){case 0:x=2
-return A.c(A.a42("assets/animations/notification.json.zip",v.a,A.e("buyMessagesExplain",null,null,!0),A.e("buyMessages",null,null,!0),C.iD),$async$$0)
-case 2:return A.i(null,w)}})
-return A.j($async$$0,w)},
-$S:2}
-B.drl.prototype={
-$3(d,e,f){var x=null,w=$.c5().z.a,v=y.e
-return A.U(A.a([new A.cN("assets/animations/attention.json.zip",40,40,x,x,x),new A.m(10,x,x,x),A.aL(A.H(A.a([A.x(A.e(w.a+w.c<=0?"messageCountEnd":"messageCountNearToEnd",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,1,x,!1,!1,!1,15,x,x,!1,""),A.x(A.e("messageCountNearToEndExplain",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!1,!1,0.7,x,!1,!1,!1,12,x,x,!1,"")],v),C.a6,C.c,C.f),1),new A.m(20,x,x,x),C.bT],v),C.d,C.c,C.f,x)},
-$S:2257};(function inheritance(){var x=a.inheritMany,w=a.inherit
-x(A.t,[B.br4,B.bsQ])
-x(A.aU,[B.dk3,B.dk4,B.drl])
-w(B.drm,A.aQ)})()
-A.aJ(b.typeUniverse,JSON.parse('{"br4":{"t":[],"l":[]},"bsQ":{"t":[],"l":[]}}'))
-var y={e:A.v("K<l>"),a:A.v("F<kd>"),m:A.v("F<I>"),l:A.v("L<I>"),f:A.v("~")}};
-((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_268",e:"endPart",h:b})})($__dart_deferred_initializers__,"eKtffMytA8zcxDds0R+4MEX5nUM=");
+C.fuk.prototype={
+$0(){var x=0,w=A.m(y.p),v=this
+var $async$$0=A.i(function(d,e){if(d===1)return A.j(e,w)
+for(;;)switch(x){case 0:x=2
+return A.c(C.iRk(v.a),$async$$0)
+case 2:return A.k(null,w)}})
+return A.l($async$$0,w)},
+$S:3};(function inheritance(){var x=a.inherit
+x(C.cot,A.r)
+x(C.fuk,A.aK)})()
+A.aw(b.typeUniverse,JSON.parse('{"cot":{"r":[],"h":[]}}'))
+var y={n:A.t("mM"),e:A.t("C<h>"),p:A.t("aQ"),f:A.t("~")}};
+(a=>{a["yadW0sMIA+yOEUFrpYCTChxnF24="]=a.current})($__dart_deferred_initializers__);

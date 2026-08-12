@@ -1,57 +1,37 @@
-((a,b,c)=>{a[b]=a[b]||{}
-a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_347",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,D,C={
-adi(d,e,f,g){return C.hHj(d,e,f,g)},
-hHj(d,e,f,g){var x=0,w=A.k(y.b),v,u,t
-var $async$adi=A.f(function(h,i){if(h===1)return A.h(i,w)
-while(true)switch(x){case 0:u=$.B().a
-t=u.ry
-if(t.c||t.b){A.n9(d)
-v=null
-x=1
-break}x=A.nH()?3:4
-break
-case 3:x=5
-return A.c(A.lV(d),$async$adi)
-case 5:v=null
-x=1
-break
-case 4:x=!A.abF(u,B.c9)?6:7
-break
-case 6:x=8
-return A.c(A.hI(d,null,!1,B.ek,!0),$async$adi)
-case 8:x=1
-break
-case 7:x=12
-return A.c(A.aX(d,A.aY("customerBalancePage","")),$async$adi)
-case 12:x=i===!0?9:11
-break
-case 9:x=!$.a9?13:15
-break
-case 13:A.aF("customerBalancePage")
-x=16
-return A.c(A.fL(D.fI4(e,f,g),d,null),$async$adi)
-case 16:u=i
-x=14
-break
-case 15:A.aF("customerBalancePage")
-x=17
-return A.c(A.fq(null,D.fI4(e,f,g),d,null),$async$adi)
-case 17:u=i
-case 14:v=u
-x=1
-break
-x=10
-break
-case 11:new A.R(A.e("thereIsProblem",null,null,!0),B.n,B.o,B.p,d).E()
-case 10:case 1:return A.i(v,w)}})
-return A.j($async$adi,w)}}
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B={
+iz0(d){var x,w,v,u,t,s,r=null,q="dd-MM-yyyy",p=A.a0(A.df(new A.T(Date.now(),0,!1)),A.dK(new A.T(Date.now(),0,!1)),A.eT(new A.T(Date.now(),0,!1)),23,59,59,0,0),o=Date.now()
+o=A.fi(A.J(q,r).ah(A.J(q,r).C(new A.T(o,0,!1)),!1,!1),A.a6(7,0,0,0,0,0))
+A.a0(0,1,1,0,0,0,0,0)
+A.a0(0,1,1,0,0,0,0,0)
+A.a5j()
+x=A.a0(A.df(new A.T(Date.now(),0,!1)),A.dK(new A.T(Date.now(),0,!1)),A.eT(new A.T(Date.now(),0,!1)),23,59,59,0,0)
+w=Date.now()
+w=A.fi(A.J(q,r).ah(A.J(q,r).C(new A.T(w,0,!1)),!1,!1),A.a6(30,0,0,0,0,0))
+A.a0(0,1,1,0,0,0,0,0)
+A.a0(0,1,1,0,0,0,0,0)
+A.a5j()
+v=A.a0(A.df(new A.T(Date.now(),0,!1)),A.dK(new A.T(Date.now(),0,!1)),A.eT(new A.T(Date.now(),0,!1)),23,59,59,0,0)
+u=Date.now()
+u=A.fB(A.J(q,r).ah(A.J(q,r).C(new A.T(u,0,!1)),!1,!1)).uU(0,-1)
+u.a===$&&A.a()
+u=u.w
+u===$&&A.a()
+u=A.ej(u,r,r,r,r,r,r,r,r,r)
+A.a0(0,1,1,0,0,0,0,0)
+A.a0(0,1,1,0,0,0,0,0)
+A.a5j()
+t=$.B().a.W
+s=$.b3().aL$.a.gb9()
+t=t.b.p(0,s)?"fromBeginOfBusiness":"fromBeginOfWorker"
+s=Date.now()
+s=A.J(q,r).ah(A.J(q,r).C(new A.T(s,0,!1)),!1,!1)
+A.a0(0,1,1,0,0,0,0,0)
+A.a0(0,1,1,0,0,0,0,0)
+A.a5j()
+return A.b([new A.u9("last7Days",new A.d0(o,p,r),!0,r),new A.u9("last30Days",new A.d0(w,x,r),!0,r),new A.u9("lastYear",new A.d0(u,v,r),!0,r),new A.u9(t,new A.d0(d,s,r),!0,r)],y.d)}}
 A=c[0]
-B=c[2]
-D=c[240]
-C=a.updateHolder(c[368],C)
+B=a.updateHolder(c[569],B)
 var z=a.updateTypes([])
-var y={b:A.v("@")}};
-((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_347",e:"endPart",h:b})})($__dart_deferred_initializers__,"elo0AEEXGc9dzKqSP6/hoCcARUQ=");
+var y={d:A.t("C<u9>")}};
+(a=>{a["bFTTT2A7MH+T23oFSfzqJG8LG1A="]=a.current})($__dart_deferred_initializers__);

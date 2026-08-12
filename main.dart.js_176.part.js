@@ -1,9 +1,11 @@
-((a,b,c)=>{a[b]=a[b]||{}
-a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_176",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
+jCy(d){if(A.jxD())return!0
+if(A.jz9()){A.jba(B.Ho,null)
+return!1}new A.S(A.e("simpleInvoiceEmailVerifyNoPermission",null,null,!0),B.t,B.fv,B.az,d).A()
+return!1}}
 A=c[0]
-B=c[453]
-var z=a.updateTypes([]);(function constants(){B.Zp=new A.at(984435,"MaterialIcons",null,!1)})()};
-((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_176",e:"endPart",h:b})})($__dart_deferred_initializers__,"T9y8eu3ZAF8bM5lIH62qijGjRpk=");
+B=c[2]
+C=a.updateHolder(c[437],C)
+var z=a.updateTypes([])};
+(a=>{a["6/ObQLbEK6INFsddoOVmRrMMHmM="]=a.current})($__dart_deferred_initializers__);

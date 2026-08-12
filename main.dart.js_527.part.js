@@ -1,31 +1,46 @@
-((a,b,c)=>{a[b]=a[b]||{}
-a[b][c]=a[b][c]||[]
-a[b][c].push({p:"main.dart.js_527",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C={
-h7A(){return new C.bbt(null)},
-bbt:function bbt(d){this.a=d},
-cGx:function cGx(d){this.a=d},
-cGw:function cGw(d){this.a=d}}
+((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,D,B={
+k_o(d,e){return new B.ccg(e,d,null)},
+ccg:function ccg(d,e,f){this.c=d
+this.d=e
+this.a=f},
+eTy:function eTy(){},
+eTx:function eTx(d){this.a=d},
+eTz:function eTz(d){this.a=d},
+eTA:function eTA(d,e){this.a=d
+this.b=e}},E
 A=c[0]
-B=c[2]
-C=a.updateHolder(c[100],C)
-C.bbt.prototype={
-l(d){var x=null,w=$.a9?$.h5.n():x,v=A.x(A.e("simpleTorAvilibleInComputer",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,20,x,x,!1,""),u=$.a9?$.aS.n()*0.3:x,t=$.a8.n(),s=$.a9?$.h5.n():$.a8.n(),r=A.x(A.e("simpleTorAvilibleInComputerExplain",x,x,!0),B.r,!1,!1,x,!1,!1,x,!1,!1,!0,!1,0.7,x,!1,!1,!1,14,x,x,!1,""),q=$.a9?$.h5.n():$.a8.n(),p=A.r(d),o=y.e
-q=A.a4(B.m,x,x,x,A.cU(B.m,A.U(A.a([new A.am(B.lj,24,!1,1,!0,!1,!1,x,x),new A.m(10,x,x,x),A.x(A.e("tapToCopyTheLink",x,x,!0),x,!1,!1,x,!1,!1,x,!1,!0,!1,!1,1,x,!1,!1,!1,16,x,x,!1,"")],o),B.d,B.c,B.f,x),B.j,B.ab),B.j,p.ax.y,x,0,!1,x,x,x,x,!1,new C.cGx(d),x,new A.w(0,10,0,10),x,x,!1,!1,!1,q*0.6)
-p=$.a9?0:30
-return A.aw(x,A.H(A.a([new A.m(x,10,x,x),v,new A.cN("assets/animations/new_user.json.zip",t*0.7,u,B.al,x,x),new A.m(s*0.8,x,r,x),new A.m(x,30,x,x),q,new A.m(x,p,x,x)],o),B.d,B.c,B.f),B.j,x,x,x,x,x,x,x,x,x,x,w)}}
+C=c[2]
+D=c[676]
+B=a.updateHolder(c[136],B)
+E=c[723]
+B.ccg.prototype={
+l(d){var x=null
+return new A.e2(new A.b_(0,1/0,0,$.b8.n()*0.7),A.H(A.b([new A.n(x,10,x,x),D.eb(!1,x,C.f,A.u(A.e("theBusinessesSubscriptions",x,x,!0),x,!1,!1,x,!1,x,!1,x,!1,!1,!0,!1,1,x,!1,!1,!1,16,x,x,!1,""),new B.eTx(d),new B.eTy(),!0,!0,!0,!1,x),new A.n(x,20,x,x),A.aq(new A.w(this.c,new B.eTz(this),x,x,y.h),1)],y.e),C.f,x,C.c,C.i,x,C.o),x)},
+gaTo(){var x=A.b([],y.e)
+this.c.a.as.v(0,new B.eTA(this,x))
+return x}}
 var z=a.updateTypes([])
-C.cGx.prototype={
-$0(){var x=$.B().a,w=x.ch
-A.pm(new A.nQ("https://system.simpletor.app/business/"+(w==null?x.p2:w))).M(0,new C.cGw(this.a),y.f)},
-$S:4}
-C.cGw.prototype={
-$1(d){return A.XV(this.a)},
-$S:78};(function inheritance(){var x=a.inherit
-x(C.bbt,A.t)
-x(C.cGx,A.aQ)
-x(C.cGw,A.aU)})()
-A.aJ(b.typeUniverse,JSON.parse('{"bbt":{"t":[],"l":[]}}'))
-var y={e:A.v("K<l>"),f:A.v("~")}};
-((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_527",e:"endPart",h:b})})($__dart_deferred_initializers__,"19d93oE/2AXjZZaesjZCUxkoptE=");
+B.eTy.prototype={
+$0(){},
+$S:6}
+B.eTx.prototype={
+$0(){A.Q(this.a,!1).H(null)
+return null},
+$S:0}
+B.eTz.prototype={
+$3(d,e,f){var x=null
+return A.dR(A.H(this.a.gaTo(),C.f,x,C.c,C.i,x,C.o),x,C.M,x,E.Ee,x,x,C.R)},
+$S:2900}
+B.eTA.prototype={
+$2(d,e){var x=this.b,w=this.a,v=$.ar().a.z.h(0,e.a)
+v=v==null?null:v.a
+x.push(A.j4Z(w.d,!1,!0,w.c,e,v,x.length!==0))},
+$S:830};(function inheritance(){var x=a.inherit,w=a.inheritMany
+x(B.ccg,A.r)
+w(A.aK,[B.eTy,B.eTx])
+x(B.eTz,A.aJ)
+x(B.eTA,A.bN)})()
+A.aw(b.typeUniverse,JSON.parse('{"ccg":{"r":[],"h":[]}}'))
+var y={e:A.t("C<h>"),h:A.t("w<Y8>")}};
+(a=>{a["aq+0/2mktYZ47xc6lAjc4k2+nWY="]=a.current})($__dart_deferred_initializers__);
